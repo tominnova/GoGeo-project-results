@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Jeżeli korzystasz z materiałów tego repozytorium, zacytuj projekt GoGeo."
+title: "Publiczne repozytorium wyników projektu GoGeo"
+type: dataset
+authors:
+  - family-names: "Radomski"
+    given-names: "Tomasz"
+publisher: "Innovatronica Sp. z o.o."
+license: "CC-BY-4.0"
