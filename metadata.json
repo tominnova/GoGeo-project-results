@@ -1,0 +1,65 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "GoGeo Project Research Results and GNSS Research Data",
+  "alternateName": "Wyniki badań i dane badawcze projektu GoGeo",
+  "description": "Publicly available research results and selected raw and processed research data generated within the GoGeo project concerning a reconfigurable, multi-frequency and multi-system GNSS receiver for GPS and Galileo.",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Project number",
+      "value": "POIR.01.01.01-00-2093/20"
+    }
+  ],
+  "url": "https://github.com/tominnova/GoGeo-project-results",
+  "version": "1.0",
+  "inLanguage": [
+    "pl",
+    "en"
+  ],
+  "keywords": [
+    "GNSS",
+    "GPS",
+    "Galileo",
+    "multi-frequency GNSS",
+    "multi-system GNSS",
+    "precise positioning",
+    "satellite navigation",
+    "FPGA",
+    "research data",
+    "GoGeo"
+  ],
+  "creator": [
+    {
+      "@type": "Person",
+      "name": "Tomasz Radomski"
+    },
+    {
+      "@type": "Organization",
+      "name": "Innovatronica Sp. z o.o."
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Innovatronica Sp. z o.o."
+  },
+  "funder": {
+    "@type": "Organization",
+    "name": "Narodowe Centrum Badań i Rozwoju"
+  },
+  "isPartOf": {
+    "@type": "ResearchProject",
+    "name": "Rekonfigurowalny, wieloczęstotliwościowy i multisystemowy precyzyjny odbiornik nawigacji satelitarnej GoGeo systemów GPS/Galileo",
+    "identifier": "POIR.01.01.01-00-2093/20"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "conditionsOfAccess": "Public access without fee or login requirement.",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "Public GitHub repository",
+      "contentUrl": "https://github.com/tominnova/GoGeo-project-results",
+      "encodingFormat": "text/html"
+    }
+  ]
+}
