@@ -1,0 +1,3 @@
+#!/bin/sh
+
+~/goGeo/rtklib/RTKLIB/app/qx2rtkp/build/qx2rtkp brdc0760.23n track.bo 32 meas.ppp.sky.conf | tee rtkp.log
