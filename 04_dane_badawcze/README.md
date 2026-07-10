@@ -12,21 +12,4 @@ Pliki pochodzące bezpośrednio z pomiarów lub rejestracji.
 
 Pliki przygotowane na podstawie danych surowych, np. zestawienia, statystyki i wyniki obliczeń.
 
-## Wymagany opis każdego zbioru
 
-Każdy zestaw danych powinien zawierać:
-
-- nazwę badania,
-- datę,
-- opis warunków,
-- opis formatu,
-- opis kolumn,
-- jednostki,
-- sposób przetwarzania,
-- powiązanie z raportem lub wynikiem badania.
-
-## Zalecane formaty
-
-CSV, TXT, JSON, PDF.
-
-Formaty zamknięte powinny być stosowane tylko dodatkowo.
