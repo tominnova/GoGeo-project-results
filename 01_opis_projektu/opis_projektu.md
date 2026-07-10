@@ -2,7 +2,8 @@
 
 ## 1. Przedmiot projektu
 
-Celem projektu było opracowanie rekonfigurowalnego, wieloczęstotliwościowego i multisystemowego odbiornika nawigacji satelitarnej przeznaczonego do odbioru sygnałów systemów GPS i Galileo.
+Celem projektu było opracowanie rekonfigurowalnego, wieloczęstotliwościowego i multisystemowego odbiornika nawigacji satelitarnej przeznaczonego do odbioru sygnałów systemów GPS i Galileo
+opartego o układ programowalny FPGA.
 
 ## 2. Założenia badawcze
 
