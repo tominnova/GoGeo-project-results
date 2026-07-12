@@ -1,0 +1,297 @@
+qx2rtkp2 (RTKLIB 2.4.2)
+
+QX_VERSION            = 1
+EPH_REFRESH_OFF       = 0
+DECYM                 = 0
+MAX_PHASE             = 0
+DBG_CAR_CLK_ERR_COR   = 0
+DBG_RNG_CLK_ERR_COR   = 0
+READING BRDC :
+  brdc3540.14n
+READING .qx  :
+  track.bo
+chan_num = 32
+isGalileo = 0
+*** filtered biases file not found or open error (track.bo_preBias.csv-ft.csv)
+Out files:
+  track.bo_ch00.csv
+  track.bo_ch01.csv
+  track.bo_ch02.csv
+  track.bo_ch03.csv
+  track.bo_ch04.csv
+  track.bo_ch05.csv
+  track.bo_ch06.csv
+  track.bo_ch07.csv
+  track.bo_ch08.csv
+  track.bo_ch09.csv
+  track.bo_ch10.csv
+  track.bo_ch11.csv
+  track.bo_ch12.csv
+  track.bo_ch13.csv
+  track.bo_ch14.csv
+  track.bo_ch15.csv
+  track.bo_ch16.csv
+  track.bo_ch17.csv
+  track.bo_ch18.csv
+  track.bo_ch19.csv
+  track.bo_ch20.csv
+  track.bo_ch21.csv
+  track.bo_ch22.csv
+  track.bo_ch23.csv
+  track.bo_ch24.csv
+  track.bo_ch25.csv
+  track.bo_ch26.csv
+  track.bo_ch27.csv
+  track.bo_ch28.csv
+  track.bo_ch29.csv
+  track.bo_ch30.csv
+  track.bo_ch31.csv
+--
+reading files ...
+IONO: 2.887e-08 2.235e-08 -1.192e-07 5.96e-08 153600 -196600 -65540 393200 
+-- 518420 rst carr sat 12
+point pos error (lack of valid sats ns=4)
+TOW: 518419.654 tm: 2014/12/20 00:00:19.654 
+point pos error (lack of valid sats ns=4)
+point pos error (lack of valid sats ns=4)
+point pos error (lack of valid sats ns=4)
+point pos error (lack of valid sats ns=4)
+point pos error (lack of valid sats ns=4)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 518430.654 tm: 2014/12/20 00:00:30.654 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 518441.654 tm: 2014/12/20 00:00:41.654 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 518452.654 tm: 2014/12/20 00:00:52.654 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 518463.654 tm: 2014/12/20 00:01:03.654 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 518474.654 tm: 2014/12/20 00:01:14.654 
+TOW: 518485.654 tm: 2014/12/20 00:01:25.654 
+TOW: 518496.654 tm: 2014/12/20 00:01:36.654 
+TOW: 518507.654 tm: 2014/12/20 00:01:47.654 
+TOW: 518518.654 tm: 2014/12/20 00:01:58.654 
+TOW: 518529.654 tm: 2014/12/20 00:02:09.654 
+TOW: 518540.654 tm: 2014/12/20 00:02:20.654 
+TOW: 518551.654 tm: 2014/12/20 00:02:31.654 
+TOW: 518562.654 tm: 2014/12/20 00:02:42.654 
+TOW: 518573.654 tm: 2014/12/20 00:02:53.654 
+TOW: 518584.654 tm: 2014/12/20 00:03:04.654 
+TOW: 518595.654 tm: 2014/12/20 00:03:15.654 
+TOW: 518606.654 tm: 2014/12/20 00:03:26.654 
+TOW: 518617.654 tm: 2014/12/20 00:03:37.654 
+TOW: 518628.654 tm: 2014/12/20 00:03:48.654 
+TOW: 518639.654 tm: 2014/12/20 00:03:59.654 
+TOW: 518650.654 tm: 2014/12/20 00:04:10.654 
+TOW: 518661.654 tm: 2014/12/20 00:04:21.654 
+TOW: 518672.654 tm: 2014/12/20 00:04:32.654 
+TOW: 518683.654 tm: 2014/12/20 00:04:43.654 
+TOW: 518694.654 tm: 2014/12/20 00:04:54.654 
+TOW: 518705.654 tm: 2014/12/20 00:05:05.654 
+TOW: 518716.654 tm: 2014/12/20 00:05:16.654 
+TOW: 518727.654 tm: 2014/12/20 00:05:27.654 
+TOW: 518738.654 tm: 2014/12/20 00:05:38.654 
+TOW: 518749.654 tm: 2014/12/20 00:05:49.654 
+TOW: 518760.654 tm: 2014/12/20 00:06:00.654 
+TOW: 518771.654 tm: 2014/12/20 00:06:11.654 
+TOW: 518782.654 tm: 2014/12/20 00:06:22.654 
+TOW: 518793.654 tm: 2014/12/20 00:06:33.654 
+TOW: 518804.654 tm: 2014/12/20 00:06:44.654 
+TOW: 518815.654 tm: 2014/12/20 00:06:55.654 
+TOW: 518826.654 tm: 2014/12/20 00:07:06.654 
+TOW: 518837.654 tm: 2014/12/20 00:07:17.654 
+TOW: 518848.654 tm: 2014/12/20 00:07:28.654 
+TOW: 518859.654 tm: 2014/12/20 00:07:39.654 
+TOW: 518870.654 tm: 2014/12/20 00:07:50.654 
+TOW: 518881.654 tm: 2014/12/20 00:08:01.654 
+TOW: 518892.654 tm: 2014/12/20 00:08:12.654 
+TOW: 518903.654 tm: 2014/12/20 00:08:23.654 
+TOW: 518914.654 tm: 2014/12/20 00:08:34.654 
+TOW: 518925.654 tm: 2014/12/20 00:08:45.654 
+TOW: 518936.654 tm: 2014/12/20 00:08:56.654 
+TOW: 518947.654 tm: 2014/12/20 00:09:07.654 
+TOW: 518958.654 tm: 2014/12/20 00:09:18.654 
+TOW: 518969.654 tm: 2014/12/20 00:09:29.654 
+TOW: 518980.654 tm: 2014/12/20 00:09:40.654 
+TOW: 518991.654 tm: 2014/12/20 00:09:51.654 
+TOW: 519002.654 tm: 2014/12/20 00:10:02.654 
+TOW: 519013.654 tm: 2014/12/20 00:10:13.654 
+TOW: 519024.654 tm: 2014/12/20 00:10:24.654 
+TOW: 519035.654 tm: 2014/12/20 00:10:35.654 
+TOW: 519046.654 tm: 2014/12/20 00:10:46.654 
+TOW: 519057.654 tm: 2014/12/20 00:10:57.654 
+TOW: 519068.654 tm: 2014/12/20 00:11:08.654 
+TOW: 519079.654 tm: 2014/12/20 00:11:19.654 
+TOW: 519090.654 tm: 2014/12/20 00:11:30.654 
+TOW: 519101.654 tm: 2014/12/20 00:11:41.654 
+TOW: 519112.654 tm: 2014/12/20 00:11:52.654 
+TOW: 519123.654 tm: 2014/12/20 00:12:03.654 
+TOW: 519134.654 tm: 2014/12/20 00:12:14.654 
+TOW: 519145.654 tm: 2014/12/20 00:12:25.654 
+TOW: 519156.654 tm: 2014/12/20 00:12:36.654 
+TOW: 519167.654 tm: 2014/12/20 00:12:47.654 
+TOW: 519178.654 tm: 2014/12/20 00:12:58.654 
+TOW: 519189.654 tm: 2014/12/20 00:13:09.654 
+TOW: 519200.654 tm: 2014/12/20 00:13:20.654 
+TOW: 519211.654 tm: 2014/12/20 00:13:31.654 
+TOW: 519222.654 tm: 2014/12/20 00:13:42.654 
+TOW: 519233.654 tm: 2014/12/20 00:13:53.654 
+TOW: 519244.654 tm: 2014/12/20 00:14:04.654 
+TOW: 519255.654 tm: 2014/12/20 00:14:15.654 
+TOW: 519266.654 tm: 2014/12/20 00:14:26.654 
+TOW: 519277.654 tm: 2014/12/20 00:14:37.654 
+TOW: 519288.654 tm: 2014/12/20 00:14:48.654 
+TOW: 519299.654 tm: 2014/12/20 00:14:59.654 
+TOW: 519310.654 tm: 2014/12/20 00:15:10.654 
+TOW: 519321.654 tm: 2014/12/20 00:15:21.654 
+TOW: 519332.654 tm: 2014/12/20 00:15:32.654 
+TOW: 519343.654 tm: 2014/12/20 00:15:43.654 
+TOW: 519354.654 tm: 2014/12/20 00:15:54.654 
+TOW: 519365.654 tm: 2014/12/20 00:16:05.654 
+TOW: 519376.654 tm: 2014/12/20 00:16:16.654 
+TOW: 519387.654 tm: 2014/12/20 00:16:27.654 
+TOW: 519398.654 tm: 2014/12/20 00:16:38.654 
+TOW: 519409.654 tm: 2014/12/20 00:16:49.654 
+TOW: 519420.654 tm: 2014/12/20 00:17:00.654 
+TOW: 519431.654 tm: 2014/12/20 00:17:11.654 
+TOW: 519442.654 tm: 2014/12/20 00:17:22.654 
+TOW: 519453.654 tm: 2014/12/20 00:17:33.654 
+TOW: 519464.654 tm: 2014/12/20 00:17:44.654 
+TOW: 519475.654 tm: 2014/12/20 00:17:55.654 
+TOW: 519486.654 tm: 2014/12/20 00:18:06.654 
+TOW: 519497.654 tm: 2014/12/20 00:18:17.654 
+TOW: 519508.654 tm: 2014/12/20 00:18:28.654 
+TOW: 519519.654 tm: 2014/12/20 00:18:39.654 
+TOW: 519530.654 tm: 2014/12/20 00:18:50.654 
+TOW: 519541.654 tm: 2014/12/20 00:19:01.654 
+TOW: 519552.654 tm: 2014/12/20 00:19:12.654 
+TOW: 519563.654 tm: 2014/12/20 00:19:23.654 
+TOW: 519574.654 tm: 2014/12/20 00:19:34.654 
+TOW: 519585.654 tm: 2014/12/20 00:19:45.654 
+TOW: 519596.654 tm: 2014/12/20 00:19:56.654 
+TOW: 519607.654 tm: 2014/12/20 00:20:07.654 
+TOW: 519618.654 tm: 2014/12/20 00:20:18.654 
+TOW: 519629.654 tm: 2014/12/20 00:20:29.654 
+TOW: 519640.654 tm: 2014/12/20 00:20:40.654 
+TOW: 519651.654 tm: 2014/12/20 00:20:51.654 
+TOW: 519662.654 tm: 2014/12/20 00:21:02.654 
+TOW: 519673.654 tm: 2014/12/20 00:21:13.654 
+TOW: 519684.654 tm: 2014/12/20 00:21:24.654 
+TOW: 519695.654 tm: 2014/12/20 00:21:35.654 
+TOW: 519706.654 tm: 2014/12/20 00:21:46.654 
+TOW: 519717.654 tm: 2014/12/20 00:21:57.654 
+TOW: 519728.654 tm: 2014/12/20 00:22:08.654 
+TOW: 519739.654 tm: 2014/12/20 00:22:19.654 
+TOW: 519750.654 tm: 2014/12/20 00:22:30.654 
+TOW: 519761.654 tm: 2014/12/20 00:22:41.654 
+TOW: 519772.654 tm: 2014/12/20 00:22:52.654 
+TOW: 519783.654 tm: 2014/12/20 00:23:03.654 
+chi-square error nv=11 vv=1094926305.1 cs=18.5 
+--> validation DISABLED 
+TOW: 519794.654 tm: 2014/12/20 00:23:14.654 
+TOW: 519805.654 tm: 2014/12/20 00:23:25.654 
+TOW: 519816.654 tm: 2014/12/20 00:23:36.654 
+TOW: 519827.654 tm: 2014/12/20 00:23:47.654 
+TOW: 519838.654 tm: 2014/12/20 00:23:58.654 
+TOW: 519849.654 tm: 2014/12/20 00:24:09.654 
+TOW: 519860.654 tm: 2014/12/20 00:24:20.654 
+TOW: 519871.654 tm: 2014/12/20 00:24:31.654 
+TOW: 519882.654 tm: 2014/12/20 00:24:42.654 
+TOW: 519893.654 tm: 2014/12/20 00:24:53.654 
+TOW: 519904.654 tm: 2014/12/20 00:25:04.654 
+TOW: 519915.654 tm: 2014/12/20 00:25:15.654 
+TOW: 519926.654 tm: 2014/12/20 00:25:26.654 
+TOW: 519937.654 tm: 2014/12/20 00:25:37.654 
+TOW: 519948.654 tm: 2014/12/20 00:25:48.654 
+TOW: 519959.654 tm: 2014/12/20 00:25:59.654 
+TOW: 519970.654 tm: 2014/12/20 00:26:10.654 
+TOW: 519981.654 tm: 2014/12/20 00:26:21.654 
+TOW: 519992.654 tm: 2014/12/20 00:26:32.654 
+TOW: 520003.654 tm: 2014/12/20 00:26:43.654 
+TOW: 520014.654 tm: 2014/12/20 00:26:54.654 
+TOW: 520025.654 tm: 2014/12/20 00:27:05.654 
+TOW: 520036.654 tm: 2014/12/20 00:27:16.654 
+TOW: 520047.654 tm: 2014/12/20 00:27:27.654 
+TOW: 520058.654 tm: 2014/12/20 00:27:38.654 
+TOW: 520069.654 tm: 2014/12/20 00:27:49.654 
+TOW: 520080.654 tm: 2014/12/20 00:28:00.654 
+TOW: 520091.654 tm: 2014/12/20 00:28:11.654 
+TOW: 520102.654 tm: 2014/12/20 00:28:22.654 
+TOW: 520113.654 tm: 2014/12/20 00:28:33.654 
+TOW: 520124.654 tm: 2014/12/20 00:28:44.654 
+TOW: 520135.654 tm: 2014/12/20 00:28:55.654 
+TOW: 520146.654 tm: 2014/12/20 00:29:06.654 
+TOW: 520157.654 tm: 2014/12/20 00:29:17.654 
+TOW: 520168.654 tm: 2014/12/20 00:29:28.654 
+TOW: 520179.654 tm: 2014/12/20 00:29:39.654 
+TOW: 520190.654 tm: 2014/12/20 00:29:50.654 
+TOW: 520201.654 tm: 2014/12/20 00:30:01.654 
+TOW: 520212.654 tm: 2014/12/20 00:30:12.654 
+TOW: 520223.654 tm: 2014/12/20 00:30:23.654 
+TOW: 520234.654 tm: 2014/12/20 00:30:34.654 
+TOW: 520245.654 tm: 2014/12/20 00:30:45.654 
+TOW: 520256.654 tm: 2014/12/20 00:30:56.654 
+TOW: 520267.654 tm: 2014/12/20 00:31:07.654 
+TOW: 520278.654 tm: 2014/12/20 00:31:18.654 
+TOW: 520289.654 tm: 2014/12/20 00:31:29.654 
+TOW: 520300.654 tm: 2014/12/20 00:31:40.654 
+TOW: 520311.654 tm: 2014/12/20 00:31:51.654 
+TOW: 520322.654 tm: 2014/12/20 00:32:02.654 
+TOW: 520333.654 tm: 2014/12/20 00:32:13.654 
+TOW: 520344.654 tm: 2014/12/20 00:32:24.654 
+TOW: 520355.654 tm: 2014/12/20 00:32:35.654 
+TOW: 520366.654 tm: 2014/12/20 00:32:46.654 
+TOW: 520377.654 tm: 2014/12/20 00:32:57.654 
+TOW: 520388.654 tm: 2014/12/20 00:33:08.654 
+TOW: 520399.654 tm: 2014/12/20 00:33:19.654 
+chi-square error nv=11 vv=1058201802.1 cs=18.5 
+--> validation DISABLED 
+TOW: 520410.654 tm: 2014/12/20 00:33:30.654 
+TOW: 520421.654 tm: 2014/12/20 00:33:41.654 
+TOW: 520432.654 tm: 2014/12/20 00:33:52.654 
+EOF 
+num_obs = 21825
+DONE

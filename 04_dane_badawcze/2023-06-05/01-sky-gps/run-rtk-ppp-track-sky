@@ -1,0 +1,17 @@
+#!/bin/sh
+#if ! test -e rtk; then
+#    mkdir rtk
+#fi
+
+#day=$(date +%j)
+#year=$(date +%Y)
+#yy=$(date +%y)
+day=156
+year=2023
+yy=23
+brdc_fname=brdc${day}0\.${yy}n
+
+#cp track.bo rtk/
+#cd rtk
+echo $brdc_fname
+~/dyskE/MojePrg/_goGeo/rtklib/RTKLIB/app/qx2rtkp/build/qx2rtkp $brdc_fname track.bo 32 meas.ppp.sky.conf | tee rtkp.log

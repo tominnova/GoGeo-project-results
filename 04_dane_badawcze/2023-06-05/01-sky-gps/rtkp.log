@@ -1,0 +1,339 @@
+qx2rtkp2 (RTKLIB 2.4.2)
+
+QX_VERSION            = 1
+EPH_REFRESH_OFF       = 0
+DECYM                 = 0
+MAX_PHASE             = 0
+DBG_CAR_CLK_ERR_COR   = 0
+DBG_RNG_CLK_ERR_COR   = 0
+READING BRDC :
+  brdc1560.23n
+READING .qx  :
+  track.bo
+chan_num = 32
+isGalileo = 0
+*** filtered biases file not found or open error (track.bo_preBias.csv-ft.csv)
+Out files:
+  track.bo_ch00.csv
+  track.bo_ch01.csv
+  track.bo_ch02.csv
+  track.bo_ch03.csv
+  track.bo_ch04.csv
+  track.bo_ch05.csv
+  track.bo_ch06.csv
+  track.bo_ch07.csv
+  track.bo_ch08.csv
+  track.bo_ch09.csv
+  track.bo_ch10.csv
+  track.bo_ch11.csv
+  track.bo_ch12.csv
+  track.bo_ch13.csv
+  track.bo_ch14.csv
+  track.bo_ch15.csv
+  track.bo_ch16.csv
+  track.bo_ch17.csv
+  track.bo_ch18.csv
+  track.bo_ch19.csv
+  track.bo_ch20.csv
+  track.bo_ch21.csv
+  track.bo_ch22.csv
+  track.bo_ch23.csv
+  track.bo_ch24.csv
+  track.bo_ch25.csv
+  track.bo_ch26.csv
+  track.bo_ch27.csv
+  track.bo_ch28.csv
+  track.bo_ch29.csv
+  track.bo_ch30.csv
+  track.bo_ch31.csv
+--
+reading files ...
+IONO: 1.956e-08 2.235e-08 -1.192e-07 -1.192e-07 127000 147500 -196600 -196600 
+-- 150146 rst carr sat 3
+-- 150146 rst carr sat 9
+point pos error (lack of valid sats ns=5)
+TOW: 150145.679 tm: 2023/06/05 17:42:25.679 
+point pos error (lack of valid sats ns=5)
+point pos error (lack of valid sats ns=5)
+point pos error (lack of valid sats ns=5)
+point pos error (lack of valid sats ns=5)
+point pos error (lack of valid sats ns=5)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 150156.679 tm: 2023/06/05 17:42:36.679 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 150167.679 tm: 2023/06/05 17:42:47.679 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 150178.679 tm: 2023/06/05 17:42:58.679 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 150189.679 tm: 2023/06/05 17:43:09.679 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 150200.679 tm: 2023/06/05 17:43:20.679 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 150211.679 tm: 2023/06/05 17:43:31.679 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 150222.679 tm: 2023/06/05 17:43:42.679 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 150233.679 tm: 2023/06/05 17:43:53.679 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 150244.679 tm: 2023/06/05 17:44:04.679 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 150255.679 tm: 2023/06/05 17:44:15.679 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 150266.679 tm: 2023/06/05 17:44:26.679 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 150277.679 tm: 2023/06/05 17:44:37.679 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 150288.679 tm: 2023/06/05 17:44:48.679 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 150299.679 tm: 2023/06/05 17:44:59.679 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 150310.679 tm: 2023/06/05 17:45:10.679 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (gdop error nv=7 gdop=14.7)
+point pos error (gdop error nv=7 gdop=14.7)
+point pos error (gdop error nv=7 gdop=14.6)
+TOW: 150321.679 tm: 2023/06/05 17:45:21.679 
+point pos error (gdop error nv=7 gdop=14.6)
+point pos error (gdop error nv=7 gdop=14.6)
+point pos error (gdop error nv=7 gdop=14.6)
+TOW: 150332.679 tm: 2023/06/05 17:45:32.679 
+TOW: 150343.679 tm: 2023/06/05 17:45:43.679 
+TOW: 150354.679 tm: 2023/06/05 17:45:54.679 
+TOW: 150365.679 tm: 2023/06/05 17:46:05.679 
+TOW: 150376.679 tm: 2023/06/05 17:46:16.679 
+TOW: 150387.679 tm: 2023/06/05 17:46:27.679 
+TOW: 150398.679 tm: 2023/06/05 17:46:38.679 
+TOW: 150409.679 tm: 2023/06/05 17:46:49.679 
+TOW: 150420.679 tm: 2023/06/05 17:47:00.679 
+TOW: 150431.679 tm: 2023/06/05 17:47:11.679 
+TOW: 150442.679 tm: 2023/06/05 17:47:22.679 
+TOW: 150453.679 tm: 2023/06/05 17:47:33.679 
+TOW: 150464.679 tm: 2023/06/05 17:47:44.679 
+TOW: 150475.679 tm: 2023/06/05 17:47:55.679 
+TOW: 150486.679 tm: 2023/06/05 17:48:06.679 
+TOW: 150497.679 tm: 2023/06/05 17:48:17.679 
+TOW: 150508.679 tm: 2023/06/05 17:48:28.679 
+TOW: 150519.679 tm: 2023/06/05 17:48:39.679 
+TOW: 150530.679 tm: 2023/06/05 17:48:50.679 
+TOW: 150541.679 tm: 2023/06/05 17:49:01.679 
+TOW: 150552.679 tm: 2023/06/05 17:49:12.679 
+TOW: 150563.679 tm: 2023/06/05 17:49:23.679 
+TOW: 150574.679 tm: 2023/06/05 17:49:34.679 
+TOW: 150585.679 tm: 2023/06/05 17:49:45.679 
+TOW: 150596.679 tm: 2023/06/05 17:49:56.679 
+TOW: 150607.679 tm: 2023/06/05 17:50:07.679 
+TOW: 150618.679 tm: 2023/06/05 17:50:18.679 
+TOW: 150629.679 tm: 2023/06/05 17:50:29.679 
+TOW: 150640.679 tm: 2023/06/05 17:50:40.679 
+TOW: 150651.679 tm: 2023/06/05 17:50:51.679 
+TOW: 150662.679 tm: 2023/06/05 17:51:02.679 
+TOW: 150673.679 tm: 2023/06/05 17:51:13.679 
+TOW: 150684.679 tm: 2023/06/05 17:51:24.679 
+TOW: 150695.679 tm: 2023/06/05 17:51:35.679 
+TOW: 150706.679 tm: 2023/06/05 17:51:46.679 
+TOW: 150717.679 tm: 2023/06/05 17:51:57.679 
+TOW: 150728.679 tm: 2023/06/05 17:52:08.679 
+TOW: 150739.679 tm: 2023/06/05 17:52:19.679 
+TOW: 150750.679 tm: 2023/06/05 17:52:30.679 
+TOW: 150761.679 tm: 2023/06/05 17:52:41.679 
+TOW: 150772.679 tm: 2023/06/05 17:52:52.679 
+TOW: 150783.679 tm: 2023/06/05 17:53:03.679 
+TOW: 150794.679 tm: 2023/06/05 17:53:14.679 
+TOW: 150805.679 tm: 2023/06/05 17:53:25.679 
+TOW: 150816.679 tm: 2023/06/05 17:53:36.679 
+TOW: 150827.679 tm: 2023/06/05 17:53:47.679 
+TOW: 150838.679 tm: 2023/06/05 17:53:58.679 
+TOW: 150849.679 tm: 2023/06/05 17:54:09.679 
+TOW: 150860.679 tm: 2023/06/05 17:54:20.679 
+TOW: 150871.679 tm: 2023/06/05 17:54:31.679 
+TOW: 150882.679 tm: 2023/06/05 17:54:42.679 
+TOW: 150893.679 tm: 2023/06/05 17:54:53.679 
+TOW: 150904.679 tm: 2023/06/05 17:55:04.679 
+TOW: 150915.679 tm: 2023/06/05 17:55:15.679 
+TOW: 150926.679 tm: 2023/06/05 17:55:26.679 
+TOW: 150937.679 tm: 2023/06/05 17:55:37.679 
+TOW: 150948.679 tm: 2023/06/05 17:55:48.679 
+TOW: 150959.679 tm: 2023/06/05 17:55:59.679 
+TOW: 150970.679 tm: 2023/06/05 17:56:10.679 
+TOW: 150981.679 tm: 2023/06/05 17:56:21.679 
+TOW: 150992.679 tm: 2023/06/05 17:56:32.679 
+TOW: 151003.679 tm: 2023/06/05 17:56:43.679 
+TOW: 151014.679 tm: 2023/06/05 17:56:54.679 
+TOW: 151025.679 tm: 2023/06/05 17:57:05.679 
+TOW: 151036.679 tm: 2023/06/05 17:57:16.679 
+TOW: 151047.679 tm: 2023/06/05 17:57:27.679 
+TOW: 151058.679 tm: 2023/06/05 17:57:38.679 
+TOW: 151069.679 tm: 2023/06/05 17:57:49.679 
+TOW: 151080.679 tm: 2023/06/05 17:58:00.679 
+TOW: 151091.679 tm: 2023/06/05 17:58:11.679 
+TOW: 151102.679 tm: 2023/06/05 17:58:22.679 
+TOW: 151113.679 tm: 2023/06/05 17:58:33.679 
+TOW: 151124.679 tm: 2023/06/05 17:58:44.679 
+TOW: 151135.679 tm: 2023/06/05 17:58:55.679 
+TOW: 151146.679 tm: 2023/06/05 17:59:06.679 
+TOW: 151157.679 tm: 2023/06/05 17:59:17.679 
+TOW: 151168.679 tm: 2023/06/05 17:59:28.679 
+TOW: 151179.679 tm: 2023/06/05 17:59:39.679 
+TOW: 151190.679 tm: 2023/06/05 17:59:50.679 
+TOW: 151201.679 tm: 2023/06/05 18:00:01.679 
+TOW: 151212.679 tm: 2023/06/05 18:00:12.679 
+TOW: 151223.679 tm: 2023/06/05 18:00:23.679 
+TOW: 151234.679 tm: 2023/06/05 18:00:34.679 
+TOW: 151245.679 tm: 2023/06/05 18:00:45.679 
+TOW: 151256.679 tm: 2023/06/05 18:00:56.679 
+TOW: 151267.679 tm: 2023/06/05 18:01:07.679 
+EOF 
+num_obs = 7151
+DONE

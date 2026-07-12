@@ -1,0 +1,9 @@
+#!/bin/sh
+#if ! test -e rtk; then
+#    mkdir rtk
+#fi
+#cp track.bo rtk/
+#cd rtk
+#~/Gnss/rtklib/RTKLIB/app/qx2rtkp/build/qx2rtkp brdc3540.14n track.bo 32 meas.ppp.conf | tee rtkp.log
+#~/dysk2T/NowyG/SourceCodeZNetu/RTKLIB/app/qx2rtkp/build/qx2rtkp brdc0770-add.23n track-off.bo 32 meas.ppp.conf - - brdc0780.23n | tee rtkp.log
+~/dyskE/MojePrg/_goGeo/rtklib/RTKLIB/app/qx2rtkp/build/qx2rtkp brdc0770-add.23n track-off.bo 32 meas.ppp.conf - - brdc0780.23n | tee rtkp.log

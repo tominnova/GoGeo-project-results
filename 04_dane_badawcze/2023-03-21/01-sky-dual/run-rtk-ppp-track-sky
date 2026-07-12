@@ -1,0 +1,4 @@
+#!/bin/sh
+
+#~/goGeo/rtklib/RTKLIB/app/qx2rtkp/build/qx2rtkp brdc0800.23n track.bo 32 meas.ppp.sky.conf - | tee rtkp.log
+~/goGeo/rtklib/RTKLIB/app/qx2rtkp/build/qx2rtkp brdc0800.23n track.bo 32 meas.ppp.sky.conf - - brdc0810.23n | tee rtkp.log

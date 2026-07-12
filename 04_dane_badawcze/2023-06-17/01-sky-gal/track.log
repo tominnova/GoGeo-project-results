@@ -1,0 +1,1356 @@
+rcv_test0 start
+hv ver: 5.EC
+
+------
+WARNING: WRONG HW_VERSION! (0x5E8), CHANGE TO 0x5EC !  
+-----
+HW_CHAN_NUM = 32
+RF_L1 = [1 1]
+SEL_MAX = [0 0] 
+GALILEO = 1
+MIX_MODE = 3
+F_SAMPLE = 40920000
+CHIP_RATE = [2046000 2046000] 
+CODE_LEN = [8184 2046] 
+I_FREQ = 255750
+CHIP_DIV_SCAN = 2
+CHIP_SPACING_SCAN = 1
+CHIP_DIV_TRACK = [6 6]
+CHIP_SPACING_TRACK = 1
+PRN_NUM = 36
+TRACK_CHAN_NUM = 16
+DUAL_BAND_EN = 0
+-- band 0
+-- CONF MAX band L1, XTAL 16M, ADC [EXT-ADC], IF=.25M, LP=2.5M/2 
+max2771_send 
+0x00000090 0x00c00002 
+0x00000000 0xbea41601 
+0x00000010 0x28550288 
+0x00000020 0x0eafb1dc 
+0x00000030 0x698c0008 
+0x00000040 0x0301e200 
+0x00000070 0x110061b2 
+0x000000a0 0x010061b0 
+band 0 SPI max2771 config OK!
+-- band 1
+-- CONF MAX band L1, XTAL 16M, ADC [EXT-ADC], IF=.25M, LP=2.5M/2 
+max2771_send 
+0x00000090 0x00c00002 
+0x00000000 0xbea41601 
+0x00000010 0x28550288 
+0x00000020 0x0eafb1dc 
+0x00000030 0x698c0008 
+0x00000040 0x0301e200 
+0x00000070 0x110061b2 
+0x000000a0 0x010061b0 
+band 1 SPI max2771 config OK!
+ACQ_DO_RESAMP = 1
+ACQ_I_FREQ = 25000
+ACQ_F_SAMPLE = 5000000
+--- rcv sat info prn:  5 az:  92 el: 17 vel: 409.125 
+--- rcv sat info prn:  9 az:  39 el: 15 vel: -29.625 
+--- rcv sat info prn: 13 az: 251 el: 15 vel: 500.375 
+--- rcv sat info prn: 15 az: 258 el: 68 vel: 187.75 
+--- rcv sat info prn: 21 az: 317 el: 24 vel: 397.375 
+--- rcv sat info prn: 27 az: 257 el: 52 vel: -125.375 
+--- rcv sat info prn: 30 az: 189 el: 28 vel: -571 
+PRN 27	 START SCAN (aug: -734 Hz) 
+# down_samp #1 max_acc=73
+---
+(FINE) * freq_dt : -704 	 corr:  73724 (+)	 bin: 12600
+---
+ 8| PRN 27	 FIN SCAN START -704 Hz
+-- sig_freq_dt = -704Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+--- rcv sat info prn: 495 az:   5 el: 92 vel: 2.125 
+ag_stream_rcv(): frame_id 188 not implemented 
+ag_stream_rcv(): frame_id 12 not implemented 
+--- rcv sat info prn:  9 az:  39 el: 15 vel: -32.25 
+--- rcv sat info prn: 13 az: 252 el: 15 vel: 499.875 
+--- rcv sat info prn: 15 az: 258 el: 68 vel: 186.25 
+--- rcv sat info prn: 21 az: 317 el: 24 vel: 395.5 
+--- rcv sat info prn: 27 az: 257 el: 52 vel: -128 
+--- rcv sat info prn: 30 az: 189 el: 28 vel: -572.125 
+--- rcv sat info prn: 34 az:  66 el: 55 vel: -300 
+--- rcv sat info prn: 36 az:  69 el:  5 vel: -520.25 
+--
+obs comp tm (us) : 4
+ 8|PRN 27			 SUB-1 82K/0 (3/541) 	 dmp_cnt: 209 rng: [-5070 5122] 
+-- info [8, 27, 7]
+ 8|PRN 27			 TRACK START 
+PRN 21	 START SCAN (aug: 1999 Hz) 
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  74K/ -5K L2 46dB  -736Hz     2Hz  499      0    160   1
+ 8|diff 32c
+--
+obs comp tm (us) : 2
+---
+(FINE) * freq_dt : 1999 	 corr:  50291 (-)	 bin: 10395
+---
+ 9| PRN 21	 FIN SCAN START 1999 Hz
+-- sig_freq_dt = 1999Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+--
+obs comp tm (us) : 2
+ 9|PRN 21			 SUB-1 58K/2 (-6/539) 	 dmp_cnt: 209 rng: [-5070 5122] 
+-- info [9, 21, 7]
+ 9|PRN 21			 TRACK START 
+PRN  5	 START SCAN (aug: 2072 Hz) 
+ 8|0|PRN 27 -75K/ -9K L3 46dB  -729Hz    -3Hz  501      1    133   1
+ 8|diff 71c
+--
+obs comp tm (us) : 4
+ 9|0|PRN 21 -42K/  6K L2 41dB  2012Hz   -11Hz  499      0    136   2
+ 9|diff -58c
+ 8| PRN 27	 set filters PLL: 20 DLL: 9
+comp PLL coefs : Bn=20, C1=28523, C2=3045 
+comp DLL coefs : Bn=9, C1=15121, C2=726 
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 2
+---
+(FINE) * freq_dt : 1952 	 corr:  40960 (-)	 bin: 21
+---
+10| PRN  5	 FIN SCAN START 1952 Hz
+-- sig_freq_dt = 1952Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8|0|PRN 27 -72K/ -2K L3 46dB  -735Hz    -3Hz  501      0    121   1
+ 8|diff 109c
+--
+obs comp tm (us) : 3
+10|PRN  5			 SUB-1 20K/1 (254/647) 	 dmp_cnt: 209 rng: [-5070 5122] 
+ 9|0|PRN 21 -37K/ -9K L3 40dB  2025Hz     4Hz  501      0    136   1
+ 9|diff -163c
+10|PRN  5			 SUB-2 17K/2 (-147/693) 	 dmp_cnt: 209 rng: [-5067 5125] 
+--
+obs comp tm (us) : 2
+ 9| PRN 21	 set filters PLL: 20 DLL: 9
+comp PLL coefs : Bn=20, C1=28523, C2=3045 
+comp DLL coefs : Bn=9, C1=15121, C2=726 
+ 8|0|PRN 27  68K/ -1K L3 47dB  -737Hz    -3Hz  501      0    156   1
+ 8|diff 147c
+10|PRN  5			 SUB-3 20K/1 (-202/882) 	 dmp_cnt: 209 rng: [-5067 5125] 
+10|PRN  5			 TRACK REJECT 
+PRN  9	 START SCAN (aug: -245 Hz) 
+--
+obs comp tm (us) : 4
+ 9|0|PRN 21 -56K/  8K L3 41dB  2013Hz     3Hz  500      0    140   1
+ 9|diff -268c
+--
+obs comp tm (us) : 2
+---
+(FINE) * freq_dt : -185 	 corr:  37208 (+)	 bin: 10184
+---
+10| PRN  9	 FIN SCAN START -185 Hz
+-- sig_freq_dt = -185Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8| PRN 27	 set filters PLL: 10 DLL: 3
+comp PLL coefs : Bn=10, C1=14262, C2=761 
+comp DLL coefs : Bn=3, C1=5040, C2=81 
+ 8|0|PRN 27  75K/  8K L3 47dB  -737Hz    -1Hz  501      0    122   1
+ 8|diff 185c
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+10|PRN  9			 SUB-1 19K/0 (-102/502) 	 dmp_cnt: 209 rng: [-5070 5122] 
+ 9|0|PRN 21 -51K/  3K L3 42dB  2013Hz     3Hz  501     -1    118   1
+ 9|diff -373c
+--
+obs comp tm (us) : 3
+10|PRN  9			 SUB-2 20K/0 (141/813) 	 dmp_cnt: 209 rng: [-5067 5125] 
+ 8|0|PRN 27  72K/ -4K L3 48dB  -739Hz    -2Hz  500      0    142   1
+ 8|diff 223c
+--
+obs comp tm (us) : 3
+10|PRN  9			 SUB-3 20K/2 (34/980) 	 dmp_cnt: 209 rng: [-5067 5125] 
+10|PRN  9			 TRACK REJECT 
+PRN 13	 START SCAN (aug: 2545 Hz) 
+ 9| PRN 21	 set filters PLL: 10 DLL: 3
+comp PLL coefs : Bn=10, C1=14262, C2=761 
+comp DLL coefs : Bn=3, C1=5040, C2=81 
+ 9|0|PRN 21 -42K/  2K L3 42dB  2014Hz     3Hz  500      0    141   2
+ 9|diff -478c
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  71K/ -2K L3 48dB  -739Hz    -1Hz  500      0    131   2
+ 8|diff 262c
+---
+(FINE) * freq_dt : 2455 	 corr:  51278 (-)	 bin: 15
+---
+10| PRN 13	 FIN SCAN START 2455 Hz
+-- sig_freq_dt = 2455Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+--
+obs comp tm (us) : 2
+ 9|0|PRN 21  44K/-10K L3 43dB  2012Hz     2Hz  501      0    125   1
+ 9|diff -582c
+10|PRN 13			 SUB-1 18K/2 (-172/472) 	 dmp_cnt: 209 rng: [-5070 5122] 
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+10|PRN 13			 SUB-2 20K/2 (-91/716) 	 dmp_cnt: 209 rng: [-5067 5125] 
+ 8|0|PRN 27 -78K/ 15K L3 48dB  -742Hz    -2Hz  501      0    123   1
+ 8|diff 300c
+--
+obs comp tm (us) : 2
+10|PRN 13			 SUB-3 22K/0 (-195/885) 	 dmp_cnt: 209 rng: [-5067 5125] 
+10|PRN 13			 TRACK REJECT 
+PRN 15	 START SCAN (aug: 900 Hz) 
+ 9|0|PRN 21  55K/ -2K L3 43dB  2013Hz     2Hz  500     -1    143   2
+ 9|diff -687c
+--- rcv sat info prn:  5 az:  91 el: 17 vel: 406.375 
+--- rcv sat info prn:  9 az:  39 el: 15 vel: -34 
+--- rcv sat info prn: 13 az: 252 el: 15 vel: 499.5 
+--- rcv sat info prn: 15 az: 258 el: 68 vel: 185.25 
+--- rcv sat info prn: 21 az: 317 el: 24 vel: 394.375 
+--- rcv sat info prn: 27 az: 256 el: 52 vel: -129.625 
+--- rcv sat info prn: 30 az: 189 el: 28 vel: -572.75 
+--- rcv sat info prn: 34 az:  66 el: 55 vel: -300.75 
+--- rcv sat info prn: 36 az:  70 el:  5 vel: -520.25 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27 -82K/  2K L3 48dB  -741Hz    -1Hz  500      0    139   1
+ 8|diff 339c
+--
+obs comp tm (us) : 2
+---
+(FINE) * freq_dt :  900 	 corr:  77655 (+)	 bin: 94
+---
+10| PRN 15	 FIN SCAN START 900 Hz
+-- sig_freq_dt = 900Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 9|0|PRN 21  47K/  1K L3 43dB  2013Hz     2Hz  501      0    115   1
+ 9|diff -791c
+10|PRN 15			 SUB-1 118K/0 (-2/542) 	 dmp_cnt: 209 rng: [-5070 5122] 
+-- info [10, 15, 7]
+10|PRN 15			 TRACK START 
+--
+obs comp tm (us) : 3
+PRN 30	 START SCAN (aug: -3083 Hz) 
+ 8|0|PRN 27  79K/ -4K L3 48dB  -742Hz    -2Hz  501      0    142   1
+ 8|diff 378c
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+10|0|PRN 15 -119K/  3K L2 48dB   912Hz     1Hz  499      0    137   1
+10|diff -39c
+ 9|0|PRN 21  47K/  8K L3 44dB  2013Hz     2Hz  500      0    138   1
+ 9|diff -896c
+---
+(FINE) * freq_dt : -3203 	 corr:  39247 (-)	 bin: 22
+---
+11| PRN 30	 FIN SCAN START -3203 Hz
+-- sig_freq_dt = -3203Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+--
+obs comp tm (us) : 3
+11|PRN 30			 SUB-1 21K/0 (-43/527) 	 dmp_cnt: 209 rng: [-5070 5122] 
+ 8|0|PRN 27  72K/  3K L3 48dB  -743Hz    -2Hz  501      0    137   1
+ 8|diff 416c
+--
+obs comp tm (us) : 3
+10|0|PRN 15 118K/  4K L3 49dB   914Hz    -1Hz  501      0    121   1
+10|diff -87c
+ 9|0|PRN 21  40K/  2K L3 44dB  2012Hz     1Hz  501      0    122   1
+ 9|diff -1001c
+11|PRN 30			 SUB-2 20K/1 (239/854) 	 dmp_cnt: 209 rng: [-5067 5125] 
+--
+obs comp tm (us) : 3
+10| PRN 15	 set filters PLL: 20 DLL: 9
+comp PLL coefs : Bn=20, C1=28523, C2=3045 
+comp DLL coefs : Bn=9, C1=15121, C2=726 
+11|PRN 30			 SUB-3 19K/2 (137/1023) 	 dmp_cnt: 209 rng: [-5067 5125] 
+11|PRN 30			 TRACK REJECT 
+PRN 34	 START SCAN (aug: -1654 Hz) 
+ 8|0|PRN 27  90K/ -8K L3 49dB  -745Hz    -1Hz  500      0    142   1
+ 8|diff 455c
+--
+obs comp tm (us) : 4
+10|0|PRN 15 108K/ -3K L3 50dB   912Hz     1Hz  500      0    129   1
+10|diff -134c
+ 9|0|PRN 21  45K/ -5K L3 44dB  2010Hz     2Hz  500      0    134   1
+ 9|diff -1105c
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+---
+(FINE) * freq_dt : -1564 	 corr:  40006 (-)	 bin: 24
+---
+11| PRN 34	 FIN SCAN START -1564 Hz
+-- sig_freq_dt = -1564Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8|0|PRN 27  80K/ -4K L3 49dB  -745Hz    -1Hz  501      1    140   1
+ 8|diff 494c
+11|PRN 34			 SUB-1 20K/1 (-151/483) 	 dmp_cnt: 209 rng: [-5070 5122] 
+--
+obs comp tm (us) : 3
+10|0|PRN 15 122K/ -9K L3 50dB   911Hz     0Hz  501      0    128   1
+10|diff -182c
+ 9|0|PRN 21  48K/-11K L3 44dB  2008Hz     2Hz  501      0    116   1
+ 9|diff -1210c
+11|PRN 34			 SUB-2 19K/0 (192/835) 	 dmp_cnt: 209 rng: [-5067 5125] 
+--
+obs comp tm (us) : 2
+11|PRN 34			 SUB-3 17K/2 (122/1017) 	 dmp_cnt: 209 rng: [-5067 5125] 
+11|PRN 34			 TRACK REJECT 
+PRN 36	 START SCAN (aug: -2810 Hz) 
+ 8|0|PRN 27  80K/  2K L3 49dB  -746Hz    -2Hz  500      0    134   1
+ 8|diff 532c
+--
+obs comp tm (us) : 4
+10| PRN 15	 set filters PLL: 10 DLL: 3
+comp PLL coefs : Bn=10, C1=14262, C2=761 
+comp DLL coefs : Bn=3, C1=5040, C2=81 
+10|0|PRN 15 114K/ -8K L3 50dB   911Hz     1Hz  500      0    139   1
+10|diff -229c
+ 9|0|PRN 21  51K/ -3K L3 44dB  2009Hz     2Hz  500     -1    135   1
+ 9|diff -1315c
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 2
+---
+(FINE) * freq_dt : -2750 	 corr:  51824 (+)	 bin: 16
+---
+11| PRN 36	 FIN SCAN START -2750 Hz
+-- sig_freq_dt = -2750Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8|0|PRN 27 -82K/  1K L3 49dB  -747Hz    -1Hz  501      0    127   1
+ 8|diff 571c
+--
+obs comp tm (us) : 3
+11|PRN 36			 SUB-1 24K/2 (78/577) 	 dmp_cnt: 209 rng: [-5070 5122] 
+10|0|PRN 15 -107K/-10K L3 51dB   911Hz     1Hz  501      0    134   1
+10|diff -277c
+ 9|0|PRN 21  41K/  1K L3 44dB  2009Hz     2Hz  501      0    121   1
+ 9|diff -1419c
+--
+obs comp tm (us) : 3
+11|PRN 36			 SUB-2 20K/0 (-195/676) 	 dmp_cnt: 209 rng: [-5067 5125] 
+ 8|0|PRN 27 -79K/ -1K L3 49dB  -748Hz    -1Hz  501      0    116   1
+ 8|diff 610c
+11|PRN 36			 SUB-3 19K/2 (-199/885) 	 dmp_cnt: 209 rng: [-5067 5125] 
+11|PRN 36			 TRACK REJECT 
+PRN  5	 START SCAN (aug: 2057 Hz) 
+--
+obs comp tm (us) : 4
+10|0|PRN 15 -114K/ -4K L3 51dB   910Hz     1Hz  500      0    136   1
+10|diff -324c
+ 9|0|PRN 21  38K/ -2K L3 45dB  2008Hz     2Hz  500      0    132   2
+ 9|diff -1523c
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 2
+---
+(FINE) * freq_dt : 2147 	 corr:  51090 (+)	 bin: 18
+---
+11| PRN  5	 FIN SCAN START 2147 Hz
+-- sig_freq_dt = 2147Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8|0|PRN 27 -76K/ -2K L3 49dB  -748Hz    -1Hz  500      0    136   1
+--
+obs comp tm (us) : 3
+10|0|PRN 15 113K/ -6K L3 52dB   909Hz     1Hz  501     -1    129   1
+10|diff -372c
+ 9|0|PRN 21  49K/ -1K L3 45dB  2007Hz     2Hz  501      0    132   1
+ 9|diff -1628c
+11|PRN  5			 SUB-1 18K/2 (-153/482) 	 dmp_cnt: 209 rng: [-5070 5122] 
+--
+obs comp tm (us) : 3
+11|PRN  5			 SUB-2 20K/1 (77/788) 	 dmp_cnt: 209 rng: [-5067 5125] 
+ 8|0|PRN 27 -72K/  9K L3 49dB  -751Hz    -1Hz  501      0    118   1
+--
+obs comp tm (us) : 3
+11|PRN  5			 SUB-3 23K/0 (-205/883) 	 dmp_cnt: 209 rng: [-5067 5125] 
+11|PRN  5			 TRACK REJECT 
+PRN  9	 START SCAN (aug: -256 Hz) 
+10|0|PRN 15 119K/  1K L3 52dB   909Hz     1Hz  500      0    137   1
+10|diff -419c
+ 9|0|PRN 21  48K/  2K L3 45dB  2007Hz     2Hz  500      0    143   1
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27 -86K/  0K L3 49dB  -750Hz    -1Hz  500      0    139   2
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 2
+---
+(FINE) * freq_dt : -346 	 corr:  49059 (-)	 bin: 20
+---
+11| PRN  9	 FIN SCAN START -346 Hz
+-- sig_freq_dt = -346Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+10|0|PRN 15 113K/ -4K L3 52dB   908Hz     0Hz  501      0    119   1
+10|diff -466c
+ 9|0|PRN 21  40K/  4K L3 45dB  2007Hz     2Hz  501     -1    121   1
+11|PRN  9			 SUB-1 19K/0 (236/642) 	 dmp_cnt: 209 rng: [-5070 5122] 
+--
+obs comp tm (us) : 3
+11|PRN  9			 SUB-2 18K/0 (-173/685) 	 dmp_cnt: 209 rng: [-5067 5125] 
+ 8|0|PRN 27  89K/  0K L3 49dB  -751Hz    -1Hz  501      0    119   1
+--
+obs comp tm (us) : 3
+10|0|PRN 15 118K/-12K L3 52dB   907Hz     1Hz  500      0    147   1
+10|diff -513c
+ 9|0|PRN 21 -42K/  5K L3 44dB  2004Hz     2Hz  501      0    166   1
+11|PRN  9			 SUB-3 19K/2 (-18/959) 	 dmp_cnt: 209 rng: [-5067 5125] 
+11|PRN  9			 TRACK REJECT 
+PRN 13	 START SCAN (aug: 2545 Hz) 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  92K/  9K L3 49dB  -751Hz    -2Hz  500      0    157   1
+--
+obs comp tm (us) : 2
+---
+(FINE) * freq_dt : 2425 	 corr:  36874 (+)	 bin: 10
+---
+11| PRN 13	 FIN SCAN START 2425 Hz
+-- sig_freq_dt = 2425Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+10|0|PRN 15 -118K/  9K L3 51dB   907Hz     1Hz  501      0    129   1
+10|diff -561c
+ 9|0|PRN 21  47K/ 10K L3 44dB  2006Hz     2Hz  501      0    121   1
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+11|PRN 13			 SUB-1 17K/1 (-13/539) 	 dmp_cnt: 209 rng: [-5070 5122] 
+ 8|0|PRN 27  94K/ 10K L3 49dB  -752Hz    -1Hz  501      1    169   1
+11|PRN 13			 SUB-2 18K/0 (57/780) 	 dmp_cnt: 209 rng: [-5067 5125] 
+--
+obs comp tm (us) : 3
+10|0|PRN 15 -112K/ -6K L3 52dB   907Hz     1Hz  501      0    158   1
+10|diff -608c
+ 9|0|PRN 21  52K/ -3K L3 44dB  2003Hz     2Hz  500     -1    145   1
+11|PRN 13			 SUB-3 19K/0 (231/1062) 	 dmp_cnt: 209 rng: [-5067 5125] 
+11|PRN 13			 TRACK REJECT 
+PRN 17	 START SCAN 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  84K/  2K L3 49dB  -754Hz    -2Hz  500      0    139   1
+--
+obs comp tm (us) : 3
+10|0|PRN 15 -114K/  9K L3 52dB   905Hz     1Hz  500      0    135   1
+10|diff -655c
+ 9|0|PRN 21  48K/  1K L3 45dB  2003Hz     1Hz  500     -1    136   1
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  86K/ -8K L3 49dB  -756Hz    -1Hz  500      0    138   1
+--
+obs comp tm (us) : 2
+10|0|PRN 15 -121K/  3K L3 52dB   906Hz     1Hz  500      0    135   1
+10|diff -702c
+ 9|0|PRN 21  46K/ -1K L3 45dB  2002Hz     2Hz  500     -1    138   1
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  91K/  1K L3 49dB  -756Hz    -2Hz  500      0    135   1
+--
+obs comp tm (us) : 3
+10|0|PRN 15 -110K/  5K L3 52dB   905Hz     1Hz  500      0    139   1
+10|diff -749c
+ 9|0|PRN 21  48K/  0K L3 45dB  2002Hz     2Hz  500      0    138   1
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  79K/  6K L3 49dB  -757Hz    -1Hz  500      0    135   1
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+10|0|PRN 15 117K/ -6K L3 52dB   905Hz     1Hz  501      0    139   1
+ 9|0|PRN 21  44K/-10K L3 45dB  1999Hz     2Hz  500      0    142   1
+--
+obs comp tm (us) : 2
+ 8|0|PRN 27  80K/  2K L3 49dB  -758Hz    -2Hz  501      0    135   1
+--
+obs comp tm (us) : 4
+10|0|PRN 15 118K/ -1K L3 52dB   904Hz     1Hz  500      0    136   1
+ 9|0|PRN 21 -45K/ 12K L3 44dB  1998Hz     2Hz  501      0    136   1
+--
+obs comp tm (us) : 3
+ 8|0|PRN 27  79K/ -5K L3 49dB  -759Hz    -1Hz  500      0    158   1
+--
+obs comp tm (us) : 4
+10|0|PRN 15 -108K/  1K L3 52dB   904Hz     1Hz  501      0    139   1
+ 9|0|PRN 21 -51K/  2K L3 45dB  1999Hz     3Hz  500     -1    141   1
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  82K/  7K L3 49dB  -759Hz    -1Hz  501      0    136   1
+--
+obs comp tm (us) : 2
+10|0|PRN 15 -113K/ -8K L3 52dB   904Hz     1Hz  500      0    134   1
+ 9|0|PRN 21  50K/  1K L3 45dB  2000Hz     2Hz  501      0    138   1
+---
+(FINE) * freq_dt :  360 	 corr:  59304 (+)	 bin: 24
+---
+11| PRN 17	 FIN SCAN START 360 Hz
+-- sig_freq_dt = 360Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+--
+obs comp tm (us) : 3
+11|PRN 17			 SUB-1 18K/2 (141/3624) 	 dmp_cnt: 209 rng: [-5070 5122] 
+ 8|0|PRN 27  77K/ -3K L3 49dB  -761Hz    -2Hz  501      0    117   1
+--
+obs comp tm (us) : 3
+11|PRN 17			 SUB-2 18K/1 (99/3818) 	 dmp_cnt: 209 rng: [-5067 5125] 
+10|0|PRN 15 -120K/  1K L3 52dB   903Hz     1Hz  501      0    124   1
+ 9|0|PRN 21 -38K/ -2K L3 45dB  1999Hz     2Hz  501     -1    144   1
+--
+obs comp tm (us) : 3
+11|PRN 17			 SUB-3 20K/0 (-99/3947) 	 dmp_cnt: 209 rng: [-5067 5125] 
+11|PRN 17			 TRACK REJECT 
+PRN 19	 START SCAN 
+ 8|0|PRN 27  84K/ -8K L3 49dB  -762Hz    -1Hz  500      0    150   1
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+10|0|PRN 15 -117K/  4K L3 52dB   902Hz     1Hz  500      0    139   1
+ 9|0|PRN 21 -49K/ 13K L3 45dB  1995Hz     2Hz  500     -1    135   1
+--- rcv sat info prn:  3 az: 137 el:  1 vel: 564.875 
+--- rcv sat info prn:  5 az:  91 el: 18 vel: 403.75 
+--- rcv sat info prn:  9 az:  39 el: 15 vel: -38.25 
+--- rcv sat info prn: 13 az: 252 el: 16 vel: 498.625 
+--- rcv sat info prn: 15 az: 259 el: 68 vel: 182.875 
+--- rcv sat info prn: 21 az: 317 el: 24 vel: 391.375 
+--- rcv sat info prn: 27 az: 256 el: 52 vel: -133.875 
+--- rcv sat info prn: 30 az: 189 el: 28 vel: -574.375 
+--- rcv sat info prn: 34 az:  66 el: 55 vel: -302.5 
+--- rcv sat info prn: 36 az:  70 el:  5 vel: -520.125 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  72K/  3K L3 49dB  -762Hz    -1Hz  501      0    136   1
+--
+obs comp tm (us) : 2
+10|0|PRN 15 -111K/  5K L3 52dB   901Hz     1Hz  500      0    136   1
+ 9|0|PRN 21 -54K/-16K L3 45dB  2000Hz     2Hz  500      0    138   1
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  90K/ -9K L3 49dB  -764Hz    -2Hz  500      1    143   1
+--
+obs comp tm (us) : 2
+10|0|PRN 15 -119K/  4K L3 52dB   901Hz     1Hz  500      0    139   1
+ 9|0|PRN 21 -54K/  8K L3 45dB  1995Hz     2Hz  501      0    138   1
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  66K/ -8K L3 49dB  -766Hz    -1Hz  501      0    116   2
+--
+obs comp tm (us) : 3
+10|0|PRN 15 -114K/ -8K L3 52dB   901Hz     1Hz  501      0    134   1
+ 9|0|PRN 21  48K/ -4K L3 45dB  1996Hz     2Hz  501      0    135   1
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  72K/ -6K L3 48dB  -766Hz    -1Hz  500      0    135   1
+--
+obs comp tm (us) : 4
+10|0|PRN 15 118K/  4K L3 52dB   901Hz     1Hz  501      0    133   1
+ 9|0|PRN 21 -49K/  6K L3 45dB  1994Hz     2Hz  501      0    138   1
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 2
+ 8|0|PRN 27  68K/ 12K L3 48dB  -765Hz    -1Hz  500      1    140   1
+--
+obs comp tm (us) : 4
+10|0|PRN 15 120K/  0K L3 52dB   900Hz     1Hz  500      0    127   1
+ 9|0|PRN 21 -50K/ -2K L3 45dB  1995Hz     2Hz  501      0    139   1
+--
+obs comp tm (us) : 3
+ 8|0|PRN 27 -67K/ -3K L3 48dB  -767Hz    -1Hz  501      0    138   1
+--
+obs comp tm (us) : 4
+10|0|PRN 15 120K/  3K L3 52dB   899Hz     1Hz  501      0    138   1
+ 9|0|PRN 21  45K/ -3K L3 45dB  1993Hz     2Hz  501      0    168   1
+--
+obs comp tm (us) : 3
+---
+(FINE) * freq_dt : -5080 	 corr:  68137 (+)	 bin: 21
+---
+11| PRN 19	 FIN SCAN START -5080 Hz
+-- sig_freq_dt = -5080Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8|0|PRN 27  77K/ -4K L3 48dB  -769Hz    -1Hz  501      0    128   1
+11|PRN 19			 SUB-1 21K/0 (238/3664) 	 dmp_cnt: 209 rng: [-5070 5122] 
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+10|0|PRN 15 116K/  0K L3 52dB   898Hz     1Hz  501      0    124   1
+ 9|0|PRN 21  42K/  3K L3 45dB  1994Hz     2Hz  501     -1    135   1
+11|PRN 19			 SUB-2 18K/0 (82/3811) 	 dmp_cnt: 209 rng: [-5067 5125] 
+--
+obs comp tm (us) : 3
+11|PRN 19			 SUB-3 18K/1 (-231/3893) 	 dmp_cnt: 209 rng: [-5067 5125] 
+11|PRN 19			 TRACK REJECT 
+PRN 30	 START SCAN (aug: -3093 Hz) 
+ 8|0|PRN 27  74K/  4K L3 48dB  -769Hz    -1Hz  500      0    126   2
+--
+obs comp tm (us) : 4
+10|0|PRN 15 121K/ -3K L3 53dB   898Hz     1Hz  500      0    141   1
+ 9|0|PRN 21  51K/ -6K L3 44dB  1991Hz     2Hz  500      0    143   1
+--
+obs comp tm (us) : 3
+---
+(FINE) * freq_dt : -3003 	 corr:  41874 (+)	 bin: 26
+---
+11| PRN 30	 FIN SCAN START -3003 Hz
+-- sig_freq_dt = -3003Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8|0|PRN 27 -70K/ -5K L3 48dB  -770Hz    -2Hz  501      0    118   1
+--
+obs comp tm (us) : 3
+11|PRN 30			 SUB-1 19K/1 (-256/440) 	 dmp_cnt: 209 rng: [-5070 5122] 
+10|0|PRN 15 -126K/ -3K L3 53dB   897Hz     1Hz  501      0    141   1
+ 9|0|PRN 21 -48K/  4K L3 44dB  1991Hz     2Hz  501      0    149   1
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+11|PRN 30			 SUB-2 18K/2 (188/833) 	 dmp_cnt: 209 rng: [-5067 5125] 
+ 8|0|PRN 27 -79K/ -3K L3 48dB  -771Hz    -1Hz  500      0    123   1
+11|PRN 30			 SUB-3 21K/2 (-170/897) 	 dmp_cnt: 209 rng: [-5067 5125] 
+11|PRN 30			 TRACK REJECT 
+PRN 34	 START SCAN (aug: -1664 Hz) 
+--
+obs comp tm (us) : 4
+10|0|PRN 15 -125K/  3K L3 52dB   897Hz     1Hz  500      0    119   1
+ 9|0|PRN 21 -44K/ -4K L3 44dB  1992Hz     1Hz  500      0    138   1
+--
+obs comp tm (us) : 2
+---
+(FINE) * freq_dt : -1664 	 corr:  44940 (+)	 bin: 15448
+---
+11| PRN 34	 FIN SCAN START -1664 Hz
+-- sig_freq_dt = -1664Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8|0|PRN 27  73K/  2K L3 48dB  -772Hz    -2Hz  501      1    148   1
+--
+obs comp tm (us) : 3
+10|0|PRN 15 -121K/  5K L3 52dB   896Hz     1Hz  501     -1    120   1
+11|PRN 34			 SUB-1 30K/0 (8/550) 	 dmp_cnt: 209 rng: [-5070 5122] 
+-- info [11, 34, 7]
+11|PRN 34			 TRACK START 
+ 9|0|PRN 21  44K/ -8K L3 44dB  1989Hz     3Hz  501      0    125   1
+PRN 36	 START SCAN (aug: -2810 Hz) 
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  72K/ -3K L3 48dB  -774Hz    -2Hz  500      0    140   1
+11|0|PRN 34  34K/ 11K L2 40dB -1642Hz     2Hz  499      1    136   2
+11|diff 63c
+--
+obs comp tm (us) : 3
+10|0|PRN 15 -123K/  6K L3 52dB   895Hz     1Hz  500      0    125   1
+---
+(FINE) * freq_dt : -2720 	 corr:  73683 (-)	 bin: 21
+---
+12| PRN 36	 FIN SCAN START -2720 Hz
+-- sig_freq_dt = -2720Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 9|0|PRN 21  47K/ -8K L3 44dB  1988Hz     2Hz  500      0    146   1
+--
+obs comp tm (us) : 3
+12|PRN 36			 SUB-1 18K/0 (175/619) 	 dmp_cnt: 209 rng: [-5070 5122] 
+ 8|0|PRN 27 -72K/ -3K L3 48dB  -774Hz    -2Hz  501      0    120   1
+11|0|PRN 34  33K/-12K L3 39dB -1665Hz    -3Hz  501      0    133   1
+11|diff 148c
+--
+obs comp tm (us) : 3
+12|PRN 36			 SUB-2 17K/1 (-106/714) 	 dmp_cnt: 209 rng: [-5067 5125] 
+10|0|PRN 15 -120K/-10K L3 53dB   896Hz     1Hz  501      0    119   1
+ 9|0|PRN 21  45K/  1K L3 44dB  1989Hz     2Hz  501      0    134   1
+11| PRN 34	 set filters PLL: 20 DLL: 9
+comp PLL coefs : Bn=20, C1=28523, C2=3045 
+comp DLL coefs : Bn=9, C1=15121, C2=726 
+12|PRN 36			 SUB-3 20K/1 (-153/906) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN 36			 TRACK REJECT 
+PRN  3	 START SCAN (aug: 2887 Hz) 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27 -79K/ -1K L3 48dB  -775Hz    -1Hz  500      0    137   1
+11|0|PRN 34  34K/ -9K L3 40dB -1659Hz    -3Hz  500      0    135   2
+11|diff 233c
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 13
+10|0|PRN 15 -134K/ 10K L3 52dB   894Hz     0Hz  500      0    138   1
+ 9|0|PRN 21  41K/  1K L3 43dB  1989Hz     2Hz  500      0    137   2
+---
+(FINE) * freq_dt : 2887 	 corr:  37363 (-)	 bin: 14405
+---
+12| PRN  3	 FIN SCAN START 2887 Hz
+-- sig_freq_dt = 2887Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+--
+obs comp tm (us) : 3
+12|PRN  3			 SUB-1 20K/2 (90/585) 	 dmp_cnt: 209 rng: [-5070 5122] 
+ 8|0|PRN 27 -76K/  1K L3 48dB  -776Hz    -1Hz  501      0    117   1
+11|0|PRN 34  39K/-11K L3 41dB -1659Hz    -3Hz  501      1    120   1
+11|diff 320c
+--
+obs comp tm (us) : 3
+12|PRN  3			 SUB-2 17K/1 (11/764) 	 dmp_cnt: 209 rng: [-5067 5125] 
+10|0|PRN 15 -128K/  4K L3 52dB   894Hz     1Hz  501      0    133   1
+--- rcv sat info prn:  3 az: 137 el:  1 vel: 565.25 
+--- rcv sat info prn:  5 az:  91 el: 18 vel: 402 
+--- rcv sat info prn:  9 az:  39 el: 15 vel: -41.125 
+--- rcv sat info prn: 13 az: 252 el: 16 vel: 498 
+--- rcv sat info prn: 15 az: 259 el: 69 vel: 181.25 
+--- rcv sat info prn: 21 az: 317 el: 24 vel: 389.375 
+--- rcv sat info prn: 27 az: 256 el: 52 vel: -136.625 
+--- rcv sat info prn: 30 az: 189 el: 27 vel: -575.375 
+--- rcv sat info prn: 34 az:  66 el: 55 vel: -303.75 
+--- rcv sat info prn: 36 az:  70 el:  5 vel: -520 
+ 9|0|PRN 21  44K/  0K L3 43dB  1988Hz     2Hz  501      0    117   1
+--
+obs comp tm (us) : 3
+12|PRN  3			 SUB-3 17K/1 (-21/961) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN  3			 TRACK REJECT 
+PRN  5	 START SCAN (aug: 2036 Hz) 
+11| PRN 34	 set filters PLL: 10 DLL: 3
+comp PLL coefs : Bn=10, C1=14262, C2=761 
+comp DLL coefs : Bn=3, C1=5040, C2=81 
+ 8|0|PRN 27 -70K/-11K L3 48dB  -776Hz    -2Hz  500      1    135   1
+11|0|PRN 34  39K/ -1K L3 41dB -1655Hz    -2Hz  500      0    122   2
+11|diff 405c
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+10|0|PRN 15 -120K/  8K L3 52dB   893Hz     1Hz  500      0    138   1
+ 9|0|PRN 21 -37K/  3K L3 43dB  1986Hz     2Hz  501      0    139   2
+--
+obs comp tm (us) : 3
+---
+(FINE) * freq_dt : 2126 	 corr:  44965 (+)	 bin: 27
+---
+12| PRN  5	 FIN SCAN START 2126 Hz
+-- sig_freq_dt = 2126Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8|0|PRN 27  72K/ -2K L3 48dB  -778Hz    -2Hz  501      0    130   1
+12|PRN  5			 SUB-1 18K/2 (-155/483) 	 dmp_cnt: 209 rng: [-5070 5122] 
+11|0|PRN 34 -42K/  0K L3 41dB -1655Hz    -3Hz  501      0    122   1
+11|diff 492c
+--
+obs comp tm (us) : 3
+10|0|PRN 15 -129K/  0K L3 52dB   893Hz     1Hz  501      0    129   1
+ 9|0|PRN 21 -40K/ -4K L3 43dB  1987Hz     2Hz  501     -1    115   2
+12|PRN  5			 SUB-2 20K/2 (-35/743) 	 dmp_cnt: 209 rng: [-5067 5125] 
+--
+obs comp tm (us) : 3
+12|PRN  5			 SUB-3 20K/0 (-205/885) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN  5			 TRACK REJECT 
+PRN  9	 START SCAN (aug: -292 Hz) 
+--- rcv sat info prn:  3 az: 137 el:  1 vel: 565.375 
+--- rcv sat info prn:  5 az:  91 el: 18 vel: 401.625 
+--- rcv sat info prn:  9 az:  39 el: 15 vel: -41.625 
+--- rcv sat info prn: 13 az: 252 el: 16 vel: 498 
+--- rcv sat info prn: 15 az: 259 el: 69 vel: 181 
+--- rcv sat info prn: 21 az: 317 el: 24 vel: 389 
+--- rcv sat info prn: 27 az: 256 el: 52 vel: -137.125 
+--- rcv sat info prn: 30 az: 189 el: 27 vel: -575.5 
+--- rcv sat info prn: 34 az:  66 el: 55 vel: -303.875 
+--- rcv sat info prn: 36 az:  70 el:  5 vel: -520 
+ 8|0|PRN 27  63K/  0K L3 48dB  -779Hz    -2Hz  500      1    142   1
+11|0|PRN 34 -37K/ -8K L3 42dB -1654Hz    -3Hz  500      1    136   2
+11|diff 578c
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+10|0|PRN 15 -120K/ -1K L3 52dB   893Hz     1Hz  500      0    140   1
+ 9|0|PRN 21 -40K/ -2K L3 43dB  1986Hz     3Hz  500      0    136   2
+--
+obs comp tm (us) : 3
+---
+(FINE) * freq_dt : -202 	 corr:  47273 (+)	 bin: 29
+---
+12| PRN  9	 FIN SCAN START -202 Hz
+-- sig_freq_dt = -202Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8|0|PRN 27 -74K/ -6K L3 48dB  -779Hz    -2Hz  501      0    143   1
+11|0|PRN 34 -43K/ 10K L3 42dB -1658Hz    -3Hz  501      0    119   2
+11|diff 664c
+--
+obs comp tm (us) : 3
+12|PRN  9			 SUB-1 23K/2 (-116/499) 	 dmp_cnt: 209 rng: [-5070 5122] 
+10|0|PRN 15 -122K/  2K L3 52dB   892Hz     1Hz  501      0    121   1
+ 9|0|PRN 21 -44K/  2K L3 43dB  1984Hz     2Hz  501      0    194   2
+12|PRN  9			 SUB-2 19K/2 (-96/718) 	 dmp_cnt: 209 rng: [-5067 5125] 
+--
+obs comp tm (us) : 3
+12|PRN  9			 SUB-3 19K/0 (202/1052) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN  9			 TRACK REJECT 
+PRN 13	 START SCAN (aug: 2540 Hz) 
+ 8|0|PRN 27 -60K/  3K L3 49dB  -782Hz    -1Hz  500      0    120   1
+11|0|PRN 34 -39K/  2K L3 42dB -1657Hz    -2Hz  500      1    137   2
+11|diff 750c
+--
+obs comp tm (us) : 4
+10|0|PRN 15 -118K/ -2K L3 52dB   892Hz     1Hz  500      0    134   1
+ 9|0|PRN 21 -48K/  1K L3 43dB  1984Hz     2Hz  500      0    403   2
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+---
+(FINE) * freq_dt : 2630 	 corr:  47086 (+)	 bin: 15
+---
+12| PRN 13	 FIN SCAN START 2630 Hz
+-- sig_freq_dt = 2630Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8|0|PRN 27 -79K/  0K L3 49dB  -782Hz    -1Hz  501      0    151   1
+11|0|PRN 34 -32K/ -5K L3 41dB -1656Hz    -3Hz  501      1    441   2
+11|diff 836c
+--
+obs comp tm (us) : 3
+10|0|PRN 15 -131K/  1K L3 52dB   890Hz     1Hz  501     -1    127   1
+12|PRN 13			 SUB-1 19K/2 (210/633) 	 dmp_cnt: 209 rng: [-5070 5122] 
+ 9|0|PRN 21  37K/  4K L3 43dB  1985Hz     2Hz  501      0    136   2
+--
+obs comp tm (us) : 3
+12|PRN 13			 SUB-2 19K/1 (-190/680) 	 dmp_cnt: 209 rng: [-5067 5125] 
+ 8|0|PRN 27  85K/  0K L3 49dB  -783Hz    -1Hz  501      0    140   1
+11|0|PRN 34 -36K/  5K L3 42dB -1659Hz    -3Hz  500      1    370   2
+11|diff 922c
+--
+obs comp tm (us) : 3
+12|PRN 13			 SUB-3 17K/2 (-13/963) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN 13			 TRACK REJECT 
+PRN 30	 START SCAN (aug: -3099 Hz) 
+10|0|PRN 15 -110K/ -5K L3 53dB   891Hz     1Hz  500      0    135   1
+ 9|0|PRN 21  32K/  5K L3 43dB  1984Hz     2Hz  500      0    138   2
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  79K/ -4K L3 49dB  -784Hz    -1Hz  500      0    129   1
+11|0|PRN 34 -37K/  4K L3 42dB -1658Hz    -3Hz  501      0    179   2
+11|diff 1008c
+---
+(FINE) * freq_dt : -3099 	 corr:  36866 (-)	 bin: 22
+---
+12| PRN 30	 FIN SCAN START -3099 Hz
+-- sig_freq_dt = -3099Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+--
+obs comp tm (us) : 3
+10|0|PRN 15 135K/-10K L3 53dB   889Hz     1Hz  501      0    163   1
+ 9|0|PRN 21  23K/ -4K L3 43dB  1981Hz     1Hz  501      0    141   2
+12|PRN 30			 SUB-1 18K/0 (13/553) 	 dmp_cnt: 209 rng: [-5070 5122] 
+--
+obs comp tm (us) : 3
+12|PRN 30			 SUB-2 19K/0 (65/785) 	 dmp_cnt: 209 rng: [-5067 5125] 
+ 8|0|PRN 27  80K/  3K L3 49dB  -784Hz    -1Hz  501      0    119   1
+11|0|PRN 34 -40K/ -2K L3 42dB -1657Hz    -3Hz  501      0    131   2
+11|diff 1094c
+--
+obs comp tm (us) : 3
+10|0|PRN 15 -126K/ -7K L3 52dB   890Hz     0Hz  501     -1    121   1
+12|PRN 30			 SUB-3 17K/2 (-184/893) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN 30			 TRACK REJECT 
+PRN 36	 START SCAN (aug: -2810 Hz) 
+ 9|0|PRN 21  36K/  2K L3 42dB  1982Hz     2Hz  500      0    137   2
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  87K/  1K L3 49dB  -785Hz    -2Hz  500      0    142   1
+11|0|PRN 34 -44K/ -4K L3 42dB -1657Hz    -2Hz  500      0    139   2
+11|diff 1180c
+--
+obs comp tm (us) : 3
+---
+(FINE) * freq_dt : -2810 	 corr:  39924 (-)	 bin: 22
+---
+12| PRN 36	 FIN SCAN START -2810 Hz
+-- sig_freq_dt = -2810Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+10|0|PRN 15 -105K/ -6K L3 52dB   890Hz     1Hz  500      0    152   1
+ 9|0|PRN 21  32K/ -9K L3 42dB  1979Hz     2Hz  501     -1    121   1
+--
+obs comp tm (us) : 3
+12|PRN 36			 SUB-1 16K/1 (-119/498) 	 dmp_cnt: 209 rng: [-5070 5122] 
+ 8|0|PRN 27 -88K/  2K L3 49dB  -786Hz    -2Hz  501      0    126   1
+12|PRN 36			 SUB-2 24K/0 (-104/715) 	 dmp_cnt: 209 rng: [-5067 5125] 
+11|0|PRN 34 -37K/ -1K L3 42dB -1658Hz    -3Hz  501      0    121   1
+11|diff 1266c
+--
+obs comp tm (us) : 3
+10|0|PRN 15 111K/ -2K L3 52dB   888Hz     1Hz  501      0    138   1
+ 9|0|PRN 21  33K/ -3K L3 42dB  1980Hz     2Hz  500      0    171   1
+12|PRN 36			 SUB-3 19K/2 (-219/879) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN 36			 TRACK REJECT 
+PRN  3	 START SCAN (aug: 2892 Hz) 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27 -89K/  0K L3 49dB  -788Hz    -2Hz  500      0    154   1
+11|0|PRN 34 -33K/ -2K L3 42dB -1658Hz    -3Hz  500      0    139   2
+11|diff 1352c
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+10|0|PRN 15 126K/  8K L3 52dB   888Hz     1Hz  500      0    142   1
+---
+(FINE) * freq_dt : 2922 	 corr:  46816 (-)	 bin: 27
+---
+12| PRN  3	 FIN SCAN START 2922 Hz
+-- sig_freq_dt = 2922Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 9|0|PRN 21  44K/ -3K L3 42dB  1979Hz     2Hz  501      0    131   1
+--
+obs comp tm (us) : 3
+12|PRN  3			 SUB-1 21K/0 (28/559) 	 dmp_cnt: 209 rng: [-5070 5122] 
+ 8|0|PRN 27  79K/ -6K L3 49dB  -789Hz    -1Hz  501      1    127   1
+11|0|PRN 34 -38K/  5K L3 42dB -1660Hz    -3Hz  501      0    124   1
+--
+obs comp tm (us) : 3
+12|PRN  3			 SUB-2 24K/2 (-248/656) 	 dmp_cnt: 209 rng: [-5067 5125] 
+10|0|PRN 15 -117K/  2K L3 53dB   887Hz     1Hz  501      0    121   1
+ 9|0|PRN 21  50K/ -1K L3 42dB  1979Hz     3Hz  501      0    122   1
+--
+obs comp tm (us) : 3
+12|PRN  3			 SUB-3 20K/1 (126/1021) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN  3			 TRACK REJECT 
+PRN  5	 START SCAN (aug: 2030 Hz) 
+ 8|0|PRN 27  84K/  2K L3 49dB  -789Hz    -1Hz  500      0    135   1
+11|0|PRN 34 -40K/  3K L3 42dB -1660Hz    -3Hz  500      1    132   2
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+10|0|PRN 15 -118K/ -3K L3 52dB   887Hz     1Hz  500     -1    139   1
+ 9|0|PRN 21  35K/  6K L3 42dB  1980Hz     3Hz  500      0    161   2
+---
+(FINE) * freq_dt : 1910 	 corr:  53341 (-)	 bin: 22
+---
+12| PRN  5	 FIN SCAN START 1910 Hz
+-- sig_freq_dt = 1910Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+--
+obs comp tm (us) : 3
+12|PRN  5			 SUB-1 20K/0 (-11/542) 	 dmp_cnt: 209 rng: [-5070 5122] 
+ 8|0|PRN 27  81K/  5K L3 49dB  -790Hz    -1Hz  501      1    137   1
+11|0|PRN 34  39K/ -1K L3 42dB -1660Hz    -3Hz  501      0    160   1
+--
+obs comp tm (us) : 3
+10|0|PRN 15 120K/ -1K L3 52dB   886Hz     1Hz  501      0    145   1
+12|PRN  5			 SUB-2 18K/0 (-46/739) 	 dmp_cnt: 209 rng: [-5067 5125] 
+ 9|0|PRN 21  35K/ -7K L3 42dB  1976Hz     3Hz  501     -1    134   1
+--
+obs comp tm (us) : 3
+12|PRN  5			 SUB-3 18K/2 (154/1032) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN  5			 TRACK REJECT 
+PRN  9	 START SCAN (aug: -292 Hz) 
+--- rcv sat info prn:  3 az: 137 el:  1 vel: 565.75 
+--- rcv sat info prn:  5 az:  91 el: 18 vel: 400.125 
+--- rcv sat info prn:  9 az:  38 el: 15 vel: -44 
+--- rcv sat info prn: 13 az: 252 el: 16 vel: 497.5 
+--- rcv sat info prn: 15 az: 259 el: 69 vel: 179.625 
+--- rcv sat info prn: 21 az: 317 el: 24 vel: 387.25 
+--- rcv sat info prn: 27 az: 255 el: 52 vel: -139.5 
+--- rcv sat info prn: 30 az: 189 el: 27 vel: -576.5 
+--- rcv sat info prn: 34 az:  66 el: 55 vel: -305 
+--- rcv sat info prn: 36 az:  70 el:  4 vel: -519.875 
+ 8|0|PRN 27  91K/  6K L3 49dB  -791Hz    -2Hz  500      1    139   1
+11|0|PRN 34  31K/ -9K L3 42dB -1663Hz    -2Hz  500      0    136   2
+--
+obs comp tm (us) : 4
+10|0|PRN 15 118K/  1K L3 52dB   886Hz     1Hz  500      0    138   1
+ 9|0|PRN 21  45K/ -1K L3 42dB  1977Hz     3Hz  500      0    133   2
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+---
+(FINE) * freq_dt : -262 	 corr:  47966 (-)	 bin: 21
+---
+12| PRN  9	 FIN SCAN START -262 Hz
+-- sig_freq_dt = -262Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8|0|PRN 27  72K/ -5K L3 49dB  -793Hz    -2Hz  501      0    134   1
+11|0|PRN 34 -35K/-17K L3 42dB -1657Hz    -3Hz  501      0    128   1
+12|PRN  9			 SUB-1 22K/1 (178/621) 	 dmp_cnt: 209 rng: [-5070 5122] 
+--
+obs comp tm (us) : 3
+10|0|PRN 15 109K/  9K L3 52dB   886Hz     1Hz  501      0    134   1
+ 9|0|PRN 21  34K/  2K L3 42dB  1977Hz     3Hz  501      0    138   1
+12|PRN  9			 SUB-2 22K/2 (227/852) 	 dmp_cnt: 209 rng: [-5067 5125] 
+--
+obs comp tm (us) : 3
+12|PRN  9			 SUB-3 18K/2 (-47/950) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN  9			 TRACK REJECT 
+PRN 13	 START SCAN (aug: 2535 Hz) 
+ 8|0|PRN 27  77K/ -1K L3 49dB  -793Hz    -2Hz  500      0    138   1
+11|0|PRN 34 -33K/  4K L3 42dB -1663Hz    -2Hz  500      1    134   2
+--
+obs comp tm (us) : 4
+10|0|PRN 15 111K/ -3K L3 52dB   884Hz     1Hz  500      0    133   1
+ 9|0|PRN 21  33K/  4K L3 42dB  1977Hz     1Hz  500      0    138   2
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+---
+(FINE) * freq_dt : 2625 	 corr:  43562 (-)	 bin: 15
+---
+12| PRN 13	 FIN SCAN START 2625 Hz
+-- sig_freq_dt = 2625Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8|0|PRN 27 -79K/ -4K L3 49dB  -794Hz    -2Hz  501      0    119   1
+11|0|PRN 34  42K/ -7K L3 42dB -1663Hz    -3Hz  501      0    128   1
+--
+obs comp tm (us) : 3
+12|PRN 13			 SUB-1 20K/0 (121/597) 	 dmp_cnt: 209 rng: [-5070 5122] 
+10|0|PRN 15 -114K/ -4K L3 52dB   884Hz     1Hz  501      0    145   1
+ 9|0|PRN 21 -36K/ -8K L3 42dB  1976Hz     1Hz  501      0    115   1
+--
+obs comp tm (us) : 3
+12|PRN 13			 SUB-2 19K/0 (244/858) 	 dmp_cnt: 209 rng: [-5067 5125] 
+ 8|0|PRN 27 -85K/  4K L3 49dB  -796Hz    -2Hz  501      0    123   1
+11|0|PRN 34  45K/  4K L3 42dB -1661Hz    -3Hz  500      1    120   1
+12|PRN 13			 SUB-3 16K/1 (43/987) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN 13			 TRACK REJECT 
+PRN 30	 START SCAN (aug: -3104 Hz) 
+--
+obs comp tm (us) : 4
+10|0|PRN 15 -123K/  1K L3 52dB   883Hz     1Hz  500      0    140   1
+ 9|0|PRN 21 -35K/  3K L3 42dB  1973Hz     3Hz  500      0    141   2
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+---
+(FINE) * freq_dt : -3134 	 corr:  40895 (+)	 bin: 20
+---
+12| PRN 30	 FIN SCAN START -3134 Hz
+-- sig_freq_dt = -3134Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8|0|PRN 27 -77K/ -8K L3 49dB  -795Hz    -1Hz  500      0    130   1
+11|0|PRN 34 -45K/  5K L3 42dB -1664Hz    -3Hz  501      0    121   1
+--
+obs comp tm (us) : 3
+10|0|PRN 15 113K/  2K L3 52dB   883Hz     1Hz  501      0    134   1
+12|PRN 30			 SUB-1 18K/1 (114/594) 	 dmp_cnt: 209 rng: [-5070 5122] 
+ 9|0|PRN 21  36K/  7K L3 42dB  1975Hz     3Hz  501      0    122   1
+--
+obs comp tm (us) : 3
+12|PRN 30			 SUB-2 19K/0 (-19/750) 	 dmp_cnt: 209 rng: [-5067 5125] 
+ 8|0|PRN 27 -81K/ -7K L3 49dB  -796Hz    -1Hz  501      0    127   1
+11|0|PRN 34  44K/  0K L3 42dB -1663Hz    -3Hz  501      0    119   1
+--
+obs comp tm (us) : 3
+12|PRN 30			 SUB-3 19K/0 (197/1050) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN 30			 TRACK REJECT 
+PRN 36	 START SCAN (aug: -2804 Hz) 
+10|0|PRN 15 115K/ -6K L3 52dB   882Hz     1Hz  500      0    142   1
+ 9|0|PRN 21  34K/ -3K L3 42dB  1972Hz     2Hz  500      0    136   2
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27 -82K/  2K L3 49dB  -798Hz    -2Hz  500      0    135   1
+11|0|PRN 34  36K/ -1K L3 42dB -1663Hz    -3Hz  500      0    131   2
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+---
+(FINE) * freq_dt : -2774 	 corr:  43472 (+)	 bin: 21
+---
+12| PRN 36	 FIN SCAN START -2774 Hz
+-- sig_freq_dt = -2774Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+10|0|PRN 15 121K/ -6K L3 52dB   881Hz     1Hz  501      0    134   1
+ 9|0|PRN 21 -27K/  3K L3 42dB  1971Hz     4Hz  501      0    139   1
+12|PRN 36			 SUB-1 19K/1 (-55/525) 	 dmp_cnt: 209 rng: [-5070 5122] 
+--
+obs comp tm (us) : 3
+12|PRN 36			 SUB-2 18K/1 (246/860) 	 dmp_cnt: 209 rng: [-5067 5125] 
+ 8|0|PRN 27  70K/ -7K L3 49dB  -800Hz    -2Hz  501      0    115   1
+11|0|PRN 34  47K/ -9K L3 43dB -1665Hz    -2Hz  501      0    134   1
+--
+obs comp tm (us) : 3
+10|0|PRN 15 -111K/  2K L3 52dB   881Hz     1Hz  501      0    132   1
+12|PRN 36			 SUB-3 19K/1 (104/1013) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN 36			 TRACK REJECT 
+PRN  3	 START SCAN (aug: 2892 Hz) 
+ 9|0|PRN 21 -33K/  7K L3 41dB  1969Hz     1Hz  500      0    135   2
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  79K/  2K L3 49dB  -799Hz    -1Hz  500      0    136   1
+11|0|PRN 34  29K/  8K L3 43dB -1661Hz    -2Hz  500      0    137   2
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+---
+(FINE) * freq_dt : 2862 	 corr:  47534 (-)	 bin: 19
+---
+12| PRN  3	 FIN SCAN START 2862 Hz
+-- sig_freq_dt = 2862Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+10|0|PRN 15 -120K/ -6K L3 52dB   881Hz     1Hz  501      0    138   1
+ 9|0|PRN 21  30K/ -6K L3 41dB  1969Hz     2Hz  501      0    126   1
+--
+obs comp tm (us) : 3
+12|PRN  3			 SUB-1 20K/0 (126/599) 	 dmp_cnt: 209 rng: [-5070 5122] 
+ 8|0|PRN 27  73K/ -1K L3 49dB  -801Hz    -2Hz  501      0    173   1
+11|0|PRN 34 -38K/ -5K L3 43dB -1663Hz    -3Hz  501      0    166   1
+--
+obs comp tm (us) : 3
+12|PRN  3			 SUB-2 18K/0 (-151/696) 	 dmp_cnt: 209 rng: [-5067 5125] 
+10|0|PRN 15 117K/  1K L3 52dB   880Hz     1Hz  501      0    135   1
+ 9|0|PRN 21 -36K/  7K L3 41dB  1968Hz     2Hz  501     -1    124   1
+12|PRN  3			 SUB-3 19K/0 (165/1037) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN  3			 TRACK REJECT 
+PRN  5	 START SCAN (aug: 2025 Hz) 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  71K/ -5K L3 48dB  -802Hz    -2Hz  500      0    134   1
+11|0|PRN 34 -39K/ 12K L3 43dB -1668Hz    -3Hz  500      0    137   2
+--
+obs comp tm (us) : 3
+10|0|PRN 15 114K/ -3K L3 52dB   879Hz     1Hz  500      0    136   1
+---
+(FINE) * freq_dt : 1995 	 corr:  61824 (+)	 bin: 15911
+---
+12| PRN  5	 FIN SCAN START 1995 Hz
+-- sig_freq_dt = 1995Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 9|0|PRN 21 -29K/ -8K L3 41dB  1972Hz     2Hz  500     -1    120   1
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+12|PRN  5			 SUB-1 56K/2 (-3/546) 	 dmp_cnt: 209 rng: [-5070 5122] 
+-- info [12, 5, 7]
+12|PRN  5			 TRACK START 
+PRN  9	 START SCAN (aug: -308 Hz) 
+ 8|0|PRN 27  74K/  3K L3 48dB  -802Hz    -2Hz  501      0    139   1
+11|0|PRN 34 -36K/ -1K L3 43dB -1665Hz    -2Hz  500      0    162   1
+--
+obs comp tm (us) : 4
+10|0|PRN 15 111K/  2K L3 51dB   879Hz     0Hz  500      0    137   1
+ 9|0|PRN 21 -28K/  1K L3 41dB  1968Hz     2Hz  500      0    140   2
+12|0|PRN  5  17K/-18K L0 24dB  1945Hz    -7Hz  499      1    144   1
+12|diff -72c
+--
+obs comp tm (us) : 3
+---
+(FINE) * freq_dt : -428 	 corr:  46996 (+)	 bin: 27
+---
+13| PRN  9	 FIN SCAN START -428 Hz
+-- sig_freq_dt = -428Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8|0|PRN 27  78K/ -6K L3 49dB  -804Hz    -2Hz  501      0    120   1
+11|0|PRN 34  27K/ -2K L3 43dB -1666Hz    -3Hz  501      1    123   1
+--
+obs comp tm (us) : 3
+13|PRN  9			 SUB-1 17K/1 (55/573) 	 dmp_cnt: 209 rng: [-5070 5122] 
+10|0|PRN 15 -110K/  7K L3 51dB   878Hz     1Hz  501      0    129   1
+ 9|0|PRN 21 -29K/ -9K L3 41dB  1970Hz     1Hz  501      0    115   1
+12|0|PRN  5 -30K/-19K L0 24dB  1995Hz    -2Hz  501      0    122   1
+12|diff -177c
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+13|PRN  9			 SUB-2 18K/2 (-189/683) 	 dmp_cnt: 209 rng: [-5067 5125] 
+ 8|0|PRN 27  70K/ -4K L3 49dB  -805Hz    -2Hz  501      0    122   1
+13|PRN  9			 SUB-3 20K/2 (139/1029) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  9			 TRACK REJECT 
+PRN 10	 START SCAN 
+11|0|PRN 34  39K/  8K L3 42dB -1664Hz    -3Hz  500      0    122   2
+--
+obs comp tm (us) : 4
+12| PRN  5	 CHANNEL OFF (NO LOCK)
+-- info [12, 5, 0]
+10|0|PRN 15 -111K/  0K L3 51dB   878Hz     1Hz  500      0    161   1
+ 9|0|PRN 21 -37K/  4K L3 41dB  1966Hz     2Hz  500      0    134   2
+--
+obs comp tm (us) : 3
+--- rcv sat info prn:  3 az: 137 el:  1 vel: 566.125 
+--- rcv sat info prn:  5 az:  91 el: 18 vel: 398.375 
+--- rcv sat info prn:  9 az:  38 el: 15 vel: -46.875 
+--- rcv sat info prn: 13 az: 252 el: 16 vel: 496.875 
+--- rcv sat info prn: 15 az: 260 el: 69 vel: 178 
+--- rcv sat info prn: 21 az: 317 el: 25 vel: 385.25 
+--- rcv sat info prn: 27 az: 255 el: 52 vel: -142.25 
+--- rcv sat info prn: 30 az: 189 el: 27 vel: -577.5 
+--- rcv sat info prn: 34 az:  66 el: 54 vel: -306.125 
+--- rcv sat info prn: 36 az:  70 el:  4 vel: -519.875 
+ 8|0|PRN 27  77K/  1K L3 49dB  -805Hz    -1Hz  500      0    136   1
+11|0|PRN 34  43K/  3K L3 42dB -1665Hz    -2Hz  501      1    139   2
+--
+obs comp tm (us) : 4
+10|0|PRN 15 -115K/ -7K L3 51dB   878Hz     1Hz  501      0    142   1
+ 9|0|PRN 21 -32K/  6K L3 40dB  1965Hz     2Hz  500      0    136   2
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+ 8|0|PRN 27  69K/  4K L3 48dB  -806Hz    -2Hz  501      0    138   1
+11|0|PRN 34 -36K/ -8K L3 42dB -1665Hz    -3Hz  501      1    139   2
+--
+obs comp tm (us) : 4
+10|0|PRN 15 -113K/ -4K L3 51dB   877Hz     1Hz  501      0    140   1
+ 9|0|PRN 21  33K/ -1K L3 40dB  1966Hz     2Hz  501      0    134   2
+--
+obs comp tm (us) : 3
+ 8|0|PRN 27  77K/  3K L3 48dB  -807Hz    -2Hz  500      1    137   1
+11|0|PRN 34 -35K/ -4K L3 41dB -1666Hz    -3Hz  500      0    138   2
+--
+obs comp tm (us) : 4
+10|0|PRN 15 108K/  2K L3 52dB   877Hz     1Hz  501      0    135   1
+ 9|0|PRN 21  28K/ -5K L3 40dB  1964Hz     2Hz  500      0    137   2
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  76K/  3K L3 48dB  -808Hz    -2Hz  501      0    136   1
+11|0|PRN 34 -27K/ -8K L3 41dB -1665Hz    -3Hz  501      0    119   2
+--
+obs comp tm (us) : 13
+10|0|PRN 15 123K/ -2K L3 51dB   876Hz     1Hz  501      0    136   1
+ 9|0|PRN 21 -23K/  2K L3 40dB  1964Hz     2Hz  501      0    132   2
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  81K/ -8K L3 49dB  -810Hz    -2Hz  500      0    136   1
+11|0|PRN 34 -36K/-15K L3 41dB -1664Hz    -3Hz  500      0    136   2
+--
+obs comp tm (us) : 3
+10|0|PRN 15 112K/ -1K L3 52dB   876Hz     0Hz  500      0    139   1
+ 9|0|PRN 21 -33K/ -5K L3 40dB  1965Hz     2Hz  501      0    140   2
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27 -86K/  1K L3 49dB  -810Hz    -1Hz  501      0    138   1
+11|0|PRN 34  21K/-10K L3 41dB -1671Hz    -2Hz  501      0    135   2
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 3
+10|0|PRN 15 113K/ -3K L3 51dB   875Hz     1Hz  501      0    135   1
+ 9|0|PRN 21  32K/ -5K L3 40dB  1962Hz     2Hz  501      0    120   2
+--
+obs comp tm (us) : 4
+---
+(FINE) * freq_dt : -3920 	 corr:  60356 (+)	 bin: 17
+---
+12| PRN 10	 FIN SCAN START -3920 Hz
+-- sig_freq_dt = -3920Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+ 8|0|PRN 27  77K/ -2K L3 49dB  -811Hz    -1Hz  501      0    124   1
+11|0|PRN 34 -30K/ -3K L3 41dB -1668Hz    -2Hz  501      0    122   1
+--
+obs comp tm (us) : 3
+10|0|PRN 15 -99K/ -6K L3 51dB   875Hz     0Hz  501      0    122   1
+ 9|0|PRN 21  35K/ -5K L3 40dB  1962Hz     2Hz  501      0    127   1
+12|PRN 10			 SUB-1 19K/0 (-161/3517) 	 dmp_cnt: 209 rng: [-5070 5122] 
+--
+obs comp tm (us) : 3
+12|PRN 10			 SUB-2 17K/2 (235/3890) 	 dmp_cnt: 209 rng: [-5067 5125] 
+ 8|0|PRN 27 -76K/-16K L3 48dB  -810Hz    -2Hz  501      0    121   1
+11|0|PRN 34 -29K/  6K L3 41dB -1671Hz    -2Hz  500      0    122   1
+--
+obs comp tm (us) : 3
+12|PRN 10			 SUB-3 16K/2 (-241/3906) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN 10			 TRACK REJECT 
+PRN 13	 START SCAN (aug: 2529 Hz) 
+10|0|PRN 15 -115K/ -2K L3 51dB   874Hz     1Hz  500     -1    137   1
+ 9|0|PRN 21  31K/ -4K L3 40dB  1961Hz     3Hz  500      0    132   2
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27 -79K/  5K L3 49dB  -814Hz    -1Hz  500      0    136   1
+11|0|PRN 34 -30K/ -2K L3 41dB -1669Hz    -3Hz  500      0    133   2
+--
+obs comp tm (us) : 3
+---
+(FINE) * freq_dt : 2589 	 corr:  38464 (-)	 bin: 10767
+---
+12| PRN 13	 FIN SCAN START 2589 Hz
+-- sig_freq_dt = 2589Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+10|0|PRN 15 -116K/ 10K L3 51dB   873Hz     1Hz  501      0    146   1
+ 9|0|PRN 21 -26K/  3K L3 40dB  1960Hz     2Hz  501      0    133   1
+12|PRN 13			 SUB-1 17K/0 (-237/451) 	 dmp_cnt: 209 rng: [-5070 5122] 
+--
+obs comp tm (us) : 3
+12|PRN 13			 SUB-2 23K/2 (-123/708) 	 dmp_cnt: 209 rng: [-5067 5125] 
+ 8|0|PRN 27  83K/ -3K L3 49dB  -814Hz    -2Hz  501      0    119   1
+11|0|PRN 34 -34K/ 10K L3 40dB -1672Hz    -3Hz  501      0    127   1
+--
+obs comp tm (us) : 3
+10|0|PRN 15 -115K/  0K L3 51dB   873Hz     1Hz  501     -1    124   1
+ 9|0|PRN 21  27K/ -2K L3 40dB  1960Hz     3Hz  501      0    142   1
+12|PRN 13			 SUB-3 27K/1 (-126/918) 	 dmp_cnt: 209 rng: [-5067 5125] 
+12|PRN 13			 TRACK REJECT 
+PRN 30	 START SCAN (aug: -3109 Hz) 
+main_spin: 0, isr_spin: 0, uart err: 0 stat:00000001, src:00000000
+isr_dump_err: 0 isr_meas_err: 0 
+--
+obs comp tm (us) : 4
+ 8|0|PRN 27  74K/  2K L3 49dB  -815Hz    -2Hz  500      0    139   1
+11|0|PRN 34 -15K/ -3K L3 40dB -1669Hz    -2Hz  500      0    131   2
+--
+obs comp tm (us) : 3
+---
+(FINE) * freq_dt : -3199 	 corr:  45454 (+)	 bin: 29
+---
+12| PRN 30	 FIN SCAN START -3199 Hz
+-- sig_freq_dt = -3199Hz
+comp PLL coefs : Bn=40, C1=57046, C2=12179 
+comp DLL coefs : Bn=25, C1=42004, C2=5605 
+10|0|PRN 15 -98K/  2K L3 51dB   872Hz     1Hz  501      0    147   1
+ 9|0|PRN 21  29K/ -3K L3 40dB  1959Hz     2Hz  501     -1    117   1
