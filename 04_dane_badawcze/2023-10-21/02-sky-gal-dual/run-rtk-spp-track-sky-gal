@@ -1,0 +1,18 @@
+#!/bin/sh
+if ! test -e rtk; then
+    mkdir rtk
+fi
+
+day=$(date +%j)
+year=$(date +%Y)
+yy=$(date +%y)
+#brdc_fname=brdc${day}0\.${yy}n
+brdc_fname=BRDC00WRD_S_${year}${day}0000_01D_MN.rnx
+brdc_fname_gps=brdc${day}0\.${yy}n
+
+cp track.bo rtk/
+#cp $brdc_fname rtk/
+cd rtk
+#./get-eph.sh
+#~/goGeo/rtklib/RTKLIB/app/qx2rtkp/build/qx2rtkp $brdc_fname track.bo 32 ../meas.spp.sky.gal.conf | tee rtkp.log
+~/goGeo/rtklib/RTKLIB/app/qx2rtkp/build/qx2rtkp ../$brdc_fname track.bo 32 ../meas.spp.sky.gal.conf - - ../$brdc_fname_gps | tee rtkp.log
