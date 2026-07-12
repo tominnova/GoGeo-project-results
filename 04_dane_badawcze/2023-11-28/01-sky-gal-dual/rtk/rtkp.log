@@ -1,0 +1,1983 @@
+qx2rtkp2 (RTKLIB 2.4.2)
+
+QX_VERSION            = 1
+EPH_REFRESH_OFF       = 0
+DECYM                 = 0
+MAX_PHASE             = 0
+DBG_CAR_CLK_ERR_COR   = 0
+DBG_RNG_CLK_ERR_COR   = 0
+READING BRDC :
+  ../BRDC00WRD_S_20233320000_01D_MN.rnx
+READING .qx  :
+  track.bo
+chan_num = 32
+isGalileo = 1
+GAL_AS_GPS_L1L2 = 0
+*** filtered biases file not found or open error (track.bo_preBias.csv-ft.csv)
+Out files:
+  track.bo_ch00.csv
+  track.bo_ch01.csv
+  track.bo_ch02.csv
+  track.bo_ch03.csv
+  track.bo_ch04.csv
+  track.bo_ch05.csv
+  track.bo_ch06.csv
+  track.bo_ch07.csv
+  track.bo_ch08.csv
+  track.bo_ch09.csv
+  track.bo_ch10.csv
+  track.bo_ch11.csv
+  track.bo_ch12.csv
+  track.bo_ch13.csv
+  track.bo_ch14.csv
+  track.bo_ch15.csv
+  track.bo_ch16.csv
+  track.bo_ch17.csv
+  track.bo_ch18.csv
+  track.bo_ch19.csv
+  track.bo_ch20.csv
+  track.bo_ch21.csv
+  track.bo_ch22.csv
+  track.bo_ch23.csv
+  track.bo_ch24.csv
+  track.bo_ch25.csv
+  track.bo_ch26.csv
+  track.bo_ch27.csv
+  track.bo_ch28.csv
+  track.bo_ch29.csv
+  track.bo_ch30.csv
+  track.bo_ch31.csv
+--
+reading files ...
+IONO: 2.98e-08 7.451e-09 -1.192e-07 1.192e-07 149500 -180200 0 131100 
+-- 237802 rst carr sat 65
+-- 237802 rst carr sat 69
+-- 237802 rst carr sat 77
+point pos error (lack of valid sats ns=6)
+TOW: 237801.640 tm: 2023/11/28 18:03:21.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 237812.640 tm: 2023/11/28 18:03:32.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 237823.640 tm: 2023/11/28 18:03:43.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 237834.640 tm: 2023/11/28 18:03:54.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 237845.640 tm: 2023/11/28 18:04:05.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 237856.640 tm: 2023/11/28 18:04:16.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 237867.640 tm: 2023/11/28 18:04:27.640 
+TOW: 237878.640 tm: 2023/11/28 18:04:38.640 
+TOW: 237889.640 tm: 2023/11/28 18:04:49.640 
+TOW: 237900.640 tm: 2023/11/28 18:05:00.640 
+TOW: 237911.640 tm: 2023/11/28 18:05:11.640 
+TOW: 237922.640 tm: 2023/11/28 18:05:22.640 
+TOW: 237933.640 tm: 2023/11/28 18:05:33.640 
+TOW: 237944.640 tm: 2023/11/28 18:05:44.640 
+TOW: 237955.640 tm: 2023/11/28 18:05:55.640 
+TOW: 237966.640 tm: 2023/11/28 18:06:06.640 
+TOW: 237977.640 tm: 2023/11/28 18:06:17.640 
+TOW: 237988.640 tm: 2023/11/28 18:06:28.640 
+TOW: 237999.640 tm: 2023/11/28 18:06:39.640 
+TOW: 238010.640 tm: 2023/11/28 18:06:50.640 
+TOW: 238021.640 tm: 2023/11/28 18:07:01.640 
+TOW: 238032.640 tm: 2023/11/28 18:07:12.640 
+TOW: 238043.640 tm: 2023/11/28 18:07:23.640 
+point pos error (gdop error nv=7 gdop=11.6)
+point pos error (gdop error nv=7 gdop=11.6)
+point pos error (gdop error nv=7 gdop=11.6)
+point pos error (gdop error nv=7 gdop=11.6)
+point pos error (gdop error nv=7 gdop=11.6)
+point pos error (gdop error nv=7 gdop=11.6)
+point pos error (gdop error nv=7 gdop=11.6)
+TOW: 238054.640 tm: 2023/11/28 18:07:34.640 
+point pos error (gdop error nv=7 gdop=11.6)
+point pos error (gdop error nv=7 gdop=11.5)
+point pos error (gdop error nv=7 gdop=11.5)
+point pos error (gdop error nv=7 gdop=11.5)
+point pos error (gdop error nv=7 gdop=11.5)
+point pos error (gdop error nv=7 gdop=11.5)
+point pos error (gdop error nv=7 gdop=11.5)
+point pos error (gdop error nv=7 gdop=11.5)
+point pos error (gdop error nv=7 gdop=11.5)
+point pos error (gdop error nv=7 gdop=11.5)
+point pos error (gdop error nv=7 gdop=11.5)
+TOW: 238065.640 tm: 2023/11/28 18:07:45.640 
+point pos error (gdop error nv=7 gdop=11.5)
+point pos error (gdop error nv=7 gdop=11.5)
+point pos error (gdop error nv=7 gdop=11.5)
+point pos error (gdop error nv=7 gdop=11.4)
+point pos error (gdop error nv=7 gdop=11.4)
+point pos error (gdop error nv=7 gdop=11.4)
+point pos error (gdop error nv=7 gdop=11.4)
+point pos error (gdop error nv=7 gdop=11.4)
+point pos error (gdop error nv=7 gdop=11.4)
+point pos error (gdop error nv=7 gdop=11.4)
+point pos error (gdop error nv=7 gdop=11.4)
+TOW: 238076.640 tm: 2023/11/28 18:07:56.640 
+point pos error (gdop error nv=7 gdop=11.4)
+point pos error (gdop error nv=7 gdop=11.4)
+point pos error (gdop error nv=7 gdop=11.4)
+point pos error (gdop error nv=7 gdop=11.4)
+point pos error (gdop error nv=7 gdop=11.4)
+point pos error (gdop error nv=7 gdop=11.3)
+point pos error (gdop error nv=7 gdop=11.3)
+point pos error (gdop error nv=7 gdop=11.3)
+point pos error (gdop error nv=7 gdop=11.3)
+point pos error (gdop error nv=7 gdop=11.3)
+point pos error (gdop error nv=7 gdop=11.3)
+TOW: 238087.640 tm: 2023/11/28 18:08:07.640 
+point pos error (gdop error nv=7 gdop=11.3)
+point pos error (gdop error nv=7 gdop=11.3)
+point pos error (gdop error nv=7 gdop=11.3)
+point pos error (gdop error nv=7 gdop=11.3)
+point pos error (gdop error nv=7 gdop=11.3)
+point pos error (gdop error nv=7 gdop=11.3)
+point pos error (gdop error nv=7 gdop=11.3)
+point pos error (gdop error nv=7 gdop=11.2)
+point pos error (gdop error nv=7 gdop=11.2)
+point pos error (gdop error nv=7 gdop=11.2)
+point pos error (gdop error nv=7 gdop=11.2)
+TOW: 238098.640 tm: 2023/11/28 18:08:18.640 
+point pos error (gdop error nv=7 gdop=11.2)
+point pos error (gdop error nv=7 gdop=11.2)
+point pos error (gdop error nv=7 gdop=11.2)
+point pos error (gdop error nv=7 gdop=11.2)
+point pos error (gdop error nv=7 gdop=11.2)
+point pos error (gdop error nv=7 gdop=11.2)
+point pos error (gdop error nv=7 gdop=11.2)
+point pos error (gdop error nv=7 gdop=11.2)
+point pos error (gdop error nv=7 gdop=11.2)
+point pos error (gdop error nv=7 gdop=11.2)
+point pos error (gdop error nv=7 gdop=11.1)
+TOW: 238109.640 tm: 2023/11/28 18:08:29.640 
+point pos error (gdop error nv=7 gdop=11.1)
+point pos error (gdop error nv=7 gdop=11.1)
+point pos error (gdop error nv=7 gdop=11.1)
+point pos error (gdop error nv=7 gdop=11.1)
+point pos error (gdop error nv=7 gdop=11.1)
+point pos error (gdop error nv=7 gdop=11.1)
+point pos error (gdop error nv=7 gdop=11.1)
+point pos error (gdop error nv=7 gdop=11.1)
+point pos error (gdop error nv=7 gdop=11.1)
+point pos error (gdop error nv=7 gdop=11.1)
+point pos error (gdop error nv=7 gdop=11.1)
+TOW: 238120.640 tm: 2023/11/28 18:08:40.640 
+point pos error (gdop error nv=7 gdop=11.1)
+point pos error (gdop error nv=7 gdop=11.1)
+point pos error (gdop error nv=7 gdop=11.0)
+point pos error (gdop error nv=7 gdop=11.0)
+point pos error (gdop error nv=7 gdop=11.0)
+point pos error (gdop error nv=7 gdop=11.0)
+point pos error (gdop error nv=7 gdop=11.0)
+point pos error (gdop error nv=7 gdop=11.0)
+point pos error (gdop error nv=7 gdop=11.0)
+point pos error (gdop error nv=7 gdop=11.0)
+point pos error (gdop error nv=7 gdop=11.0)
+TOW: 238131.640 tm: 2023/11/28 18:08:51.640 
+point pos error (gdop error nv=7 gdop=11.0)
+point pos error (gdop error nv=7 gdop=11.0)
+point pos error (gdop error nv=7 gdop=11.0)
+point pos error (gdop error nv=7 gdop=11.0)
+point pos error (gdop error nv=7 gdop=11.0)
+point pos error (gdop error nv=7 gdop=11.0)
+point pos error (gdop error nv=7 gdop=10.9)
+point pos error (gdop error nv=7 gdop=10.9)
+point pos error (gdop error nv=7 gdop=10.9)
+point pos error (gdop error nv=7 gdop=10.9)
+point pos error (gdop error nv=7 gdop=10.9)
+TOW: 238142.640 tm: 2023/11/28 18:09:02.640 
+point pos error (gdop error nv=7 gdop=10.9)
+point pos error (gdop error nv=7 gdop=10.9)
+point pos error (gdop error nv=7 gdop=10.9)
+point pos error (gdop error nv=7 gdop=10.9)
+point pos error (gdop error nv=7 gdop=10.9)
+point pos error (gdop error nv=7 gdop=10.9)
+point pos error (gdop error nv=7 gdop=10.9)
+point pos error (gdop error nv=7 gdop=10.9)
+point pos error (gdop error nv=7 gdop=10.9)
+point pos error (gdop error nv=7 gdop=10.8)
+point pos error (gdop error nv=7 gdop=10.8)
+TOW: 238153.640 tm: 2023/11/28 18:09:13.640 
+point pos error (gdop error nv=7 gdop=10.8)
+point pos error (gdop error nv=7 gdop=10.8)
+point pos error (gdop error nv=7 gdop=10.8)
+point pos error (gdop error nv=7 gdop=10.8)
+point pos error (gdop error nv=7 gdop=10.8)
+point pos error (gdop error nv=7 gdop=10.8)
+point pos error (gdop error nv=7 gdop=10.8)
+point pos error (gdop error nv=7 gdop=10.8)
+point pos error (gdop error nv=7 gdop=10.8)
+point pos error (gdop error nv=7 gdop=10.8)
+point pos error (gdop error nv=7 gdop=10.8)
+TOW: 238164.640 tm: 2023/11/28 18:09:24.640 
+point pos error (gdop error nv=7 gdop=10.8)
+point pos error (gdop error nv=7 gdop=10.8)
+point pos error (gdop error nv=7 gdop=10.7)
+point pos error (gdop error nv=7 gdop=10.7)
+point pos error (gdop error nv=7 gdop=10.7)
+point pos error (gdop error nv=7 gdop=10.7)
+point pos error (gdop error nv=7 gdop=10.7)
+point pos error (gdop error nv=7 gdop=10.7)
+point pos error (gdop error nv=7 gdop=10.7)
+point pos error (gdop error nv=7 gdop=10.7)
+point pos error (gdop error nv=7 gdop=10.7)
+TOW: 238175.640 tm: 2023/11/28 18:09:35.640 
+point pos error (gdop error nv=7 gdop=10.7)
+point pos error (gdop error nv=7 gdop=10.7)
+point pos error (gdop error nv=7 gdop=10.7)
+point pos error (gdop error nv=7 gdop=10.7)
+point pos error (gdop error nv=7 gdop=10.7)
+point pos error (gdop error nv=7 gdop=10.7)
+point pos error (gdop error nv=7 gdop=10.6)
+point pos error (gdop error nv=7 gdop=10.6)
+point pos error (gdop error nv=7 gdop=10.6)
+point pos error (gdop error nv=7 gdop=10.6)
+point pos error (gdop error nv=7 gdop=10.6)
+TOW: 238186.640 tm: 2023/11/28 18:09:46.640 
+point pos error (gdop error nv=7 gdop=10.6)
+point pos error (gdop error nv=7 gdop=10.6)
+point pos error (gdop error nv=7 gdop=10.6)
+point pos error (gdop error nv=7 gdop=10.6)
+point pos error (gdop error nv=7 gdop=10.6)
+point pos error (gdop error nv=7 gdop=10.6)
+point pos error (gdop error nv=7 gdop=10.6)
+point pos error (gdop error nv=7 gdop=10.6)
+point pos error (gdop error nv=7 gdop=10.6)
+point pos error (gdop error nv=7 gdop=10.6)
+point pos error (gdop error nv=7 gdop=10.6)
+TOW: 238197.640 tm: 2023/11/28 18:09:57.640 
+point pos error (gdop error nv=7 gdop=10.5)
+point pos error (gdop error nv=7 gdop=10.5)
+point pos error (gdop error nv=7 gdop=10.5)
+point pos error (gdop error nv=7 gdop=10.5)
+point pos error (gdop error nv=7 gdop=10.5)
+point pos error (gdop error nv=7 gdop=10.5)
+point pos error (gdop error nv=7 gdop=10.5)
+point pos error (gdop error nv=7 gdop=10.5)
+point pos error (gdop error nv=7 gdop=10.5)
+point pos error (gdop error nv=7 gdop=10.5)
+point pos error (gdop error nv=7 gdop=10.5)
+TOW: 238208.640 tm: 2023/11/28 18:10:08.640 
+point pos error (gdop error nv=7 gdop=10.5)
+point pos error (gdop error nv=7 gdop=10.5)
+point pos error (gdop error nv=7 gdop=10.5)
+point pos error (gdop error nv=7 gdop=10.5)
+point pos error (gdop error nv=7 gdop=10.5)
+point pos error (gdop error nv=7 gdop=10.4)
+point pos error (gdop error nv=7 gdop=10.4)
+point pos error (gdop error nv=7 gdop=10.4)
+point pos error (gdop error nv=7 gdop=10.4)
+point pos error (gdop error nv=7 gdop=10.4)
+point pos error (gdop error nv=7 gdop=10.4)
+TOW: 238219.640 tm: 2023/11/28 18:10:19.640 
+point pos error (gdop error nv=7 gdop=10.4)
+point pos error (gdop error nv=7 gdop=10.4)
+point pos error (gdop error nv=7 gdop=10.4)
+point pos error (gdop error nv=7 gdop=10.4)
+point pos error (gdop error nv=7 gdop=10.4)
+point pos error (gdop error nv=7 gdop=10.4)
+point pos error (gdop error nv=7 gdop=10.4)
+point pos error (gdop error nv=7 gdop=10.4)
+point pos error (gdop error nv=7 gdop=10.4)
+point pos error (gdop error nv=7 gdop=10.4)
+point pos error (gdop error nv=7 gdop=10.3)
+TOW: 238230.640 tm: 2023/11/28 18:10:30.640 
+point pos error (gdop error nv=7 gdop=10.3)
+point pos error (gdop error nv=7 gdop=10.3)
+point pos error (gdop error nv=7 gdop=10.3)
+point pos error (gdop error nv=7 gdop=10.3)
+point pos error (gdop error nv=7 gdop=10.3)
+point pos error (gdop error nv=7 gdop=10.3)
+point pos error (gdop error nv=7 gdop=10.3)
+point pos error (gdop error nv=7 gdop=10.3)
+point pos error (gdop error nv=7 gdop=10.3)
+point pos error (gdop error nv=7 gdop=10.3)
+point pos error (gdop error nv=7 gdop=10.3)
+TOW: 238241.640 tm: 2023/11/28 18:10:41.640 
+point pos error (gdop error nv=7 gdop=10.3)
+point pos error (gdop error nv=7 gdop=10.3)
+point pos error (gdop error nv=7 gdop=10.3)
+point pos error (gdop error nv=7 gdop=10.3)
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.2)
+TOW: 238252.640 tm: 2023/11/28 18:10:52.640 
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.2)
+point pos error (gdop error nv=7 gdop=10.1)
+TOW: 238263.640 tm: 2023/11/28 18:11:03.640 
+point pos error (gdop error nv=7 gdop=10.1)
+point pos error (gdop error nv=7 gdop=10.1)
+point pos error (gdop error nv=7 gdop=10.1)
+point pos error (gdop error nv=7 gdop=10.1)
+point pos error (gdop error nv=7 gdop=10.1)
+point pos error (gdop error nv=7 gdop=10.1)
+point pos error (gdop error nv=7 gdop=10.1)
+point pos error (gdop error nv=7 gdop=10.1)
+point pos error (gdop error nv=7 gdop=10.1)
+point pos error (gdop error nv=7 gdop=10.1)
+point pos error (gdop error nv=7 gdop=10.1)
+TOW: 238274.640 tm: 2023/11/28 18:11:14.640 
+point pos error (gdop error nv=7 gdop=10.1)
+point pos error (gdop error nv=7 gdop=10.1)
+point pos error (gdop error nv=7 gdop=10.1)
+point pos error (gdop error nv=7 gdop=10.1)
+point pos error (gdop error nv=7 gdop=10.1)
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=10.0)
+TOW: 238285.640 tm: 2023/11/28 18:11:25.640 
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=10.0)
+TOW: 238296.640 tm: 2023/11/28 18:11:36.640 
+point pos error (gdop error nv=7 gdop=10.0)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+TOW: 238307.640 tm: 2023/11/28 18:11:47.640 
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.9)
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.8)
+TOW: 238318.640 tm: 2023/11/28 18:11:58.640 
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.8)
+TOW: 238329.640 tm: 2023/11/28 18:12:09.640 
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.8)
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+TOW: 238340.640 tm: 2023/11/28 18:12:20.640 
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.7)
+TOW: 238351.640 tm: 2023/11/28 18:12:31.640 
+point pos error (gdop error nv=7 gdop=9.7)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+TOW: 238362.640 tm: 2023/11/28 18:12:42.640 
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.6)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+TOW: 238373.640 tm: 2023/11/28 18:12:53.640 
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+TOW: 238384.640 tm: 2023/11/28 18:13:04.640 
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.5)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+TOW: 238395.640 tm: 2023/11/28 18:13:15.640 
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+TOW: 238406.640 tm: 2023/11/28 18:13:26.640 
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.4)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+TOW: 238417.640 tm: 2023/11/28 18:13:37.640 
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+TOW: 238428.640 tm: 2023/11/28 18:13:48.640 
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.3)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+TOW: 238439.640 tm: 2023/11/28 18:13:59.640 
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+TOW: 238450.640 tm: 2023/11/28 18:14:10.640 
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.2)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+TOW: 238461.640 tm: 2023/11/28 18:14:21.640 
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.1)
+TOW: 238472.640 tm: 2023/11/28 18:14:32.640 
+point pos error (gdop error nv=7 gdop=9.1)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+TOW: 238483.640 tm: 2023/11/28 18:14:43.640 
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=9.0)
+TOW: 238494.640 tm: 2023/11/28 18:14:54.640 
+point pos error (gdop error nv=7 gdop=9.0)
+point pos error (gdop error nv=7 gdop=8.9)
+point pos error (gdop error nv=7 gdop=8.9)
+point pos error (gdop error nv=7 gdop=8.9)
+point pos error (gdop error nv=7 gdop=8.9)
+point pos error (gdop error nv=7 gdop=8.9)
+point pos error (gdop error nv=7 gdop=8.9)
+point pos error (gdop error nv=7 gdop=8.9)
+point pos error (gdop error nv=7 gdop=8.9)
+point pos error (gdop error nv=7 gdop=8.9)
+point pos error (gdop error nv=7 gdop=8.9)
+TOW: 238505.640 tm: 2023/11/28 18:15:05.640 
+point pos error (gdop error nv=7 gdop=8.9)
+point pos error (gdop error nv=8 gdop=7.4)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+TOW: 238516.640 tm: 2023/11/28 18:15:16.640 
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+point pos error (gdop error nv=8 gdop=7.3)
+TOW: 238527.640 tm: 2023/11/28 18:15:27.640 
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+TOW: 238538.640 tm: 2023/11/28 18:15:38.640 
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.2)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+TOW: 238549.640 tm: 2023/11/28 18:15:49.640 
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+TOW: 238560.640 tm: 2023/11/28 18:16:00.640 
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.1)
+point pos error (gdop error nv=8 gdop=7.0)
+point pos error (gdop error nv=8 gdop=7.0)
+point pos error (gdop error nv=8 gdop=7.0)
+point pos error (gdop error nv=8 gdop=7.0)
+TOW: 238571.640 tm: 2023/11/28 18:16:11.640 
+point pos error (gdop error nv=8 gdop=7.0)
+point pos error (gdop error nv=8 gdop=7.0)
+point pos error (gdop error nv=8 gdop=7.0)
+point pos error (gdop error nv=8 gdop=7.0)
+point pos error (gdop error nv=8 gdop=7.0)
+point pos error (gdop error nv=8 gdop=7.0)
+point pos error (gdop error nv=8 gdop=7.0)
+TOW: 238582.640 tm: 2023/11/28 18:16:22.640 
+TOW: 238593.640 tm: 2023/11/28 18:16:33.640 
+TOW: 238604.640 tm: 2023/11/28 18:16:44.640 
+TOW: 238615.640 tm: 2023/11/28 18:16:55.640 
+TOW: 238626.640 tm: 2023/11/28 18:17:06.640 
+TOW: 238637.640 tm: 2023/11/28 18:17:17.640 
+TOW: 238648.640 tm: 2023/11/28 18:17:28.640 
+TOW: 238659.640 tm: 2023/11/28 18:17:39.640 
+TOW: 238670.640 tm: 2023/11/28 18:17:50.640 
+TOW: 238681.640 tm: 2023/11/28 18:18:01.640 
+TOW: 238692.640 tm: 2023/11/28 18:18:12.640 
+TOW: 238703.640 tm: 2023/11/28 18:18:23.640 
+TOW: 238714.640 tm: 2023/11/28 18:18:34.640 
+TOW: 238725.640 tm: 2023/11/28 18:18:45.640 
+TOW: 238736.640 tm: 2023/11/28 18:18:56.640 
+TOW: 238747.640 tm: 2023/11/28 18:19:07.640 
+TOW: 238758.640 tm: 2023/11/28 18:19:18.640 
+TOW: 238769.640 tm: 2023/11/28 18:19:29.640 
+TOW: 238780.640 tm: 2023/11/28 18:19:40.640 
+TOW: 238791.640 tm: 2023/11/28 18:19:51.640 
+TOW: 238802.640 tm: 2023/11/28 18:20:02.640 
+TOW: 238813.640 tm: 2023/11/28 18:20:13.640 
+TOW: 238824.640 tm: 2023/11/28 18:20:24.640 
+TOW: 238835.640 tm: 2023/11/28 18:20:35.640 
+TOW: 238846.640 tm: 2023/11/28 18:20:46.640 
+TOW: 238857.640 tm: 2023/11/28 18:20:57.640 
+TOW: 238868.640 tm: 2023/11/28 18:21:08.640 
+TOW: 238879.640 tm: 2023/11/28 18:21:19.640 
+TOW: 238890.640 tm: 2023/11/28 18:21:30.640 
+TOW: 238901.640 tm: 2023/11/28 18:21:41.640 
+TOW: 238912.640 tm: 2023/11/28 18:21:52.640 
+TOW: 238923.640 tm: 2023/11/28 18:22:03.640 
+TOW: 238934.640 tm: 2023/11/28 18:22:14.640 
+TOW: 238945.640 tm: 2023/11/28 18:22:25.640 
+TOW: 238956.640 tm: 2023/11/28 18:22:36.640 
+TOW: 238967.640 tm: 2023/11/28 18:22:47.640 
+TOW: 238978.640 tm: 2023/11/28 18:22:58.640 
+TOW: 238989.640 tm: 2023/11/28 18:23:09.640 
+TOW: 239000.640 tm: 2023/11/28 18:23:20.640 
+TOW: 239011.640 tm: 2023/11/28 18:23:31.640 
+TOW: 239022.640 tm: 2023/11/28 18:23:42.640 
+TOW: 239033.640 tm: 2023/11/28 18:23:53.640 
+TOW: 239044.640 tm: 2023/11/28 18:24:04.640 
+TOW: 239055.640 tm: 2023/11/28 18:24:15.640 
+TOW: 239066.640 tm: 2023/11/28 18:24:26.640 
+TOW: 239077.640 tm: 2023/11/28 18:24:37.640 
+TOW: 239088.640 tm: 2023/11/28 18:24:48.640 
+TOW: 239099.640 tm: 2023/11/28 18:24:59.640 
+TOW: 239110.640 tm: 2023/11/28 18:25:10.640 
+TOW: 239121.640 tm: 2023/11/28 18:25:21.640 
+TOW: 239132.640 tm: 2023/11/28 18:25:32.640 
+TOW: 239143.640 tm: 2023/11/28 18:25:43.640 
+TOW: 239154.640 tm: 2023/11/28 18:25:54.640 
+TOW: 239165.640 tm: 2023/11/28 18:26:05.640 
+TOW: 239176.640 tm: 2023/11/28 18:26:16.640 
+TOW: 239187.640 tm: 2023/11/28 18:26:27.640 
+TOW: 239198.640 tm: 2023/11/28 18:26:38.640 
+TOW: 239209.640 tm: 2023/11/28 18:26:49.640 
+TOW: 239220.640 tm: 2023/11/28 18:27:00.640 
+TOW: 239231.640 tm: 2023/11/28 18:27:11.640 
+TOW: 239242.640 tm: 2023/11/28 18:27:22.640 
+TOW: 239253.640 tm: 2023/11/28 18:27:33.640 
+TOW: 239264.640 tm: 2023/11/28 18:27:44.640 
+TOW: 239275.640 tm: 2023/11/28 18:27:55.640 
+TOW: 239286.640 tm: 2023/11/28 18:28:06.640 
+TOW: 239297.640 tm: 2023/11/28 18:28:17.640 
+TOW: 239308.640 tm: 2023/11/28 18:28:28.640 
+TOW: 239319.640 tm: 2023/11/28 18:28:39.640 
+TOW: 239330.640 tm: 2023/11/28 18:28:50.640 
+TOW: 239341.640 tm: 2023/11/28 18:29:01.640 
+TOW: 239352.640 tm: 2023/11/28 18:29:12.640 
+TOW: 239363.640 tm: 2023/11/28 18:29:23.640 
+TOW: 239374.640 tm: 2023/11/28 18:29:34.640 
+TOW: 239385.640 tm: 2023/11/28 18:29:45.640 
+TOW: 239396.640 tm: 2023/11/28 18:29:56.640 
+TOW: 239407.640 tm: 2023/11/28 18:30:07.640 
+TOW: 239418.640 tm: 2023/11/28 18:30:18.640 
+TOW: 239429.640 tm: 2023/11/28 18:30:29.640 
+TOW: 239440.640 tm: 2023/11/28 18:30:40.640 
+TOW: 239451.640 tm: 2023/11/28 18:30:51.640 
+TOW: 239462.640 tm: 2023/11/28 18:31:02.640 
+TOW: 239473.640 tm: 2023/11/28 18:31:13.640 
+TOW: 239484.640 tm: 2023/11/28 18:31:24.640 
+TOW: 239495.640 tm: 2023/11/28 18:31:35.640 
+TOW: 239506.640 tm: 2023/11/28 18:31:46.640 
+TOW: 239517.640 tm: 2023/11/28 18:31:57.640 
+TOW: 239528.640 tm: 2023/11/28 18:32:08.640 
+TOW: 239539.640 tm: 2023/11/28 18:32:19.640 
+TOW: 239550.640 tm: 2023/11/28 18:32:30.640 
+TOW: 239561.640 tm: 2023/11/28 18:32:41.640 
+TOW: 239572.640 tm: 2023/11/28 18:32:52.640 
+TOW: 239583.640 tm: 2023/11/28 18:33:03.640 
+TOW: 239594.640 tm: 2023/11/28 18:33:14.640 
+TOW: 239605.640 tm: 2023/11/28 18:33:25.640 
+TOW: 239616.640 tm: 2023/11/28 18:33:36.640 
+TOW: 239627.640 tm: 2023/11/28 18:33:47.640 
+TOW: 239638.640 tm: 2023/11/28 18:33:58.640 
+TOW: 239649.640 tm: 2023/11/28 18:34:09.640 
+TOW: 239660.640 tm: 2023/11/28 18:34:20.640 
+TOW: 239671.640 tm: 2023/11/28 18:34:31.640 
+TOW: 239682.640 tm: 2023/11/28 18:34:42.640 
+TOW: 239693.640 tm: 2023/11/28 18:34:53.640 
+TOW: 239704.640 tm: 2023/11/28 18:35:04.640 
+TOW: 239715.640 tm: 2023/11/28 18:35:15.640 
+TOW: 239726.640 tm: 2023/11/28 18:35:26.640 
+TOW: 239737.640 tm: 2023/11/28 18:35:37.640 
+TOW: 239748.640 tm: 2023/11/28 18:35:48.640 
+TOW: 239759.640 tm: 2023/11/28 18:35:59.640 
+TOW: 239770.640 tm: 2023/11/28 18:36:10.640 
+TOW: 239781.640 tm: 2023/11/28 18:36:21.640 
+TOW: 239792.640 tm: 2023/11/28 18:36:32.640 
+TOW: 239803.640 tm: 2023/11/28 18:36:43.640 
+TOW: 239814.640 tm: 2023/11/28 18:36:54.640 
+TOW: 239825.640 tm: 2023/11/28 18:37:05.640 
+TOW: 239836.640 tm: 2023/11/28 18:37:16.640 
+TOW: 239847.640 tm: 2023/11/28 18:37:27.640 
+TOW: 239858.640 tm: 2023/11/28 18:37:38.640 
+TOW: 239869.640 tm: 2023/11/28 18:37:49.640 
+TOW: 239880.640 tm: 2023/11/28 18:38:00.640 
+TOW: 239891.640 tm: 2023/11/28 18:38:11.640 
+TOW: 239902.640 tm: 2023/11/28 18:38:22.640 
+TOW: 239913.640 tm: 2023/11/28 18:38:33.640 
+TOW: 239924.640 tm: 2023/11/28 18:38:44.640 
+TOW: 239935.640 tm: 2023/11/28 18:38:55.640 
+TOW: 239946.640 tm: 2023/11/28 18:39:06.640 
+TOW: 239957.640 tm: 2023/11/28 18:39:17.640 
+TOW: 239968.640 tm: 2023/11/28 18:39:28.640 
+TOW: 239979.640 tm: 2023/11/28 18:39:39.640 
+TOW: 239990.640 tm: 2023/11/28 18:39:50.640 
+TOW: 240001.640 tm: 2023/11/28 18:40:01.640 
+TOW: 240012.640 tm: 2023/11/28 18:40:12.640 
+TOW: 240023.640 tm: 2023/11/28 18:40:23.640 
+TOW: 240034.640 tm: 2023/11/28 18:40:34.640 
+TOW: 240045.640 tm: 2023/11/28 18:40:45.640 
+TOW: 240056.640 tm: 2023/11/28 18:40:56.640 
+TOW: 240067.640 tm: 2023/11/28 18:41:07.640 
+TOW: 240078.640 tm: 2023/11/28 18:41:18.640 
+TOW: 240089.640 tm: 2023/11/28 18:41:29.640 
+TOW: 240100.640 tm: 2023/11/28 18:41:40.640 
+TOW: 240111.640 tm: 2023/11/28 18:41:51.640 
+TOW: 240122.640 tm: 2023/11/28 18:42:02.640 
+TOW: 240133.640 tm: 2023/11/28 18:42:13.640 
+TOW: 240144.640 tm: 2023/11/28 18:42:24.640 
+TOW: 240155.640 tm: 2023/11/28 18:42:35.640 
+TOW: 240166.640 tm: 2023/11/28 18:42:46.640 
+TOW: 240177.640 tm: 2023/11/28 18:42:57.640 
+TOW: 240188.640 tm: 2023/11/28 18:43:08.640 
+TOW: 240199.640 tm: 2023/11/28 18:43:19.640 
+TOW: 240210.640 tm: 2023/11/28 18:43:30.640 
+TOW: 240221.640 tm: 2023/11/28 18:43:41.640 
+TOW: 240232.640 tm: 2023/11/28 18:43:52.640 
+TOW: 240243.640 tm: 2023/11/28 18:44:03.640 
+TOW: 240254.640 tm: 2023/11/28 18:44:14.640 
+TOW: 240265.640 tm: 2023/11/28 18:44:25.640 
+TOW: 240276.640 tm: 2023/11/28 18:44:36.640 
+TOW: 240287.640 tm: 2023/11/28 18:44:47.640 
+TOW: 240298.640 tm: 2023/11/28 18:44:58.640 
+TOW: 240309.640 tm: 2023/11/28 18:45:09.640 
+TOW: 240320.640 tm: 2023/11/28 18:45:20.640 
+TOW: 240331.640 tm: 2023/11/28 18:45:31.640 
+TOW: 240342.640 tm: 2023/11/28 18:45:42.640 
+TOW: 240353.640 tm: 2023/11/28 18:45:53.640 
+TOW: 240364.640 tm: 2023/11/28 18:46:04.640 
+TOW: 240375.640 tm: 2023/11/28 18:46:15.640 
+TOW: 240386.640 tm: 2023/11/28 18:46:26.640 
+TOW: 240397.640 tm: 2023/11/28 18:46:37.640 
+TOW: 240408.640 tm: 2023/11/28 18:46:48.640 
+TOW: 240419.640 tm: 2023/11/28 18:46:59.640 
+TOW: 240430.640 tm: 2023/11/28 18:47:10.640 
+TOW: 240441.640 tm: 2023/11/28 18:47:21.640 
+TOW: 240452.640 tm: 2023/11/28 18:47:32.640 
+TOW: 240463.640 tm: 2023/11/28 18:47:43.640 
+TOW: 240474.640 tm: 2023/11/28 18:47:54.640 
+TOW: 240485.640 tm: 2023/11/28 18:48:05.640 
+TOW: 240496.640 tm: 2023/11/28 18:48:16.640 
+TOW: 240507.640 tm: 2023/11/28 18:48:27.640 
+TOW: 240518.640 tm: 2023/11/28 18:48:38.640 
+TOW: 240529.640 tm: 2023/11/28 18:48:49.640 
+TOW: 240540.640 tm: 2023/11/28 18:49:00.640 
+TOW: 240551.640 tm: 2023/11/28 18:49:11.640 
+TOW: 240562.640 tm: 2023/11/28 18:49:22.640 
+TOW: 240573.640 tm: 2023/11/28 18:49:33.640 
+TOW: 240584.640 tm: 2023/11/28 18:49:44.640 
+TOW: 240595.640 tm: 2023/11/28 18:49:55.640 
+TOW: 240606.640 tm: 2023/11/28 18:50:06.640 
+TOW: 240617.640 tm: 2023/11/28 18:50:17.640 
+TOW: 240628.640 tm: 2023/11/28 18:50:28.640 
+TOW: 240639.640 tm: 2023/11/28 18:50:39.640 
+TOW: 240650.640 tm: 2023/11/28 18:50:50.640 
+TOW: 240661.640 tm: 2023/11/28 18:51:01.640 
+TOW: 240672.640 tm: 2023/11/28 18:51:12.640 
+TOW: 240683.640 tm: 2023/11/28 18:51:23.640 
+TOW: 240694.640 tm: 2023/11/28 18:51:34.640 
+TOW: 240705.640 tm: 2023/11/28 18:51:45.640 
+TOW: 240716.640 tm: 2023/11/28 18:51:56.640 
+TOW: 240727.640 tm: 2023/11/28 18:52:07.640 
+TOW: 240738.640 tm: 2023/11/28 18:52:18.640 
+TOW: 240749.640 tm: 2023/11/28 18:52:29.640 
+TOW: 240760.640 tm: 2023/11/28 18:52:40.640 
+TOW: 240771.640 tm: 2023/11/28 18:52:51.640 
+chi-square error nv=8 vv=4625.1 cs=10.8 
+--> validation DISABLED 
+chi-square error nv=8 vv=27105.4 cs=10.8 
+--> validation DISABLED 
+chi-square error nv=8 vv=2093.4 cs=10.8 
+--> validation DISABLED 
+chi-square error nv=8 vv=29836.5 cs=10.8 
+--> validation DISABLED 
+chi-square error nv=8 vv=11796.9 cs=10.8 
+--> validation DISABLED 
+chi-square error nv=8 vv=15013.8 cs=10.8 
+--> validation DISABLED 
+chi-square error nv=8 vv=2018068.6 cs=10.8 
+--> validation DISABLED 
+chi-square error nv=8 vv=11137087.1 cs=10.8 
+--> validation DISABLED 
+TOW: 240782.640 tm: 2023/11/28 18:53:02.640 
+chi-square error nv=8 vv=35680295.3 cs=10.8 
+--> validation DISABLED 
+chi-square error nv=8 vv=68704193.2 cs=10.8 
+--> validation DISABLED 
+chi-square error nv=8 vv=113068146.3 cs=10.8 
+--> validation DISABLED 
+chi-square error nv=8 vv=157849417.5 cs=10.8 
+--> validation DISABLED 
+chi-square error nv=8 vv=195772692.0 cs=10.8 
+--> validation DISABLED 
+TOW: 240793.640 tm: 2023/11/28 18:53:13.640 
+TOW: 240804.640 tm: 2023/11/28 18:53:24.640 
+TOW: 240815.640 tm: 2023/11/28 18:53:35.640 
+TOW: 240826.640 tm: 2023/11/28 18:53:46.640 
+TOW: 240837.640 tm: 2023/11/28 18:53:57.640 
+TOW: 240848.640 tm: 2023/11/28 18:54:08.640 
+TOW: 240859.640 tm: 2023/11/28 18:54:19.640 
+TOW: 240870.640 tm: 2023/11/28 18:54:30.640 
+TOW: 240881.640 tm: 2023/11/28 18:54:41.640 
+TOW: 240892.640 tm: 2023/11/28 18:54:52.640 
+TOW: 240903.640 tm: 2023/11/28 18:55:03.640 
+TOW: 240914.640 tm: 2023/11/28 18:55:14.640 
+TOW: 240925.640 tm: 2023/11/28 18:55:25.640 
+TOW: 240936.640 tm: 2023/11/28 18:55:36.640 
+TOW: 240947.640 tm: 2023/11/28 18:55:47.640 
+TOW: 240958.640 tm: 2023/11/28 18:55:58.640 
+TOW: 240969.640 tm: 2023/11/28 18:56:09.640 
+TOW: 240980.640 tm: 2023/11/28 18:56:20.640 
+TOW: 240991.640 tm: 2023/11/28 18:56:31.640 
+TOW: 241002.640 tm: 2023/11/28 18:56:42.640 
+TOW: 241013.640 tm: 2023/11/28 18:56:53.640 
+TOW: 241024.640 tm: 2023/11/28 18:57:04.640 
+TOW: 241035.640 tm: 2023/11/28 18:57:15.640 
+TOW: 241046.640 tm: 2023/11/28 18:57:26.640 
+TOW: 241057.640 tm: 2023/11/28 18:57:37.640 
+TOW: 241068.640 tm: 2023/11/28 18:57:48.640 
+TOW: 241079.640 tm: 2023/11/28 18:57:59.640 
+TOW: 241090.640 tm: 2023/11/28 18:58:10.640 
+TOW: 241101.640 tm: 2023/11/28 18:58:21.640 
+TOW: 241112.640 tm: 2023/11/28 18:58:32.640 
+TOW: 241123.640 tm: 2023/11/28 18:58:43.640 
+TOW: 241134.640 tm: 2023/11/28 18:58:54.640 
+TOW: 241145.640 tm: 2023/11/28 18:59:05.640 
+TOW: 241156.640 tm: 2023/11/28 18:59:16.640 
+TOW: 241167.640 tm: 2023/11/28 18:59:27.640 
+TOW: 241178.640 tm: 2023/11/28 18:59:38.640 
+TOW: 241189.640 tm: 2023/11/28 18:59:49.640 
+TOW: 241200.640 tm: 2023/11/28 19:00:00.640 
+TOW: 241211.640 tm: 2023/11/28 19:00:11.640 
+TOW: 241222.640 tm: 2023/11/28 19:00:22.640 
+TOW: 241233.640 tm: 2023/11/28 19:00:33.640 
+TOW: 241244.640 tm: 2023/11/28 19:00:44.640 
+TOW: 241255.640 tm: 2023/11/28 19:00:55.640 
+TOW: 241266.640 tm: 2023/11/28 19:01:06.640 
+TOW: 241277.640 tm: 2023/11/28 19:01:17.640 
+TOW: 241288.640 tm: 2023/11/28 19:01:28.640 
+TOW: 241299.640 tm: 2023/11/28 19:01:39.640 
+TOW: 241310.640 tm: 2023/11/28 19:01:50.640 
+TOW: 241321.640 tm: 2023/11/28 19:02:01.640 
+TOW: 241332.640 tm: 2023/11/28 19:02:12.640 
+TOW: 241343.640 tm: 2023/11/28 19:02:23.640 
+TOW: 241354.640 tm: 2023/11/28 19:02:34.640 
+TOW: 241365.640 tm: 2023/11/28 19:02:45.640 
+TOW: 241376.640 tm: 2023/11/28 19:02:56.640 
+TOW: 241387.640 tm: 2023/11/28 19:03:07.640 
+TOW: 241398.640 tm: 2023/11/28 19:03:18.640 
+TOW: 241409.640 tm: 2023/11/28 19:03:29.640 
+TOW: 241420.640 tm: 2023/11/28 19:03:40.640 
+TOW: 241431.640 tm: 2023/11/28 19:03:51.640 
+TOW: 241442.640 tm: 2023/11/28 19:04:02.640 
+TOW: 241453.640 tm: 2023/11/28 19:04:13.640 
+TOW: 241464.640 tm: 2023/11/28 19:04:24.640 
+TOW: 241475.640 tm: 2023/11/28 19:04:35.640 
+TOW: 241486.640 tm: 2023/11/28 19:04:46.640 
+TOW: 241497.640 tm: 2023/11/28 19:04:57.640 
+TOW: 241508.640 tm: 2023/11/28 19:05:08.640 
+TOW: 241519.640 tm: 2023/11/28 19:05:19.640 
+TOW: 241530.640 tm: 2023/11/28 19:05:30.640 
+TOW: 241541.640 tm: 2023/11/28 19:05:41.640 
+TOW: 241552.640 tm: 2023/11/28 19:05:52.640 
+TOW: 241563.640 tm: 2023/11/28 19:06:03.640 
+TOW: 241574.640 tm: 2023/11/28 19:06:14.640 
+TOW: 241585.640 tm: 2023/11/28 19:06:25.640 
+TOW: 241596.640 tm: 2023/11/28 19:06:36.640 
+TOW: 241607.640 tm: 2023/11/28 19:06:47.640 
+TOW: 241618.640 tm: 2023/11/28 19:06:58.640 
+TOW: 241629.640 tm: 2023/11/28 19:07:09.640 
+TOW: 241640.640 tm: 2023/11/28 19:07:20.640 
+TOW: 241651.640 tm: 2023/11/28 19:07:31.640 
+TOW: 241662.640 tm: 2023/11/28 19:07:42.640 
+TOW: 241673.640 tm: 2023/11/28 19:07:53.640 
+TOW: 241684.640 tm: 2023/11/28 19:08:04.640 
+TOW: 241695.640 tm: 2023/11/28 19:08:15.640 
+TOW: 241706.640 tm: 2023/11/28 19:08:26.640 
+TOW: 241717.640 tm: 2023/11/28 19:08:37.640 
+TOW: 241728.640 tm: 2023/11/28 19:08:48.640 
+TOW: 241739.640 tm: 2023/11/28 19:08:59.640 
+TOW: 241750.640 tm: 2023/11/28 19:09:10.640 
+TOW: 241761.640 tm: 2023/11/28 19:09:21.640 
+TOW: 241772.640 tm: 2023/11/28 19:09:32.640 
+TOW: 241783.640 tm: 2023/11/28 19:09:43.640 
+TOW: 241794.640 tm: 2023/11/28 19:09:54.640 
+TOW: 241805.640 tm: 2023/11/28 19:10:05.640 
+TOW: 241816.640 tm: 2023/11/28 19:10:16.640 
+TOW: 241827.640 tm: 2023/11/28 19:10:27.640 
+TOW: 241838.640 tm: 2023/11/28 19:10:38.640 
+TOW: 241849.640 tm: 2023/11/28 19:10:49.640 
+TOW: 241860.640 tm: 2023/11/28 19:11:00.640 
+TOW: 241871.640 tm: 2023/11/28 19:11:11.640 
+TOW: 241882.640 tm: 2023/11/28 19:11:22.640 
+TOW: 241893.640 tm: 2023/11/28 19:11:33.640 
+TOW: 241904.640 tm: 2023/11/28 19:11:44.640 
+TOW: 241915.640 tm: 2023/11/28 19:11:55.640 
+TOW: 241926.640 tm: 2023/11/28 19:12:06.640 
+TOW: 241937.640 tm: 2023/11/28 19:12:17.640 
+TOW: 241948.640 tm: 2023/11/28 19:12:28.640 
+TOW: 241959.640 tm: 2023/11/28 19:12:39.640 
+TOW: 241970.640 tm: 2023/11/28 19:12:50.640 
+TOW: 241981.640 tm: 2023/11/28 19:13:01.640 
+TOW: 241992.640 tm: 2023/11/28 19:13:12.640 
+TOW: 242003.640 tm: 2023/11/28 19:13:23.640 
+TOW: 242014.640 tm: 2023/11/28 19:13:34.640 
+TOW: 242025.640 tm: 2023/11/28 19:13:45.640 
+TOW: 242036.640 tm: 2023/11/28 19:13:56.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242047.640 tm: 2023/11/28 19:14:07.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242058.640 tm: 2023/11/28 19:14:18.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242069.640 tm: 2023/11/28 19:14:29.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242080.640 tm: 2023/11/28 19:14:40.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242091.640 tm: 2023/11/28 19:14:51.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242102.640 tm: 2023/11/28 19:15:02.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242113.640 tm: 2023/11/28 19:15:13.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242124.640 tm: 2023/11/28 19:15:24.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242135.640 tm: 2023/11/28 19:15:35.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242146.640 tm: 2023/11/28 19:15:46.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242157.640 tm: 2023/11/28 19:15:57.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242168.640 tm: 2023/11/28 19:16:08.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242179.640 tm: 2023/11/28 19:16:19.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242190.640 tm: 2023/11/28 19:16:30.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242201.640 tm: 2023/11/28 19:16:41.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242212.640 tm: 2023/11/28 19:16:52.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242223.640 tm: 2023/11/28 19:17:03.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242234.640 tm: 2023/11/28 19:17:14.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242245.640 tm: 2023/11/28 19:17:25.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242256.640 tm: 2023/11/28 19:17:36.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242267.640 tm: 2023/11/28 19:17:47.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242278.640 tm: 2023/11/28 19:17:58.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242289.640 tm: 2023/11/28 19:18:09.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242300.640 tm: 2023/11/28 19:18:20.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242311.640 tm: 2023/11/28 19:18:31.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242322.640 tm: 2023/11/28 19:18:42.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242333.640 tm: 2023/11/28 19:18:53.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242344.640 tm: 2023/11/28 19:19:04.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242355.640 tm: 2023/11/28 19:19:15.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242366.640 tm: 2023/11/28 19:19:26.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242377.640 tm: 2023/11/28 19:19:37.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242388.640 tm: 2023/11/28 19:19:48.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242399.640 tm: 2023/11/28 19:19:59.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242410.640 tm: 2023/11/28 19:20:10.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242421.640 tm: 2023/11/28 19:20:21.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242432.640 tm: 2023/11/28 19:20:32.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242443.640 tm: 2023/11/28 19:20:43.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242454.640 tm: 2023/11/28 19:20:54.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242465.640 tm: 2023/11/28 19:21:05.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242476.640 tm: 2023/11/28 19:21:16.640 
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+point pos error (lack of valid sats ns=6)
+TOW: 242487.640 tm: 2023/11/28 19:21:27.640 
+TOW: 242498.640 tm: 2023/11/28 19:21:38.640 
+TOW: 242509.640 tm: 2023/11/28 19:21:49.640 
+TOW: 242520.640 tm: 2023/11/28 19:22:00.640 
+TOW: 242531.640 tm: 2023/11/28 19:22:11.640 
+TOW: 242542.640 tm: 2023/11/28 19:22:22.640 
+TOW: 242553.640 tm: 2023/11/28 19:22:33.640 
+TOW: 242564.640 tm: 2023/11/28 19:22:44.640 
+TOW: 242575.640 tm: 2023/11/28 19:22:55.640 
+TOW: 242586.640 tm: 2023/11/28 19:23:06.640 
+TOW: 242597.640 tm: 2023/11/28 19:23:17.640 
+TOW: 242608.640 tm: 2023/11/28 19:23:28.640 
+TOW: 242619.640 tm: 2023/11/28 19:23:39.640 
+TOW: 242630.640 tm: 2023/11/28 19:23:50.640 
+TOW: 242641.640 tm: 2023/11/28 19:24:01.640 
+TOW: 242652.640 tm: 2023/11/28 19:24:12.640 
+TOW: 242663.640 tm: 2023/11/28 19:24:23.640 
+TOW: 242674.640 tm: 2023/11/28 19:24:34.640 
+TOW: 242685.640 tm: 2023/11/28 19:24:45.640 
+TOW: 242696.640 tm: 2023/11/28 19:24:56.640 
+TOW: 242707.640 tm: 2023/11/28 19:25:07.640 
+TOW: 242718.640 tm: 2023/11/28 19:25:18.640 
+TOW: 242729.640 tm: 2023/11/28 19:25:29.640 
+TOW: 242740.640 tm: 2023/11/28 19:25:40.640 
+TOW: 242751.640 tm: 2023/11/28 19:25:51.640 
+TOW: 242762.640 tm: 2023/11/28 19:26:02.640 
+TOW: 242773.640 tm: 2023/11/28 19:26:13.640 
+TOW: 242784.640 tm: 2023/11/28 19:26:24.640 
+TOW: 242795.640 tm: 2023/11/28 19:26:35.640 
+TOW: 242806.640 tm: 2023/11/28 19:26:46.640 
+TOW: 242817.640 tm: 2023/11/28 19:26:57.640 
+TOW: 242828.640 tm: 2023/11/28 19:27:08.640 
+TOW: 242839.640 tm: 2023/11/28 19:27:19.640 
+TOW: 242850.640 tm: 2023/11/28 19:27:30.640 
+TOW: 242861.640 tm: 2023/11/28 19:27:41.640 
+TOW: 242872.640 tm: 2023/11/28 19:27:52.640 
+TOW: 242883.640 tm: 2023/11/28 19:28:03.640 
+TOW: 242894.640 tm: 2023/11/28 19:28:14.640 
+TOW: 242905.640 tm: 2023/11/28 19:28:25.640 
+TOW: 242916.640 tm: 2023/11/28 19:28:36.640 
+TOW: 242927.640 tm: 2023/11/28 19:28:47.640 
+TOW: 242938.640 tm: 2023/11/28 19:28:58.640 
+TOW: 242949.640 tm: 2023/11/28 19:29:09.640 
+TOW: 242960.640 tm: 2023/11/28 19:29:20.640 
+TOW: 242971.640 tm: 2023/11/28 19:29:31.640 
+TOW: 242982.640 tm: 2023/11/28 19:29:42.640 
+TOW: 242993.640 tm: 2023/11/28 19:29:53.640 
+TOW: 243004.640 tm: 2023/11/28 19:30:04.640 
+TOW: 243015.640 tm: 2023/11/28 19:30:15.640 
+TOW: 243026.640 tm: 2023/11/28 19:30:26.640 
+TOW: 243037.640 tm: 2023/11/28 19:30:37.640 
+TOW: 243048.640 tm: 2023/11/28 19:30:48.640 
+TOW: 243059.640 tm: 2023/11/28 19:30:59.640 
+TOW: 243070.640 tm: 2023/11/28 19:31:10.640 
+TOW: 243081.640 tm: 2023/11/28 19:31:21.640 
+TOW: 243092.640 tm: 2023/11/28 19:31:32.640 
+TOW: 243103.640 tm: 2023/11/28 19:31:43.640 
+TOW: 243114.640 tm: 2023/11/28 19:31:54.640 
+TOW: 243125.640 tm: 2023/11/28 19:32:05.640 
+TOW: 243136.640 tm: 2023/11/28 19:32:16.640 
+TOW: 243147.640 tm: 2023/11/28 19:32:27.640 
+TOW: 243158.640 tm: 2023/11/28 19:32:38.640 
+TOW: 243169.640 tm: 2023/11/28 19:32:49.640 
+TOW: 243180.640 tm: 2023/11/28 19:33:00.640 
+TOW: 243191.640 tm: 2023/11/28 19:33:11.640 
+TOW: 243202.640 tm: 2023/11/28 19:33:22.640 
+TOW: 243213.640 tm: 2023/11/28 19:33:33.640 
+TOW: 243224.640 tm: 2023/11/28 19:33:44.640 
+TOW: 243235.640 tm: 2023/11/28 19:33:55.640 
+TOW: 243246.640 tm: 2023/11/28 19:34:06.640 
+TOW: 243257.640 tm: 2023/11/28 19:34:17.640 
+TOW: 243268.640 tm: 2023/11/28 19:34:28.640 
+TOW: 243279.640 tm: 2023/11/28 19:34:39.640 
+TOW: 243290.640 tm: 2023/11/28 19:34:50.640 
+TOW: 243301.640 tm: 2023/11/28 19:35:01.640 
+TOW: 243312.640 tm: 2023/11/28 19:35:12.640 
+TOW: 243323.640 tm: 2023/11/28 19:35:23.640 
+TOW: 243334.640 tm: 2023/11/28 19:35:34.640 
+TOW: 243345.640 tm: 2023/11/28 19:35:45.640 
+TOW: 243356.640 tm: 2023/11/28 19:35:56.640 
+TOW: 243367.640 tm: 2023/11/28 19:36:07.640 
+TOW: 243378.640 tm: 2023/11/28 19:36:18.640 
+TOW: 243389.640 tm: 2023/11/28 19:36:29.640 
+TOW: 243400.640 tm: 2023/11/28 19:36:40.640 
+TOW: 243411.640 tm: 2023/11/28 19:36:51.640 
+TOW: 243422.640 tm: 2023/11/28 19:37:02.640 
+TOW: 243433.640 tm: 2023/11/28 19:37:13.640 
+TOW: 243444.640 tm: 2023/11/28 19:37:24.640 
+TOW: 243455.640 tm: 2023/11/28 19:37:35.640 
+TOW: 243466.640 tm: 2023/11/28 19:37:46.640 
+TOW: 243477.640 tm: 2023/11/28 19:37:57.640 
+TOW: 243488.640 tm: 2023/11/28 19:38:08.640 
+TOW: 243499.640 tm: 2023/11/28 19:38:19.640 
+TOW: 243510.640 tm: 2023/11/28 19:38:30.640 
+TOW: 243521.640 tm: 2023/11/28 19:38:41.640 
+TOW: 243532.640 tm: 2023/11/28 19:38:52.640 
+TOW: 243543.640 tm: 2023/11/28 19:39:03.640 
+TOW: 243554.640 tm: 2023/11/28 19:39:14.640 
+TOW: 243565.640 tm: 2023/11/28 19:39:25.640 
+TOW: 243576.640 tm: 2023/11/28 19:39:36.640 
+TOW: 243587.640 tm: 2023/11/28 19:39:47.640 
+TOW: 243598.640 tm: 2023/11/28 19:39:58.640 
+TOW: 243609.640 tm: 2023/11/28 19:40:09.640 
+TOW: 243620.640 tm: 2023/11/28 19:40:20.640 
+TOW: 243631.640 tm: 2023/11/28 19:40:31.640 
+TOW: 243642.640 tm: 2023/11/28 19:40:42.640 
+TOW: 243653.640 tm: 2023/11/28 19:40:53.640 
+TOW: 243664.640 tm: 2023/11/28 19:41:04.640 
+TOW: 243675.640 tm: 2023/11/28 19:41:15.640 
+TOW: 243686.640 tm: 2023/11/28 19:41:26.640 
+TOW: 243697.640 tm: 2023/11/28 19:41:37.640 
+TOW: 243708.640 tm: 2023/11/28 19:41:48.640 
+TOW: 243719.640 tm: 2023/11/28 19:41:59.640 
+TOW: 243730.640 tm: 2023/11/28 19:42:10.640 
+TOW: 243741.640 tm: 2023/11/28 19:42:21.640 
+TOW: 243752.640 tm: 2023/11/28 19:42:32.640 
+TOW: 243763.640 tm: 2023/11/28 19:42:43.640 
+TOW: 243774.640 tm: 2023/11/28 19:42:54.640 
+TOW: 243785.640 tm: 2023/11/28 19:43:05.640 
+TOW: 243796.640 tm: 2023/11/28 19:43:16.640 
+TOW: 243807.640 tm: 2023/11/28 19:43:27.640 
+TOW: 243818.640 tm: 2023/11/28 19:43:38.640 
+TOW: 243829.640 tm: 2023/11/28 19:43:49.640 
+TOW: 243840.640 tm: 2023/11/28 19:44:00.640 
+TOW: 243851.640 tm: 2023/11/28 19:44:11.640 
+TOW: 243862.640 tm: 2023/11/28 19:44:22.640 
+TOW: 243873.640 tm: 2023/11/28 19:44:33.640 
+TOW: 243884.640 tm: 2023/11/28 19:44:44.640 
+TOW: 243895.640 tm: 2023/11/28 19:44:55.640 
+TOW: 243906.640 tm: 2023/11/28 19:45:06.640 
+TOW: 243917.640 tm: 2023/11/28 19:45:17.640 
+TOW: 243928.640 tm: 2023/11/28 19:45:28.640 
+TOW: 243939.640 tm: 2023/11/28 19:45:39.640 
+TOW: 243950.640 tm: 2023/11/28 19:45:50.640 
+TOW: 243961.640 tm: 2023/11/28 19:46:01.640 
+TOW: 243972.640 tm: 2023/11/28 19:46:12.640 
+TOW: 243983.640 tm: 2023/11/28 19:46:23.640 
+TOW: 243994.640 tm: 2023/11/28 19:46:34.640 
+TOW: 244005.640 tm: 2023/11/28 19:46:45.640 
+TOW: 244016.640 tm: 2023/11/28 19:46:56.640 
+TOW: 244027.640 tm: 2023/11/28 19:47:07.640 
+TOW: 244038.640 tm: 2023/11/28 19:47:18.640 
+TOW: 244049.640 tm: 2023/11/28 19:47:29.640 
+TOW: 244060.640 tm: 2023/11/28 19:47:40.640 
+TOW: 244071.640 tm: 2023/11/28 19:47:51.640 
+TOW: 244082.640 tm: 2023/11/28 19:48:02.640 
+TOW: 244093.640 tm: 2023/11/28 19:48:13.640 
+TOW: 244104.640 tm: 2023/11/28 19:48:24.640 
+TOW: 244115.640 tm: 2023/11/28 19:48:35.640 
+TOW: 244126.640 tm: 2023/11/28 19:48:46.640 
+TOW: 244137.640 tm: 2023/11/28 19:48:57.640 
+TOW: 244148.640 tm: 2023/11/28 19:49:08.640 
+TOW: 244159.640 tm: 2023/11/28 19:49:19.640 
+TOW: 244170.640 tm: 2023/11/28 19:49:30.640 
+TOW: 244181.640 tm: 2023/11/28 19:49:41.640 
+TOW: 244192.640 tm: 2023/11/28 19:49:52.640 
+TOW: 244203.640 tm: 2023/11/28 19:50:03.640 
+TOW: 244214.640 tm: 2023/11/28 19:50:14.640 
+TOW: 244225.640 tm: 2023/11/28 19:50:25.640 
+TOW: 244236.640 tm: 2023/11/28 19:50:36.640 
+TOW: 244247.640 tm: 2023/11/28 19:50:47.640 
+TOW: 244258.640 tm: 2023/11/28 19:50:58.640 
+TOW: 244269.640 tm: 2023/11/28 19:51:09.640 
+TOW: 244280.640 tm: 2023/11/28 19:51:20.640 
+TOW: 244291.640 tm: 2023/11/28 19:51:31.640 
+TOW: 244302.640 tm: 2023/11/28 19:51:42.640 
+TOW: 244313.640 tm: 2023/11/28 19:51:53.640 
+TOW: 244324.640 tm: 2023/11/28 19:52:04.640 
+TOW: 244335.640 tm: 2023/11/28 19:52:15.640 
+TOW: 244346.640 tm: 2023/11/28 19:52:26.640 
+TOW: 244357.640 tm: 2023/11/28 19:52:37.640 
+TOW: 244368.640 tm: 2023/11/28 19:52:48.640 
+TOW: 244379.640 tm: 2023/11/28 19:52:59.640 
+TOW: 244390.640 tm: 2023/11/28 19:53:10.640 
+TOW: 244401.640 tm: 2023/11/28 19:53:21.640 
+TOW: 244412.640 tm: 2023/11/28 19:53:32.640 
+TOW: 244423.640 tm: 2023/11/28 19:53:43.640 
+TOW: 244434.640 tm: 2023/11/28 19:53:54.640 
+TOW: 244445.640 tm: 2023/11/28 19:54:05.640 
+TOW: 244456.640 tm: 2023/11/28 19:54:16.640 
+TOW: 244467.640 tm: 2023/11/28 19:54:27.640 
+TOW: 244478.640 tm: 2023/11/28 19:54:38.640 
+TOW: 244489.640 tm: 2023/11/28 19:54:49.640 
+TOW: 244500.640 tm: 2023/11/28 19:55:00.640 
+TOW: 244511.640 tm: 2023/11/28 19:55:11.640 
+TOW: 244522.640 tm: 2023/11/28 19:55:22.640 
+TOW: 244533.640 tm: 2023/11/28 19:55:33.640 
+TOW: 244544.640 tm: 2023/11/28 19:55:44.640 
+TOW: 244555.640 tm: 2023/11/28 19:55:55.640 
+TOW: 244566.640 tm: 2023/11/28 19:56:06.640 
+TOW: 244577.640 tm: 2023/11/28 19:56:17.640 
+TOW: 244588.640 tm: 2023/11/28 19:56:28.640 
+TOW: 244599.640 tm: 2023/11/28 19:56:39.640 
+TOW: 244610.640 tm: 2023/11/28 19:56:50.640 
+TOW: 244621.640 tm: 2023/11/28 19:57:01.640 
+TOW: 244632.640 tm: 2023/11/28 19:57:12.640 
+TOW: 244643.640 tm: 2023/11/28 19:57:23.640 
+TOW: 244654.640 tm: 2023/11/28 19:57:34.640 
+TOW: 244665.640 tm: 2023/11/28 19:57:45.640 
+TOW: 244676.640 tm: 2023/11/28 19:57:56.640 
+TOW: 244687.640 tm: 2023/11/28 19:58:07.640 
+TOW: 244698.640 tm: 2023/11/28 19:58:18.640 
+TOW: 244709.640 tm: 2023/11/28 19:58:29.640 
+TOW: 244720.640 tm: 2023/11/28 19:58:40.640 
+TOW: 244731.640 tm: 2023/11/28 19:58:51.640 
+TOW: 244742.640 tm: 2023/11/28 19:59:02.640 
+TOW: 244753.640 tm: 2023/11/28 19:59:13.640 
+TOW: 244764.640 tm: 2023/11/28 19:59:24.640 
+TOW: 244775.640 tm: 2023/11/28 19:59:35.640 
+TOW: 244786.640 tm: 2023/11/28 19:59:46.640 
+TOW: 244797.640 tm: 2023/11/28 19:59:57.640 
+TOW: 244808.640 tm: 2023/11/28 20:00:08.640 
+TOW: 244819.640 tm: 2023/11/28 20:00:19.640 
+TOW: 244830.640 tm: 2023/11/28 20:00:30.640 
+TOW: 244841.640 tm: 2023/11/28 20:00:41.640 
+TOW: 244852.640 tm: 2023/11/28 20:00:52.640 
+TOW: 244863.640 tm: 2023/11/28 20:01:03.640 
+TOW: 244874.640 tm: 2023/11/28 20:01:14.640 
+TOW: 244885.640 tm: 2023/11/28 20:01:25.640 
+TOW: 244896.640 tm: 2023/11/28 20:01:36.640 
+TOW: 244907.640 tm: 2023/11/28 20:01:47.640 
+TOW: 244918.640 tm: 2023/11/28 20:01:58.640 
+TOW: 244929.640 tm: 2023/11/28 20:02:09.640 
+TOW: 244940.640 tm: 2023/11/28 20:02:20.640 
+TOW: 244951.640 tm: 2023/11/28 20:02:31.640 
+TOW: 244962.640 tm: 2023/11/28 20:02:42.640 
+TOW: 244973.640 tm: 2023/11/28 20:02:53.640 
+TOW: 244984.640 tm: 2023/11/28 20:03:04.640 
+TOW: 244995.640 tm: 2023/11/28 20:03:15.640 
+TOW: 245006.640 tm: 2023/11/28 20:03:26.640 
+TOW: 245017.640 tm: 2023/11/28 20:03:37.640 
+TOW: 245028.640 tm: 2023/11/28 20:03:48.640 
+TOW: 245039.640 tm: 2023/11/28 20:03:59.640 
+TOW: 245050.640 tm: 2023/11/28 20:04:10.640 
+TOW: 245061.640 tm: 2023/11/28 20:04:21.640 
+TOW: 245072.640 tm: 2023/11/28 20:04:32.640 
+TOW: 245083.640 tm: 2023/11/28 20:04:43.640 
+TOW: 245094.640 tm: 2023/11/28 20:04:54.640 
+TOW: 245105.640 tm: 2023/11/28 20:05:05.640 
+TOW: 245116.640 tm: 2023/11/28 20:05:16.640 
+TOW: 245127.640 tm: 2023/11/28 20:05:27.640 
+TOW: 245138.640 tm: 2023/11/28 20:05:38.640 
+TOW: 245149.640 tm: 2023/11/28 20:05:49.640 
+TOW: 245160.640 tm: 2023/11/28 20:06:00.640 
+TOW: 245171.640 tm: 2023/11/28 20:06:11.640 
+TOW: 245182.640 tm: 2023/11/28 20:06:22.640 
+TOW: 245193.640 tm: 2023/11/28 20:06:33.640 
+TOW: 245204.640 tm: 2023/11/28 20:06:44.640 
+TOW: 245215.640 tm: 2023/11/28 20:06:55.640 
+TOW: 245226.640 tm: 2023/11/28 20:07:06.640 
+TOW: 245237.640 tm: 2023/11/28 20:07:17.640 
+TOW: 245248.640 tm: 2023/11/28 20:07:28.640 
+TOW: 245259.640 tm: 2023/11/28 20:07:39.640 
+TOW: 245270.640 tm: 2023/11/28 20:07:50.640 
+TOW: 245281.640 tm: 2023/11/28 20:08:01.640 
+TOW: 245292.640 tm: 2023/11/28 20:08:12.640 
+TOW: 245303.640 tm: 2023/11/28 20:08:23.640 
+TOW: 245314.640 tm: 2023/11/28 20:08:34.640 
+TOW: 245325.640 tm: 2023/11/28 20:08:45.640 
+TOW: 245336.640 tm: 2023/11/28 20:08:56.640 
+TOW: 245347.640 tm: 2023/11/28 20:09:07.640 
+TOW: 245358.640 tm: 2023/11/28 20:09:18.640 
+TOW: 245369.640 tm: 2023/11/28 20:09:29.640 
+TOW: 245380.640 tm: 2023/11/28 20:09:40.640 
+TOW: 245391.640 tm: 2023/11/28 20:09:51.640 
+TOW: 245402.640 tm: 2023/11/28 20:10:02.640 
+TOW: 245413.640 tm: 2023/11/28 20:10:13.640 
+TOW: 245424.640 tm: 2023/11/28 20:10:24.640 
+TOW: 245435.640 tm: 2023/11/28 20:10:35.640 
+TOW: 245446.640 tm: 2023/11/28 20:10:46.640 
+TOW: 245457.640 tm: 2023/11/28 20:10:57.640 
+TOW: 245468.640 tm: 2023/11/28 20:11:08.640 
+TOW: 245479.640 tm: 2023/11/28 20:11:19.640 
+TOW: 245490.640 tm: 2023/11/28 20:11:30.640 
+TOW: 245501.640 tm: 2023/11/28 20:11:41.640 
+TOW: 245512.640 tm: 2023/11/28 20:11:52.640 
+TOW: 245523.640 tm: 2023/11/28 20:12:03.640 
+TOW: 245534.640 tm: 2023/11/28 20:12:14.640 
+TOW: 245545.640 tm: 2023/11/28 20:12:25.640 
+TOW: 245556.640 tm: 2023/11/28 20:12:36.640 
+TOW: 245567.640 tm: 2023/11/28 20:12:47.640 
+TOW: 245578.640 tm: 2023/11/28 20:12:58.640 
+TOW: 245589.640 tm: 2023/11/28 20:13:09.640 
+TOW: 245600.640 tm: 2023/11/28 20:13:20.640 
+TOW: 245611.640 tm: 2023/11/28 20:13:31.640 
+TOW: 245622.640 tm: 2023/11/28 20:13:42.640 
+TOW: 245633.640 tm: 2023/11/28 20:13:53.640 
+TOW: 245644.640 tm: 2023/11/28 20:14:04.640 
+TOW: 245655.640 tm: 2023/11/28 20:14:15.640 
+TOW: 245666.640 tm: 2023/11/28 20:14:26.640 
+TOW: 245677.640 tm: 2023/11/28 20:14:37.640 
+TOW: 245688.640 tm: 2023/11/28 20:14:48.640 
+TOW: 245699.640 tm: 2023/11/28 20:14:59.640 
+TOW: 245710.640 tm: 2023/11/28 20:15:10.640 
+TOW: 245721.640 tm: 2023/11/28 20:15:21.640 
+TOW: 245732.640 tm: 2023/11/28 20:15:32.640 
+TOW: 245743.640 tm: 2023/11/28 20:15:43.640 
+TOW: 245754.640 tm: 2023/11/28 20:15:54.640 
+TOW: 245765.640 tm: 2023/11/28 20:16:05.640 
+TOW: 245776.640 tm: 2023/11/28 20:16:16.640 
+TOW: 245787.640 tm: 2023/11/28 20:16:27.640 
+TOW: 245798.640 tm: 2023/11/28 20:16:38.640 
+TOW: 245809.640 tm: 2023/11/28 20:16:49.640 
+TOW: 245820.640 tm: 2023/11/28 20:17:00.640 
+TOW: 245831.640 tm: 2023/11/28 20:17:11.640 
+TOW: 245842.640 tm: 2023/11/28 20:17:22.640 
+TOW: 245853.640 tm: 2023/11/28 20:17:33.640 
+TOW: 245864.640 tm: 2023/11/28 20:17:44.640 
+TOW: 245875.640 tm: 2023/11/28 20:17:55.640 
+TOW: 245886.640 tm: 2023/11/28 20:18:06.640 
+TOW: 245897.640 tm: 2023/11/28 20:18:17.640 
+TOW: 245908.640 tm: 2023/11/28 20:18:28.640 
+TOW: 245919.640 tm: 2023/11/28 20:18:39.640 
+TOW: 245930.640 tm: 2023/11/28 20:18:50.640 
+TOW: 245941.640 tm: 2023/11/28 20:19:01.640 
+TOW: 245952.640 tm: 2023/11/28 20:19:12.640 
+TOW: 245963.640 tm: 2023/11/28 20:19:23.640 
+TOW: 245974.640 tm: 2023/11/28 20:19:34.640 
+TOW: 245985.640 tm: 2023/11/28 20:19:45.640 
+TOW: 245996.640 tm: 2023/11/28 20:19:56.640 
+TOW: 246007.640 tm: 2023/11/28 20:20:07.640 
+TOW: 246018.640 tm: 2023/11/28 20:20:18.640 
+TOW: 246029.640 tm: 2023/11/28 20:20:29.640 
+TOW: 246040.640 tm: 2023/11/28 20:20:40.640 
+TOW: 246051.640 tm: 2023/11/28 20:20:51.640 
+TOW: 246062.640 tm: 2023/11/28 20:21:02.640 
+TOW: 246073.640 tm: 2023/11/28 20:21:13.640 
+TOW: 246084.640 tm: 2023/11/28 20:21:24.640 
+TOW: 246095.640 tm: 2023/11/28 20:21:35.640 
+TOW: 246106.640 tm: 2023/11/28 20:21:46.640 
+TOW: 246117.640 tm: 2023/11/28 20:21:57.640 
+TOW: 246128.640 tm: 2023/11/28 20:22:08.640 
+TOW: 246139.640 tm: 2023/11/28 20:22:19.640 
+TOW: 246150.640 tm: 2023/11/28 20:22:30.640 
+TOW: 246161.640 tm: 2023/11/28 20:22:41.640 
+TOW: 246172.640 tm: 2023/11/28 20:22:52.640 
+TOW: 246183.640 tm: 2023/11/28 20:23:03.640 
+TOW: 246194.640 tm: 2023/11/28 20:23:14.640 
+TOW: 246205.640 tm: 2023/11/28 20:23:25.640 
+TOW: 246216.640 tm: 2023/11/28 20:23:36.640 
+TOW: 246227.640 tm: 2023/11/28 20:23:47.640 
+TOW: 246238.640 tm: 2023/11/28 20:23:58.640 
+TOW: 246249.640 tm: 2023/11/28 20:24:09.640 
+TOW: 246260.640 tm: 2023/11/28 20:24:20.640 
+TOW: 246271.640 tm: 2023/11/28 20:24:31.640 
+TOW: 246282.640 tm: 2023/11/28 20:24:42.640 
+TOW: 246293.640 tm: 2023/11/28 20:24:53.640 
+TOW: 246304.640 tm: 2023/11/28 20:25:04.640 
+TOW: 246315.640 tm: 2023/11/28 20:25:15.640 
+point pos error (gdop error nv=7 gdop=7.1)
+point pos error (gdop error nv=7 gdop=7.1)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+TOW: 246326.640 tm: 2023/11/28 20:25:26.640 
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+TOW: 246337.640 tm: 2023/11/28 20:25:37.640 
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.2)
+TOW: 246348.640 tm: 2023/11/28 20:25:48.640 
+point pos error (gdop error nv=7 gdop=7.2)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+TOW: 246359.640 tm: 2023/11/28 20:25:59.640 
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+TOW: 246370.640 tm: 2023/11/28 20:26:10.640 
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.3)
+point pos error (gdop error nv=7 gdop=7.4)
+point pos error (gdop error nv=7 gdop=7.4)
+TOW: 246381.640 tm: 2023/11/28 20:26:21.640 
+point pos error (gdop error nv=7 gdop=7.4)
+point pos error (gdop error nv=7 gdop=7.4)
+point pos error (gdop error nv=7 gdop=7.4)
+point pos error (gdop error nv=7 gdop=7.4)
+point pos error (gdop error nv=7 gdop=7.4)
+point pos error (gdop error nv=7 gdop=7.4)
+point pos error (gdop error nv=7 gdop=7.4)
+point pos error (gdop error nv=7 gdop=7.4)
+point pos error (gdop error nv=7 gdop=7.4)
+point pos error (gdop error nv=7 gdop=7.4)
+point pos error (gdop error nv=7 gdop=7.4)
+TOW: 246392.640 tm: 2023/11/28 20:26:32.640 
+point pos error (gdop error nv=7 gdop=7.4)
+point pos error (gdop error nv=7 gdop=7.4)
+point pos error (gdop error nv=7 gdop=7.4)
+point pos error (gdop error nv=7 gdop=7.4)
+point pos error (gdop error nv=7 gdop=7.4)
+EOF 
+num_obs = 69200
+---
+max eph_tmin: 1.3 h
+DONE
