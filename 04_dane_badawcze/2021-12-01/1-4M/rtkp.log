@@ -1,0 +1,31 @@
+qx2rtkp2 (RTKLIB 2.4.2)
+QX_VERSION = 0
+READING BRDC :
+  brdc3540.14n
+READING .qx  :
+  meas.bo
+chan_num = 16
+isGalileo = 0
+*** filtered biases file not found or open error (meas.bo_preBias.csv-ft.csv)
+Out files:
+  meas.bo_ch00.csv
+  meas.bo_ch01.csv
+  meas.bo_ch02.csv
+  meas.bo_ch03.csv
+  meas.bo_ch04.csv
+  meas.bo_ch05.csv
+  meas.bo_ch06.csv
+  meas.bo_ch07.csv
+  meas.bo_ch08.csv
+  meas.bo_ch09.csv
+  meas.bo_ch10.csv
+  meas.bo_ch11.csv
+  meas.bo_ch12.csv
+  meas.bo_ch13.csv
+  meas.bo_ch14.csv
+  meas.bo_ch15.csv
+--
+reading files ...
+EOF 
+num_obs = 10126
+DONE

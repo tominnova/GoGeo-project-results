@@ -1,0 +1,1953 @@
+qx2rtkp2 (RTKLIB 2.4.2)
+
+QX_VERSION            = 1
+DECYM                 = 0
+MAX_PHASE             = 9000000
+DBG_CAR_CLK_ERR_COR   = 0
+DBG_RNG_CLK_ERR_COR   = 0
+READING BRDC :
+  brdc3540.14n
+READING .qx  :
+  meas.bo
+chan_num = 16
+isGalileo = 0
+*** filtered biases file not found or open error (meas.bo_preBias.csv-ft.csv)
+Out files:
+  meas.bo_ch00.csv
+  meas.bo_ch01.csv
+  meas.bo_ch02.csv
+  meas.bo_ch03.csv
+  meas.bo_ch04.csv
+  meas.bo_ch05.csv
+  meas.bo_ch06.csv
+  meas.bo_ch07.csv
+  meas.bo_ch08.csv
+  meas.bo_ch09.csv
+  meas.bo_ch10.csv
+  meas.bo_ch11.csv
+  meas.bo_ch12.csv
+  meas.bo_ch13.csv
+  meas.bo_ch14.csv
+  meas.bo_ch15.csv
+--
+reading files ...
+IONO: 2.887e-08 2.235e-08 -1.192e-07 5.96e-08 153600 -196600 -65540 393200 
+-- 518401 rst carr sat 2
+-- 518401 rst carr sat 24
+-- 518401 rst carr sat 6
+-- 518401 rst carr sat 29
+-- 518401 rst carr sat 14
+-- 518401 rst carr sat 25
+chi-square error nv=9 vv=33.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=95.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=76.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=66.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=280.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=85.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=80.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=62.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=136.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=90.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=78.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=57.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=91.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=133.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=187.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=229.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=115.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=52.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=194.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=99.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=142.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=226.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=176.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=100.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=45.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=20.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=13.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=39.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=52.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=45.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=16.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=39.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=48.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=56.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=60.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=66.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=72.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=80.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=90.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=99.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=107.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=115.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=120.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=124.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=135.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=64.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=57.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=52.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=44.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=35.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=39.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=42.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=45.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=54.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=59.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=66.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=53.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=42.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=47.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=45.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=44.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=42.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=42.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=44.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=45.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=52.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=53.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=58.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=60.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=65.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=73.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=46.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=78.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=124.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=170.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=155.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=134.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=127.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=115.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=107.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=93.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=83.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=74.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=63.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=57.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=36.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=16.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=16.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=59.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=68.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=78.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=89.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=103.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=110.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=122.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=57.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=55.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=83.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=71.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=60.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=16.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=52.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=62.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=62.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=61.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=60.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=58.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=54.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=53.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=52.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=51.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=51.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=51.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=48.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=50.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=46.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=48.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=44.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=44.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=46.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=46.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=45.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=44.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=45.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=48.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=46.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=50.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=45.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=45.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=46.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=45.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=28.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=47.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=59.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=45.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=39.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=13.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=20.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=45.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=44.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=46.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=50.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=54.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=57.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=60.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=44.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=36.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=48.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=48.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=44.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=44.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=46.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=53.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=50.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=47.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=50.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=51.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=53.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=54.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=57.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=63.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=63.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=63.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=68.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=69.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=69.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=79.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=81.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=88.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=91.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=48.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=16.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=44.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=92.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=112.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=132.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=154.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=189.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=182.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=170.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=155.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=139.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=127.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=117.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=105.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=94.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=89.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=83.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=72.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=61.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=53.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=58.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=54.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=51.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=48.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=46.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=39.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=39.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=36.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=35.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=35.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=35.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=35.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=36.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=36.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=35.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=42.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=58.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=77.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=98.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=121.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=155.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=154.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=136.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=125.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=111.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=105.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=86.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=69.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=71.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=60.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=55.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=36.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=31.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=28.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=28.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=35.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=39.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=42.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=42.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=66.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=98.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=145.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=159.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=137.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=118.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=102.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=92.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=77.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=70.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=64.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=53.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=42.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=48.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=74.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=110.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=95.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=88.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=74.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=63.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=52.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=31.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=36.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=42.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=13.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=35.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=70.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=108.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=107.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=92.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=82.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=71.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=59.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=54.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=20.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=20.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=65.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=95.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=133.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=123.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=114.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=100.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=86.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=73.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=65.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=55.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=50.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=42.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=31.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=20.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=50.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=84.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=97.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=102.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=98.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=102.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=108.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=108.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=111.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=54.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=47.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=46.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=46.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=54.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=48.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=42.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=35.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=50.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=45.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=20.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=28.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=48.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=71.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=102.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=83.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=85.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=66.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=55.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=35.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=16.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=28.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=57.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=31.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=36.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=44.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=47.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=56.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=63.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=54.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=28.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=31.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=47.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=56.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=65.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=72.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=77.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=81.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=80.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=83.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=86.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=39.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=20.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=16.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=16.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=28.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=44.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=39.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=50.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=44.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=39.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=39.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=42.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=47.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=51.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=53.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=52.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=60.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=72.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=75.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=80.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=89.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=93.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=101.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=111.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=113.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=39.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=16.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=20.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=36.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=52.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=20.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=67.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=60.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=57.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=36.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=54.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=63.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=66.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=72.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=64.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=76.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=78.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=79.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=74.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=83.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=93.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=73.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=31.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=28.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=36.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=28.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=72.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=103.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=99.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=89.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=81.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=74.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=74.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=60.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=62.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=20.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=63.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=68.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=70.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=72.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=66.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=71.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=79.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=80.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=86.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=91.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=94.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=78.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=20.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=36.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=31.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=13.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=16.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=16.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=28.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=20.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=31.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=55.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=70.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=82.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=94.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=101.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=105.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=52.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=20.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=31.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=35.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=42.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=44.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=48.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=51.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=56.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=57.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=70.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=72.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=78.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=84.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=54.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=16.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=31.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=50.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=20.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=35.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=35.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=31.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=37.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=42.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=55.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=63.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=16.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=39.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=31.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=53.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=64.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=77.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=28.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=58.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=39.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=35.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=43.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=56.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=65.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=69.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=50.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=36.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=40.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=41.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=20.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=17.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=27.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=28.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=31.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=32.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=35.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=42.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=24.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=31.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=26.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=48.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=47.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=34.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=25.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=49.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=64.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=68.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=68.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=73.0 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=80.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=64.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=14.8 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=21.3 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=29.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=19.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.4 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=23.5 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=30.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=38.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=33.1 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=22.2 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=28.6 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=16.9 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=15.7 cs=13.8 
+--> validation DISABLED 
+chi-square error nv=9 vv=18.8 cs=13.8 
+--> validation DISABLED 
+EOF 
+num_obs = 8429
+DONE

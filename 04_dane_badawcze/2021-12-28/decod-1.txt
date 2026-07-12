@@ -1,0 +1,24 @@
+zadałem mu kod 0x0030305F (32x powtórzone to samo)
+i tak mi to wydrukował
+
+                                                        0 0 0 0 
+1 1 1 1 1 1 1 1 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 
+1 1 1 1 1 1 1 1 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 
+1 1 1 1 1 1 1 1 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 
+1 1 1 1 1 1 1 1 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 
+1
+
+
+1 1 1 1  F
+1 1 1 1  F
+0 0 0 0  0
+1 1 0 0  3
+0 0 0 0  0
+1 1 0 0  3
+0 0 0 0  0
+0 0 0 0  0
+
+
+czyli chyba 5 zamienił na F
+
++ chyba nie uwzględnia NCO, NCO jest tak nastawione żeby 2 próbki były te same a on co próbkę przechodzi do następnego bita kodu 

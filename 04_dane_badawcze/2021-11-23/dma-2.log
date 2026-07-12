@@ -1,0 +1,30 @@
+prog start 
+hv ver: 1.5
+Successfully ran SPI Selftest Example
+SPI sending configuration to MAX2771!
+SPI max transfer OK!
+SPI max transfer OK!
+SPI max transfer OK!
+SPI max transfer OK!
+SPI max transfer OK!
+SPI max transfer OK!
+SPI max transfer OK!
+SPI max transfer OK!
+55115555
+00022222
+333bbbbb
+babaaaaa
+aaaaaaaa
+aabbbbbb
+fbbfffff
+fffffffe
+effeeaaa
+aaa8a888
+888c8999
+99999998
+88aaabb3
+33733333
+22222200
+0088999d
+--
+DONE
