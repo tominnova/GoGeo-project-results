@@ -10,4 +10,3 @@ oraz
 
 Pliki przygotowane na podstawie danych surowych, np. zestawienia, statystyki i wyniki obliczeń.
 
-
