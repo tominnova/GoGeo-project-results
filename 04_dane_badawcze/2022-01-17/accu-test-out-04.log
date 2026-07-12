@@ -1,0 +1,25 @@
+----------------
+prog start
+hv ver: 3.15
+accu test 
+	 code_len = 1023, chip_div = 2, spacing_len = 1, pcode[0] = 0x23C495A7 
+	 carr_step = 0xFFFAAAB3
+	 code_step = 0x80000000
+	 code_ctrl = 0x000103FE
+errors: 0, max accu diff: 40 
+--
+accu test 
+	 code_len = 1023, chip_div = 2, spacing_len = 1, pcode[0] = 0x23C495A7 
+	 carr_step = 0x0058F785
+	 code_step = 0x80000000
+	 code_ctrl = 0x000103FE
+errors: 0, max accu diff: 40 
+--
+accu test 
+	 code_len = 1023, chip_div = 4, spacing_len = 2, pcode[0] = 0x23C495A7 
+	 carr_step = 0x00001480
+	 code_step = 0x00000000
+	 code_ctrl = 0x000343FE
+errors: 4077, max accu diff: 60 
+--
+DONE

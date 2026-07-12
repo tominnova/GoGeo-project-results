@@ -1,0 +1,18 @@
+#!/bin/sh
+if ! test -e rtk; then
+    mkdir rtk
+fi
+
+
+#valgrind --tool=memcheck --leak-check=full --show-leak-kinds=all -v 
+#valgrind --tool=exp-sgcheck 
+#../build/dev-file-to-obs | tee dev2obs-log.txt
+#~/add_disk/rtklib/RTKLIB/app/qx2rtkp/build/qx2rtkp brdc3540.14n meas.bo 16 meas.ppp.conf > rtkp.log
+#~/Gnss/rtklib/RTKLIB/app/qx2rtkp/build/qx2rtkp brdc3540.14n meas.bo 16 meas.ppp.conf | tee rtkp.log
+
+cp meas.bo rtk/
+cd rtk
+
+
+~/goGeo/rtklib/RTKLIB/app/qx2rtkp/build/qx2rtkp ../brdc3540.14n meas.bo 32 ../meas.conf | tee rtkp.log
+#~/goGeo/rtklib/RTKLIB/app/qx2rtkp/build/qx2rtkp brdc3170.22n meas.bo 32 meas.ppp.conf | tee rtkp.log

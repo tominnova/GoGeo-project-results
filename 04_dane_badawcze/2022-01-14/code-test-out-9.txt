@@ -1,0 +1,18 @@
+----------------
+prog start
+hv ver: 3.15
+code_test 
+	 code_len = 120, chip_div = 1, spacing_len = 1, pcode[0] = 0x0030305F 
+	 code_step = 0x2AAAAAAA (/6) 
+	 code_ctrl = 0x00000077
+	 hw_del = 2
+errors: 0
+--
+code_test 
+	 code_len = 120, chip_div = 4, spacing_len = 1, pcode[0] = 0x0030305F 
+	 code_step = 0x2AAAAAAA (/6) 
+	 code_ctrl = 0x00030077
+	 hw_del = 2
+errors: 0
+--
+DONE

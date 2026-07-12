@@ -1,0 +1,56 @@
+qx2rtkp2 (RTKLIB 2.4.2)
+
+QX_VERSION            = 1
+EPH_REFRESH_OFF       = 0
+DECYM                 = 0
+MAX_PHASE             = 0
+DBG_CAR_CLK_ERR_COR   = 0
+DBG_RNG_CLK_ERR_COR   = 0
+READING BRDC :
+  ../brdc3540.14n
+READING .qx  :
+  meas.bo
+chan_num = 32
+isGalileo = 0
+*** filtered biases file not found or open error (meas.bo_preBias.csv-ft.csv)
+Out files:
+  meas.bo_ch00.csv
+  meas.bo_ch01.csv
+  meas.bo_ch02.csv
+  meas.bo_ch03.csv
+  meas.bo_ch04.csv
+  meas.bo_ch05.csv
+  meas.bo_ch06.csv
+  meas.bo_ch07.csv
+  meas.bo_ch08.csv
+  meas.bo_ch09.csv
+  meas.bo_ch10.csv
+  meas.bo_ch11.csv
+  meas.bo_ch12.csv
+  meas.bo_ch13.csv
+  meas.bo_ch14.csv
+  meas.bo_ch15.csv
+  meas.bo_ch16.csv
+  meas.bo_ch17.csv
+  meas.bo_ch18.csv
+  meas.bo_ch19.csv
+  meas.bo_ch20.csv
+  meas.bo_ch21.csv
+  meas.bo_ch22.csv
+  meas.bo_ch23.csv
+  meas.bo_ch24.csv
+  meas.bo_ch25.csv
+  meas.bo_ch26.csv
+  meas.bo_ch27.csv
+  meas.bo_ch28.csv
+  meas.bo_ch29.csv
+  meas.bo_ch30.csv
+  meas.bo_ch31.csv
+--
+reading files ...
+IONO: 2.887e-08 2.235e-08 -1.192e-07 5.96e-08 153600 -196600 -65540 393200 
+EOF 
+num_obs = 0
+---
+max eph_tmin: 0.0 h
+DONE
