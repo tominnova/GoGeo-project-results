@@ -1,0 +1,3472 @@
+13| PRN  2	 FIN SCAN START 2829 Hz
+13|PRN  2			 SUB-1 16K/1 (70/577) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 20K/2 (-13/753) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 18K/2 (-150/908) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START -1893 Hz
+13|PRN 24			 SUB-1 17K/0 (-215/459) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 15K/2 (-108/713) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 19K/0 (-19/961) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START -3486 Hz
+13|PRN 15			 SUB-1 19K/2 (164/617) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 20K/0 (-48/741) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 18K/1 (-21/963) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2784 Hz
+13|PRN  2			 SUB-1 25K/1 (249/651) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 19K/1 (80/793) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 20K/0 (150/1033) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN  4	 FIN SCAN START -490 Hz
+13|PRN  4			 SUB-1 21K/0 (-256/3485) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  4			 SUB-2 18K/1 (24/3811) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  4			 TRACK START 
+13|0|PRN  4   1K/  4K L0 24dB  -384Hz    19Hz  498     -4    137   2
+13|diff -64669c
+13|0|PRN  4   1K/  5K L0 -1000dB  -299Hz    58Hz  501     -4    135   1
+13|diff -65965c
+13|PRN  4	 fin chip_div set!
+13|0|PRN  4   0K/ -4K L0 24dB  -228Hz    70Hz  500     -6    129   1
+13|diff -68327c
+13| PRN  4	 CHANNEL OFF (NO LOCK)
+13| PRN  7	 FIN SCAN START 2362 Hz
+13|PRN  7			 SUB-1 29K/2 (-6/545) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  7			 TRACK START 
+13|0|PRN  7 -26K/-13K L2 31dB  2312Hz   -13Hz  499      1    134   1
+13|diff -5003c
+13|0|PRN  7  23K/  0K L3 34dB  2291Hz     6Hz  501     -1    132   1
+13|diff -5126c
+13| VEL -10K|23K|-10K !!
+13|PRN  7	 fin chip_div set!
+13|0|PRN  7 -28K/ -4K L3 35dB  2297Hz    -3Hz  499      0    139   1
+13|diff -5234c
+13| VEL 17K|25K|17K !!
+13|0|PRN  7 -23K/-10K L3 35dB  2309Hz    -1Hz  501     -1    119   1
+13|diff -5360c
+13| VEL 16K|24K|16K !!
+13|0|PRN  7 -36K/  4K L3 36dB  2288Hz     9Hz  500      1    139   1
+13|diff -5484c
+13| VEL 17K|25K|17K !!
+13| PRN  7	 set filters PLL: 20 DLL: 9
+13|0|PRN  7  25K/ -5K L3 37dB  2290Hz     4Hz  501      0    135   1
+13|diff -5610c
+13| VEL 18K|26K|18K !!
+13|0|PRN  7 -28K/ -1K L3 38dB  2292Hz     2Hz  500     -1    139   1
+13|diff -5736c
+13| VEL 18K|27K|18K !!
+13| PRN  7	 set filters PLL: 10 DLL: 3
+13|0|PRN  7  36K/ -2K L3 38dB  2292Hz     2Hz  501     -1    136   1
+13|diff -5862c
+13| VEL 18K|26K|18K !!
+13|0|PRN  7 -19K/ -4K L3 39dB  2293Hz     3Hz  501     -1    139   1
+13|diff -5988c
+13| VEL 17K|25K|17K !!
+13|0|PRN  7 -29K/  1K L3 39dB  2291Hz     2Hz  500      0    140   1
+13|diff -6113c
+13| VEL 17K|26K|17K !!
+13| PRN  7	 CHANNEL OFF (NO DATA)
+13| PRN  4	 FIN SCAN START 3900 Hz
+13|PRN  4			 SUB-1 22K/2 (97/3635) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  4			 SUB-2 19K/2 (95/3845) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  4			 SUB-3 20K/0 (155/4081) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  4			 TRACK REJECT 
+13| PRN  5	 FIN SCAN START -2843 Hz
+13|PRN  5			 SUB-1 22K/1 (-244/449) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  5			 SUB-2 18K/1 (19/768) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 SUB-3 19K/0 (204/1055) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 TRACK REJECT 
+13| PRN  7	 FIN SCAN START 2506 Hz
+13|PRN  7			 SUB-1 20K/0 (-136/493) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  7			 SUB-2 19K/0 (244/860) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 SUB-3 16K/0 (175/1043) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2106 Hz
+13|PRN 13			 SUB-1 18K/2 (-153/486) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 17K/1 (129/813) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 19K/2 (90/1008) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START -3516 Hz
+13|PRN 15			 SUB-1 16K/2 (-184/473) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 18K/0 (231/855) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 21K/2 (95/1010) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2738 Hz
+13|PRN  2			 SUB-1 19K/1 (234/646) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 16K/1 (-101/719) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 17K/0 (-87/936) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN  5	 FIN SCAN START -2663 Hz
+13|PRN  5			 SUB-1 21K/2 (254/653) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  5			 SUB-2 18K/0 (77/792) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 SUB-3 21K/0 (-244/871) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 TRACK REJECT 
+13| PRN  7	 FIN SCAN START 2476 Hz
+13|PRN  7			 SUB-1 20K/2 (-251/444) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  7			 SUB-2 19K/2 (68/786) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 SUB-3 18K/2 (169/1038) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2242 Hz
+13|PRN 13			 SUB-1 19K/0 (-256/444) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 17K/1 (136/816) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 18K/2 (205/1055) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START -3396 Hz
+13|PRN 15			 SUB-1 17K/0 (28/561) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 17K/2 (200/842) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 19K/2 (-182/896) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 16	 FIN SCAN START 5060 Hz
+13|PRN 16			 SUB-1 17K/2 (171/3660) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 16			 SUB-2 17K/0 (175/3873) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 16			 SUB-3 18K/1 (251/4115) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 16			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2943 Hz
+13|PRN  2			 SUB-1 20K/0 (234/645) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 19K/2 (169/829) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 18K/2 (-199/889) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN  5	 FIN SCAN START -2783 Hz
+13|PRN  5			 SUB-1 20K/1 (178/622) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  5			 SUB-2 20K/0 (136/816) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 SUB-3 18K/1 (-43/953) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 TRACK REJECT 
+13| PRN  7	 FIN SCAN START 2446 Hz
+13|PRN  7			 SUB-1 33K/2 (-6/544) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  7			 TRACK START 
+13|0|PRN  7  15K/ 10K L0 28dB  2562Hz    17Hz  499     -3    141   1
+13|diff -11021c
+13|0|PRN  7 -13K/  9K L2 31dB  2508Hz   -19Hz  501     -1    137   1
+13|diff -11173c
+13|PRN  7	 fin chip_div set!
+13|0|PRN  7 -18K/  4K L3 33dB  2528Hz     4Hz  499     -1    142   1
+13|diff -11274c
+13| VEL 13K|20K|13K !!
+13|0|PRN  7 -22K/  3K L3 34dB  2526Hz    -9Hz  501      0    139   1
+13|diff -11399c
+13| VEL 13K|20K|13K !!
+13| PRN  7	 set filters PLL: 20 DLL: 9
+13|0|PRN  7 -15K/ -2K L3 34dB  2538Hz     6Hz  500      0    141   1
+13|diff -11522c
+13| VEL 14K|19K|14K !!
+13|0|PRN  7  16K/ -1K L3 35dB  2535Hz     4Hz  501      0    132   1
+13|diff -11650c
+13| VEL 14K|20K|14K !!
+13|0|PRN  7 -20K/ -5K L3 35dB  2540Hz     6Hz  500      0    137   1
+13|diff -11775c
+13| VEL 13K|20K|13K !!
+13| PRN  7	 set filters PLL: 10 DLL: 3
+13|0|PRN  7  27K/  5K L3 36dB  2537Hz     3Hz  501      0    133   1
+13|diff -11900c
+13| VEL 14K|21K|14K !!
+13|0|PRN  7  19K/  2K L3 37dB  2536Hz     4Hz  501      0    124   1
+13|diff -12026c
+13| VEL 13K|19K|13K !!
+13|0|PRN  7  22K/  2K L3 37dB  2536Hz     2Hz  500      0    125   1
+13|diff -12151c
+13| VEL 13K|19K|13K !!
+13| PRN  7	 CHANNEL OFF (NO DATA)
+13| PRN 15	 FIN SCAN START -3420 Hz
+13|PRN 15			 SUB-1 19K/2 (-226/456) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 19K/1 (-11/755) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 17K/2 (19/979) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN  7	 FIN SCAN START 2471 Hz
+13|PRN  7			 SUB-1 20K/2 (217/638) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  7			 SUB-2 18K/1 (104/803) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 SUB-3 20K/1 (85/1006) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 TRACK REJECT 
+13| PRN  9	 FIN SCAN START 3210 Hz
+13|PRN  9			 SUB-1 19K/1 (-1/3590) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  9			 TRACK START 
+13|0|PRN  9   2K/ -9K L0 -1000dB  3273Hz     6Hz  499     -5    142   1
+13|diff -16331c
+13|0|PRN  9 -12K/ -6K L0 24dB  3560Hz    78Hz  501     -9    126   1
+13|diff -18822c
+13|PRN  9	 fin chip_div set!
+13| PRN  9	 CHANNEL OFF (NO LOCK)
+13| PRN 15	 FIN SCAN START -3510 Hz
+13|PRN 15			 SUB-1 17K/2 (-197/469) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 16K/0 (-234/665) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 19K/0 (195/1052) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2782 Hz
+13|PRN  2			 SUB-1 18K/0 (-33/536) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 19K/2 (-86/725) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 16K/1 (55/995) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN  5	 FIN SCAN START -2638 Hz
+13|PRN  5			 SUB-1 20K/1 (-106/504) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  5			 SUB-2 17K/1 (215/847) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 SUB-3 22K/2 (-45/951) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 TRACK REJECT 
+13| PRN  7	 FIN SCAN START 2381 Hz
+13|PRN  7			 SUB-1 23K/0 (-256/444) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  7			 SUB-2 19K/1 (-94/721) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 SUB-3 21K/0 (55/994) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 TRACK REJECT 
+13| PRN  9	 FIN SCAN START -5080 Hz
+13|PRN  9			 SUB-1 18K/0 (-109/3547) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  9			 SUB-2 18K/0 (204/3887) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  9			 SUB-3 19K/2 (-79/3981) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  9			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2284 Hz
+13|PRN 13			 SUB-1 17K/2 (127/599) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 17K/0 (-171/688) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 20K/0 (234/1065) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START -3510 Hz
+13|PRN 15			 SUB-1 20K/1 (-23/540) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 19K/2 (31/774) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 17K/1 (-158/907) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2927 Hz
+13|PRN  2			 SUB-1 18K/1 (-53/527) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 17K/0 (38/776) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 20K/0 (236/1068) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN  5	 FIN SCAN START -2668 Hz
+13|PRN  5			 SUB-1 16K/2 (-243/447) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  5			 SUB-2 19K/2 (71/787) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 SUB-3 20K/1 (-106/925) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 TRACK REJECT 
+13| PRN  7	 FIN SCAN START 2436 Hz
+13|PRN  7			 SUB-1 18K/2 (249/651) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  7			 SUB-2 20K/0 (-188/683) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 SUB-3 17K/0 (133/1026) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2360 Hz
+13|PRN 13			 SUB-1 19K/1 (-256/444) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 21K/0 (-237/663) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 20K/0 (185/1047) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START -3450 Hz
+13|PRN 15			 SUB-1 16K/2 (-148/489) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 20K/1 (124/812) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 16K/2 (102/1014) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2802 Hz
+13|PRN  2			 SUB-1 19K/2 (181/624) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 17K/2 (-150/699) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 18K/0 (-200/890) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN  5	 FIN SCAN START -2668 Hz
+13|PRN  5			 SUB-1 18K/2 (232/644) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  5			 SUB-2 20K/0 (23/770) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 SUB-3 17K/1 (92/1009) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 TRACK REJECT 
+13| PRN  7	 FIN SCAN START 3110 Hz
+13|PRN  7			 SUB-1 18K/1 (153/3655) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  7			 SUB-2 16K/0 (33/3817) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 TRACK START 
+13|0|PRN  7  -7K/  3K L0 26dB  3024Hz    28Hz  498     -1    135   2
+13|diff -65996c
+13|0|PRN  7   0K/ -5K L0 24dB  3203Hz   -54Hz  501      3    143   1
+13|diff -64655c
+13|PRN  7	 fin chip_div set!
+13|0|PRN  7  10K/ -4K L0 24dB  3154Hz    15Hz  499      2    130   2
+13|diff -63058c
+13| PRN  7	 CHANNEL OFF (NO LOCK)
+13| PRN 15	 FIN SCAN START -3300 Hz
+13|PRN 15			 SUB-1 20K/1 (-104/508) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 16K/1 (-55/739) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 19K/2 (-187/896) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2886 Hz
+13|PRN  2			 SUB-1 19K/0 (109/592) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 17K/0 (229/852) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 18K/1 (205/1053) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN  5	 FIN SCAN START -2668 Hz
+13|PRN  5			 SUB-1 19K/2 (200/631) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  5			 SUB-2 17K/1 (-190/682) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 SUB-3 16K/2 (-35/956) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 TRACK REJECT 
+13| PRN  7	 FIN SCAN START 2316 Hz
+13|PRN  7			 SUB-1 21K/0 (-203/466) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  7			 SUB-2 19K/0 (-227/667) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 SUB-3 20K/1 (-172/900) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2381 Hz
+13|PRN 13			 SUB-1 19K/2 (-123/496) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 21K/1 (-8/754) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK START 
+13|0|PRN 13   0K/  0K L0 -1000dB -2424Hz    -1Hz  498      1    138   2
+13|diff -74495c
+13|0|PRN 13   3K/  6K L0 -1000dB -2314Hz    78Hz  501     -2    121   1
+13|diff -73761c
+13|PRN 13	 fin chip_div set!
+13|0|PRN 13  -3K/ -1K L0 -1000dB -2205Hz   -36Hz  499      4    140   2
+13|diff -74267c
+13| PRN 13	 CHANNEL OFF (NO LOCK)
+13| PRN 33	 FIN SCAN START 2569 Hz
+13|PRN 33			 SUB-1 19K/0 (-19/542) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 33			 SUB-2 20K/2 (-8/757) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 TRACK START 
+13|0|PRN 33  -3K/  2K L0 -1000dB  2538Hz    -2Hz  498      1    142   1
+13|diff -31285c
+13|0|PRN 33   2K/  1K L0 -1000dB  2400Hz    30Hz  500      0    126   1
+13|diff -30569c
+13|PRN 33	 fin chip_div set!
+13|0|PRN 33   2K/ -2K L0 -1000dB  2354Hz   -20Hz  499      5    146   2
+13|diff -29962c
+13| PRN 33	 CHANNEL OFF (NO LOCK)
+13| PRN  5	 FIN SCAN START -2668 Hz
+13|PRN  5			 SUB-1 17K/2 (171/620) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  5			 SUB-2 18K/0 (48/781) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 SUB-3 17K/2 (252/1075) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 TRACK REJECT 
+13| PRN  7	 FIN SCAN START 2311 Hz
+13|PRN  7			 SUB-1 18K/1 (141/607) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  7			 SUB-2 18K/2 (-228/666) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 SUB-3 18K/2 (-162/904) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 TRACK REJECT 
+13| PRN  9	 FIN SCAN START -3050 Hz
+13|PRN  9			 SUB-1 16K/1 (-141/3535) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  9			 SUB-2 17K/1 (139/3861) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  9			 SUB-3 19K/0 (-82/3981) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  9			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2331 Hz
+13|PRN 13			 SUB-1 20K/0 (8/554) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 TRACK START 
+13|0|PRN 13 -30K/ 22K L0 24dB -2370Hz    22Hz  499     -1    142   1
+13|diff -7448c
+13|0|PRN 13 -19K/-12K L0 24dB -2326Hz   -38Hz  501      1    124   1
+13|diff -7329c
+13|PRN 13	 fin chip_div set!
+13| PRN 13	 CHANNEL OFF (NO LOCK)
+13| PRN 33	 FIN SCAN START 2564 Hz
+13|PRN 33			 SUB-1 17K/2 (-91/512) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 33			 SUB-2 19K/2 (161/827) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 SUB-3 19K/1 (24/982) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2816 Hz
+13|PRN  2			 SUB-1 18K/0 (-239/452) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 25K/2 (14/767) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 19K/0 (214/1060) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN  5	 FIN SCAN START -2848 Hz
+13|PRN  5			 SUB-1 20K/2 (-99/508) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  5			 SUB-2 18K/1 (156/824) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 SUB-3 18K/1 (212/1058) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 TRACK REJECT 
+13| PRN  7	 FIN SCAN START 2335 Hz
+13|PRN  7			 SUB-1 21K/2 (-81/515) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  7			 SUB-2 17K/1 (112/806) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 SUB-3 21K/1 (141/1029) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2222 Hz
+13|PRN 13			 SUB-1 19K/2 (-233/453) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 18K/0 (133/815) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 18K/0 (114/1018) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START -3505 Hz
+13|PRN 15			 SUB-1 19K/2 (-116/502) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 17K/1 (-204/677) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 18K/0 (109/1017) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 33	 FIN SCAN START 2524 Hz
+13|PRN 33			 SUB-1 17K/0 (202/632) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 33			 SUB-2 19K/2 (-194/680) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 SUB-3 20K/2 (-13/965) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2871 Hz
+13|PRN  2			 SUB-1 19K/2 (166/615) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 21K/0 (-239/660) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 20K/2 (240/1067) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN  5	 FIN SCAN START -2758 Hz
+13|PRN  5			 SUB-1 20K/2 (-135/493) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  5			 SUB-2 18K/0 (-232/665) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 SUB-3 16K/1 (-60/946) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 TRACK REJECT 
+13| PRN  7	 FIN SCAN START 2310 Hz
+13|PRN  7			 SUB-1 24K/2 (-255/3487) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  7			 SUB-2 18K/1 (122/3853) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 SUB-3 16K/0 (-175/3942) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2202 Hz
+13|PRN 13			 SUB-1 21K/1 (-109/505) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 17K/2 (-253/657) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 19K/2 (17/979) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START -3295 Hz
+13|PRN 15			 SUB-1 17K/1 (-70/520) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 19K/2 (110/805) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 18K/2 (-89/934) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 33	 FIN SCAN START 2398 Hz
+13|PRN 33			 SUB-1 18K/0 (28/561) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 33			 SUB-2 18K/2 (-133/705) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 SUB-3 16K/2 (205/1055) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2895 Hz
+13|PRN  2			 SUB-1 17K/0 (238/645) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 19K/0 (234/854) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 18K/1 (217/1058) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN  5	 FIN SCAN START -2698 Hz
+13|PRN  5			 SUB-1 20K/1 (173/622) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  5			 SUB-2 18K/1 (-6/759) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 TRACK START 
+13|0|PRN  5  -5K/  0K L0 -1000dB -2716Hz    -3Hz  498     -3    441   2
+13|diff -61949c
+13|0|PRN  5   3K/ -6K L0 -1000dB -2791Hz    17Hz  501     -1    163   1
+13|diff -60563c
+13|PRN  5	 fin chip_div set!
+13|0|PRN  5   1K/  2K L0 -1000dB -2901Hz   -14Hz  499     -2    128   2
+13|diff -61146c
+13| PRN  5	 CHANNEL OFF (NO LOCK)
+13| PRN 13	 FIN SCAN START -2423 Hz
+13|PRN 13			 SUB-1 18K/1 (161/616) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 16K/2 (222/852) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 18K/0 (-237/875) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START -3415 Hz
+13|PRN 15			 SUB-1 23K/0 (234/646) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 16K/1 (58/785) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 19K/1 (158/1037) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 33	 FIN SCAN START 2448 Hz
+13|PRN 33			 SUB-1 20K/2 (-216/460) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 33			 SUB-2 20K/2 (4/762) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 TRACK START 
+13|0|PRN 33  -3K/ -1K L0 26dB  2463Hz    54Hz  498     -3    139   2
+13|diff 24502c
+13|0|PRN 33   7K/ -2K L0 -1000dB  2764Hz   -35Hz  501     -1    122   1
+13|diff 24281c
+13|PRN 33	 fin chip_div set!
+13|0|PRN 33 -10K/  2K L0 24dB  2628Hz    -3Hz  499     -1    129   2
+13|diff 24522c
+13| PRN 33	 CHANNEL OFF (NO LOCK)
+13| PRN  5	 FIN SCAN START -2848 Hz
+13|PRN  5			 SUB-1 19K/0 (-149/489) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  5			 SUB-2 16K/0 (-48/741) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 SUB-3 18K/0 (-9/968) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 TRACK START 
+13|0|PRN  5  -4K/  8K L0 -1000dB -2742Hz    22Hz  499      2    141   2
+13|diff 66820c
+13|PRN  5	 fin chip_div set!
+13|0|PRN  5  -9K/  3K L0 24dB -2724Hz    15Hz  500     -3    135   2
+13|diff 67193c
+13| PRN  5	 CHANNEL OFF (NO LOCK)
+13| PRN  7	 FIN SCAN START -1660 Hz
+13|PRN  7			 SUB-1 19K/2 (-59/3572) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  7			 SUB-2 17K/0 (251/3911) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 SUB-3 18K/0 (119/4068) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2343 Hz
+13|PRN 13			 SUB-1 18K/0 (-198/469) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 22K/0 (101/803) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 19K/0 (187/1049) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START -3410 Hz
+13|PRN 15			 SUB-1 20K/2 (110/594) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 19K/0 (57/784) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 18K/0 (65/998) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 33	 FIN SCAN START 2317 Hz
+13|PRN 33			 SUB-1 21K/0 (128/600) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 33			 SUB-2 18K/2 (176/830) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 SUB-3 18K/1 (92/1007) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2760 Hz
+13|PRN  2			 SUB-1 22K/0 (109/595) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 20K/1 (-126/709) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 19K/1 (119/1021) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN  5	 FIN SCAN START -2638 Hz
+13|PRN  5			 SUB-1 20K/1 (-224/458) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  5			 SUB-2 19K/0 (-129/708) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 SUB-3 20K/2 (156/1036) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  5			 TRACK REJECT 
+13| PRN  7	 FIN SCAN START 2420 Hz
+13|PRN  7			 SUB-1 16K/0 (155/611) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  7			 SUB-2 17K/2 (-113/711) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 SUB-3 18K/0 (217/1058) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  7			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2444 Hz
+13|PRN 13			 SUB-1 15K/0 (238/648) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 19K/2 (-147/700) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 18K/0 (190/1050) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START -3500 Hz
+13|PRN 15			 SUB-1 17K/1 (-126/498) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 18K/2 (-165/693) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 21K/0 (77/1004) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 33	 FIN SCAN START 2492 Hz
+13|PRN 33			 SUB-1 18K/2 (244/650) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 33			 SUB-2 18K/2 (242/860) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 SUB-3 19K/0 (-220/882) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2844 Hz
+13|PRN  2			 SUB-1 18K/1 (26/561) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 17K/1 (1/762) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK START 
+13|0|PRN  2   5K/  4K L0 -1000dB  2858Hz    11Hz  498      0    137   1
+13|diff 67731c
+13|0|PRN  2   6K/  0K L0 -1000dB  2837Hz   -34Hz  501      2    142   2
+13|diff 68048c
+13|PRN  2	 fin chip_div set!
+13|0|PRN  2  -4K/ 11K L0 -1000dB  3055Hz   -48Hz  500      3    136   2
+13|diff 68690c
+13| PRN  2	 CHANNEL OFF (NO LOCK)
+13| PRN  4	 FIN SCAN START 70 Hz
+13|PRN  4			 SUB-1 17K/0 (-237/3499) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  4			 SUB-2 18K/2 (-32/3793) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  4			 TRACK START 
+13|0|PRN  4  -6K/ -2K L0 -1000dB    -2Hz     2Hz  498      3    134   2
+13|diff -74649c
+13|0|PRN  4   7K/  1K L0 24dB   -66Hz   -11Hz  501     -2    133   1
+13|diff -74111c
+13|PRN  4	 fin chip_div set!
+13|0|PRN  4   2K/  1K L0 24dB  -281Hz    57Hz  500     -5    134   2
+13|diff -75932c
+13| PRN  4	 CHANNEL OFF (NO LOCK)
+13| PRN 15	 FIN SCAN START -3320 Hz
+13|PRN 15			 SUB-1 18K/0 (11/557) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 17K/1 (102/805) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 18K/0 (-234/878) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 33	 FIN SCAN START 2302 Hz
+13|PRN 33			 SUB-1 16K/2 (17/559) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 33			 SUB-2 22K/1 (-104/720) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 SUB-3 20K/2 (-135/918) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2659 Hz
+13|PRN  2			 SUB-1 18K/2 (-84/513) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 19K/2 (245/859) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 21K/0 (-249/868) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2440 Hz
+13|PRN 13			 SUB-1 18K/1 (-143/493) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 16K/1 (-60/738) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 21K/2 (-59/949) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START -3470 Hz
+13|PRN 15			 SUB-1 21K/2 (-128/499) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 20K/2 (117/811) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 18K/2 (-140/916) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 33	 FIN SCAN START 2506 Hz
+13|PRN 33			 SUB-1 22K/2 (61/573) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 33			 SUB-2 17K/2 (-5/756) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 TRACK START 
+13|0|PRN 33  -5K/-14K L0 -1000dB  2463Hz    27Hz  498     -3    139   1
+13|diff 55390c
+13|0|PRN 33  -3K/  0K L0 24dB  2437Hz    64Hz  501     -6    126   1
+13|diff 54034c
+13|PRN 33	 fin chip_div set!
+13|0|PRN 33   5K/ -1K L0 24dB  2322Hz    -4Hz  499      0    140   1
+13|diff 53739c
+13| PRN 33	 CHANNEL OFF (NO LOCK)
+13| PRN  4	 FIN SCAN START 1100 Hz
+13|PRN  4			 SUB-1 18K/0 (-56/3593) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  4			 SUB-2 18K/2 (19/3835) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  4			 TRACK START 
+13|0|PRN  4   9K/ -4K L0 26dB  1125Hz   -31Hz  498      1    136   2
+13|diff 80058c
+13|0|PRN  4  -4K/  1K L0 24dB   986Hz     0Hz  501      1    125   1
+13|diff 80640c
+13|PRN  4	 fin chip_div set!
+13|0|PRN  4  -7K/  4K L0 24dB  1036Hz    66Hz  499     -6    302   2
+13|diff 80173c
+13| PRN  4	 CHANNEL OFF (NO LOCK)
+13| PRN 15	 FIN SCAN START -3315 Hz
+13|PRN 15			 SUB-1 17K/0 (148/613) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 21K/1 (36/778) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 18K/1 (217/1063) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 33	 FIN SCAN START 2286 Hz
+13|PRN 33			 SUB-1 22K/1 (-97/512) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 33			 SUB-2 18K/1 (-199/681) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 SUB-3 23K/1 (168/1043) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2858 Hz
+13|PRN  2			 SUB-1 18K/1 (246/649) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 18K/0 (79/792) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 21K/1 (26/981) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN  4	 FIN SCAN START -1490 Hz
+13|PRN  4			 SUB-1 17K/2 (151/3672) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  4			 SUB-2 18K/0 (-80/3788) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  4			 SUB-3 19K/1 (-182/3957) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  4			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2491 Hz
+13|PRN 13			 SUB-1 20K/0 (8/556) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 TRACK START 
+13|0|PRN 13  -1K/ -2K L0 24dB -2425Hz    51Hz  499     -2    138   1
+13|diff 64583c
+13|0|PRN 13  -8K/ -1K L0 -1000dB -2355Hz    32Hz  501      2    141   1
+13|diff 63829c
+13|PRN 13	 fin chip_div set!
+13| PRN 13	 CHANNEL OFF (NO LOCK)
+13| PRN 33	 FIN SCAN START 2395 Hz
+13|PRN 33			 SUB-1 18K/1 (116/601) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 33			 SUB-2 20K/1 (-155/700) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 SUB-3 18K/2 (176/1047) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2698 Hz
+13|PRN  2			 SUB-1 24K/2 (-157/487) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 20K/0 (212/850) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 15K/2 (115/1021) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN  4	 FIN SCAN START -6140 Hz
+13|PRN  4			 SUB-1 20K/0 (231/3705) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  4			 SUB-2 19K/2 (127/3873) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  4			 SUB-3 19K/1 (-101/3990) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  4			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2351 Hz
+13|PRN 13			 SUB-1 18K/0 (-131/494) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 18K/1 (-244/659) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 19K/2 (-219/880) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START -3375 Hz
+13|PRN 15			 SUB-1 17K/2 (217/641) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 18K/1 (117/811) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 18K/2 (-45/955) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 33	 FIN SCAN START 2270 Hz
+13|PRN 33			 SUB-1 18K/0 (-215/464) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 33			 SUB-2 18K/2 (225/855) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 SUB-3 19K/0 (-173/903) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2783 Hz
+13|PRN  2			 SUB-1 17K/0 (224/640) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 18K/2 (-89/722) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 18K/0 (143/1029) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN  4	 FIN SCAN START -670 Hz
+13|PRN  4			 SUB-1 18K/0 (6/3612) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  4			 TRACK START 
+13|0|PRN  4   2K/ -6K L0 -1000dB  -751Hz   -65Hz  499      5    138   1
+13|diff 46618c
+13|0|PRN  4   7K/ -3K L0 -1000dB  -580Hz    -2Hz  501      3    121   1
+13|diff 47779c
+13|PRN  4	 fin chip_div set!
+13| PRN  4	 CHANNEL OFF (NO LOCK)
+13| PRN 15	 FIN SCAN START -3429 Hz
+13|PRN 15			 SUB-1 19K/1 (185/628) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 16K/2 (-76/731) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 21K/2 (-111/928) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 33	 FIN SCAN START 2470 Hz
+13|PRN 33			 SUB-1 20K/1 (53/571) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 33			 SUB-2 18K/2 (-250/657) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 SUB-3 20K/2 (75/1002) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2717 Hz
+13|PRN  2			 SUB-1 16K/2 (151/614) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 20K/0 (-227/670) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 21K/0 (18/982) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN  4	 FIN SCAN START 1040 Hz
+13|PRN  4			 SUB-1 19K/0 (-68/3581) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  4			 SUB-2 17K/0 (74/3851) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  4			 SUB-3 19K/2 (-10/4026) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  4			 TRACK START 
+13|0|PRN  4  -6K/  2K L0 24dB  1018Hz   -44Hz  499      1    140   1
+13|diff 60599c
+13|PRN  4	 fin chip_div set!
+13|0|PRN  4 -10K/  0K L0 -1000dB  1252Hz    31Hz  500     -3    125   1
+13|diff 60402c
+13| PRN  4	 CHANNEL OFF (NO LOCK)
+13| PRN 15	 FIN SCAN START -3459 Hz
+13|PRN 15			 SUB-1 20K/2 (-45/533) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 18K/0 (217/852) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 17K/2 (-76/942) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 33	 FIN SCAN START 2279 Hz
+13|PRN 33			 SUB-1 21K/0 (-244/451) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 33			 SUB-2 18K/2 (222/853) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 SUB-3 18K/2 (-37/957) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 33			 TRACK REJECT 
+13| PRN  2	 FIN SCAN START 2802 Hz
+13|PRN  2			 SUB-1 18K/1 (-146/488) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  2			 SUB-2 18K/1 (-45/740) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 SUB-3 19K/0 (190/1048) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  2			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2408 Hz
+13|PRN 13			 SUB-1 23K/0 (8/556) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 TRACK START 
+13|0|PRN 13 -27K/ -5K L2 35dB -2412Hz    -7Hz  499      3    135   2
+13|diff 15867c
+13|0|PRN 13  24K/ -6K L3 36dB -2430Hz    27Hz  500     -3    231   2
+13|diff 15989c
+13| VEL -10K|26K|-10K !!
+13|PRN 13	 fin chip_div set!
+13|0|PRN 13 -28K/ 12K L3 36dB -2435Hz    -1Hz  500      1    128   1
+13|diff 16139c
+13| VEL 18K|26K|18K !!
+13|0|PRN 13 -34K/-10K L3 37dB -2412Hz    -4Hz  500      1    142   1
+13|diff 16264c
+13| VEL 19K|28K|19K !!
+13| PRN 13	 set filters PLL: 20 DLL: 9
+13|0|PRN 13 -33K/  1K L3 37dB -2423Hz    -3Hz  501      0    122   1
+13|diff 16390c
+13| VEL 20K|29K|20K !!
+13|0|PRN 13  17K/ -1K L3 38dB -2422Hz    -2Hz  500      0    154   1
+13|diff 16515c
+13| VEL 19K|28K|19K !!
+13|0|PRN 13 -18K/  5K L3 38dB -2429Hz    -2Hz  500      0    140   1
+13|diff 16641c
+13| VEL 19K|28K|19K !!
+13| PRN 13	 set filters PLL: 10 DLL: 3
+13|0|PRN 13 -39K/ -8K L3 39dB -2422Hz    -3Hz  501      0    138   2
+13|diff 16767c
+13| VEL 20K|29K|20K !!
+13|0|PRN 13  23K/  0K L3 39dB -2424Hz    -3Hz  500      0    138   1
+13|diff 16893c
+13| VEL 19K|27K|19K !!
+13|0|PRN 13  26K/  9K L3 40dB -2422Hz    -4Hz  500      0    133   1
+13|diff 17019c
+13| VEL 19K|28K|19K !!
+13|0|PRN 13 -39K/ -6K L3 40dB -2425Hz    -4Hz  501      1    135   1
+13|diff 17146c
+13| VEL 20K|29K|20K !!
+13|0|PRN 13 -22K/ -7K L3 40dB -2424Hz    -4Hz  501      0    141   2
+13|diff 17272c
+13| VEL 18K|26K|18K !!
+13|0|PRN 13 -33K/  7K L3 40dB -2429Hz    -3Hz  501      0    136   1
+13|diff 17398c
+13| VEL 20K|29K|20K !!
+13|0|PRN 13 -24K/  7K L3 40dB -2430Hz    -4Hz  501      1    133   1
+13|diff 17525c
+13| VEL 19K|28K|19K !!
+13|0|PRN 13 -26K/-13K L3 40dB -2425Hz    -5Hz  500      0    142   1
+13|diff 17650c
+13| VEL 19K|28K|19K !!
+13|0|PRN 13 -28K/ -6K L3 40dB -2428Hz    -5Hz  501      0    122   1
+13|diff 17777c
+13| VEL 19K|28K|19K !!
+13|0|PRN 13 -25K/ -5K L3 40dB -2428Hz    -3Hz  500      0    138   1
+13| VEL 19K|28K|19K !!
+13|0|PRN 13 -28K/  3K L3 40dB -2431Hz    -3Hz  501      1    122   1
+13| VEL 19K|28K|19K !!
+13|0|PRN 13 -19K/  2K L3 40dB -2432Hz    -4Hz  500      1    139   1
+13| VEL 18K|26K|18K !!
+13|0|PRN 13 -27K/  2K L3 40dB -2433Hz    -4Hz  501      0    121   1
+13| VEL 18K|27K|18K !!
+13|0|PRN 13 -27K/ -4K L3 40dB -2432Hz    -5Hz  500      1    140   1
+13| VEL 18K|26K|18K !!
+13|0|PRN 13 -18K/  1K L3 39dB -2434Hz    -3Hz  500      0    121   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -28K/  6K L3 39dB -2436Hz    -4Hz  501      0    142   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -22K/  1K L3 39dB -2435Hz    -2Hz  500      0    140   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -22K/  0K L3 39dB -2436Hz    -3Hz  501      1    136   1
+13| VEL 17K|25K|17K !!
+13|0|PRN 13 -25K/ 10K L3 39dB -2439Hz    -5Hz  501      0    133   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -18K/ -3K L3 39dB -2435Hz    -4Hz  501      0    205   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  13K/  1K L3 38dB -2437Hz    -2Hz  501      1    143   1
+13| VEL 15K|21K|15K !!
+13|0|PRN 13 -19K/ -6K L3 38dB -2435Hz    -4Hz  501      0    150   1
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -24K/ -3K L3 39dB -2438Hz    -4Hz  500      0    142   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13  20K/ -3K L3 38dB -2441Hz    -4Hz  501      1    153   1
+13| VEL 15K|23K|15K !!
+13|0|PRN 13  23K/ 16K L3 38dB -2435Hz    -3Hz  500      0    133   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  26K/ -4K L3 38dB -2442Hz    -3Hz  501      1    127   1
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  17K/ -3K L3 38dB -2443Hz    -5Hz  500      0    142   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  19K/ -1K L3 38dB -2442Hz    -4Hz  501      0    128   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  23K/ -1K L3 38dB -2443Hz    -4Hz  500      0    133   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  26K/ -2K L3 38dB -2444Hz    -4Hz  500      0    142   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  20K/  2K L3 38dB -2444Hz    -4Hz  500      0    139   1
+13| VEL 15K|23K|15K !!
+13|0|PRN 13  24K/  5K L3 38dB -2443Hz    -3Hz  500      1    168   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13  23K/ -6K L3 38dB -2448Hz    -3Hz  501      1    141   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  21K/ -9K L3 38dB -2450Hz    -3Hz  501      0    139   1
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  26K/ -1K L3 38dB -2447Hz    -4Hz  501      0    136   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -27K/ -4K L3 38dB -2447Hz    -3Hz  501      0    120   1
+13| VEL 17K|25K|17K !!
+13|0|PRN 13  20K/  2K L3 39dB -2448Hz    -4Hz  500      0    134   1
+13| VEL 17K|25K|17K !!
+13|0|PRN 13  22K/  8K L3 39dB -2446Hz    -4Hz  501      0    121   1
+13| VEL 18K|26K|18K !!
+13|0|PRN 13 -24K/  9K L3 39dB -2453Hz    -2Hz  500      0    156   1
+13| VEL 18K|27K|18K !!
+13|0|PRN 13  23K/ -4K L3 40dB -2452Hz    -3Hz  500      1    134   1
+13| VEL 19K|28K|19K !!
+13|0|PRN 13  22K/  5K L3 40dB -2449Hz    -5Hz  501      0    120   1
+13| VEL 19K|27K|19K !!
+13|0|PRN 13 -33K/-13K L3 40dB -2448Hz    -4Hz  500      1    139   2
+13| VEL 20K|29K|20K !!
+13|0|PRN 13  26K/  6K L3 40dB -2450Hz    -3Hz  501      0    132   1
+13| VEL 20K|29K|20K !!
+13|0|PRN 13 -32K/ -4K L3 40dB -2452Hz    -4Hz  500      1    141   2
+13| VEL 21K|29K|21K !!
+13|0|PRN 13 -33K/  5K L3 40dB -2455Hz    -3Hz  501      0    136   1
+13| VEL 20K|29K|20K !!
+13|0|PRN 13  23K/  7K L3 40dB -2452Hz    -3Hz  500      0    142   1
+13| VEL 19K|28K|19K !!
+13|0|PRN 13 -34K/ -2K L3 40dB -2455Hz    -4Hz  500      0    149   2
+13| VEL 21K|31K|21K !!
+13|0|PRN 13 -25K/ -8K L3 41dB -2454Hz    -4Hz  501      0    135   1
+13| VEL 20K|31K|20K !!
+13|0|PRN 13  35K/ -9K L3 40dB -2458Hz    -3Hz  501      0    135   2
+13| VEL 20K|30K|20K !!
+13|0|PRN 13  32K/-10K L3 40dB -2460Hz    -5Hz  501      0    119   2
+13| VEL 20K|30K|20K !!
+13|0|PRN 13  33K/ -6K L3 41dB -2459Hz    -3Hz  501      1    120   1
+13| VEL 21K|30K|21K !!
+13|0|PRN 13  21K/ -8K L3 41dB -2462Hz    -4Hz  500      0    141   1
+13| VEL 22K|31K|22K !!
+13|0|PRN 13 -38K/-11K L3 41dB -2457Hz    -3Hz  501      0    139   2
+13| VEL 21K|30K|21K !!
+13|0|PRN 13 -33K/ -3K L3 41dB -2459Hz    -4Hz  501      0    143   2
+13| VEL 20K|30K|20K !!
+13|0|PRN 13 -33K/ -4K L3 41dB -2459Hz    -3Hz  501      0    137   1
+13| VEL 21K|31K|21K !!
+13|0|PRN 13 -28K/ -1K L3 40dB -2461Hz    -3Hz  501      0    140   2
+13| VEL 20K|30K|20K !!
+13|0|PRN 13  30K/ -3K L3 40dB -2462Hz    -3Hz  501      0    138   1
+13| VEL 21K|30K|21K !!
+13|0|PRN 13  26K/ -3K L3 40dB -2463Hz    -4Hz  501      0    138   2
+13| VEL 21K|32K|21K !!
+13|0|PRN 13  33K/ -4K L3 41dB -2464Hz    -5Hz  501      0    122   1
+13| VEL 19K|29K|19K !!
+13|0|PRN 13  35K/  5K L3 41dB -2462Hz    -4Hz  500      0    142   1
+13| VEL 19K|29K|19K !!
+13|0|PRN 13  29K/ -1K L3 40dB -2464Hz    -4Hz  501      0    120   1
+13| VEL 19K|28K|19K !!
+13|0|PRN 13  28K/ -2K L3 40dB -2465Hz    -2Hz  500      1    141   1
+13| VEL 20K|29K|20K !!
+13|0|PRN 13  40K/  7K L3 40dB -2464Hz    -4Hz  501      0    121   1
+13| VEL 19K|29K|19K !!
+13|0|PRN 13  30K/ -4K L3 40dB -2467Hz    -4Hz  500      0    141   1
+13| VEL 20K|29K|20K !!
+13|0|PRN 13  33K/ -9K L3 40dB -2469Hz    -3Hz  501      1    169   1
+13| VEL 18K|27K|18K !!
+13|0|PRN 13  31K/ -3K L3 40dB -2468Hz    -4Hz  500      0    140   1
+13| VEL 17K|26K|17K !!
+13|0|PRN 13  36K/ -6K L3 40dB -2470Hz    -4Hz  500      0    142   1
+13| VEL 19K|27K|19K !!
+13|0|PRN 13  25K/ -8K L3 40dB -2471Hz    -4Hz  500      0    138   1
+13| VEL 18K|26K|18K !!
+13|0|PRN 13  32K/  3K L3 40dB -2468Hz    -3Hz  501      0    137   1
+13| VEL 18K|26K|18K !!
+13|0|PRN 13  23K/ -2K L3 40dB -2471Hz    -5Hz  501      1    134   2
+13| VEL 17K|26K|17K !!
+13|0|PRN 13  26K/ -7K L3 40dB -2473Hz    -4Hz  501      1    138   1
+13| VEL 18K|25K|18K !!
+13|0|PRN 13  16K/ -5K L3 39dB -2474Hz    -2Hz  500      0    139   2
+13| VEL 17K|25K|17K !!
+13|0|PRN 13 -21K/  4K L3 39dB -2474Hz    -3Hz  501      0    135   2
+13| VEL 18K|25K|18K !!
+13|0|PRN 13  27K/ -5K L3 39dB -2475Hz    -3Hz  501      0    121   1
+13| VEL 17K|25K|17K !!
+13|0|PRN 13  29K/ -2K L3 39dB -2474Hz    -4Hz  500      1    137   2
+13| VEL 17K|24K|17K !!
+13|0|PRN 13 -22K/  2K L3 39dB -2476Hz    -5Hz  501      0    138   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -24K/  8K L3 39dB -2479Hz    -3Hz  500      0    139   2
+13| VEL 17K|24K|17K !!
+13|0|PRN 13 -18K/ -7K L3 39dB -2473Hz    -4Hz  501      0    126   1
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -27K/ -1K L3 39dB -2477Hz    -4Hz  500      0    135   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -22K/ -2K L3 39dB -2476Hz    -4Hz  501      0    119   1
+13| VEL 17K|24K|17K !!
+13|0|PRN 13 -28K/ -6K L3 39dB -2476Hz    -4Hz  500      1    142   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -24K/  5K L3 39dB -2481Hz    -3Hz  501      0    124   2
+13| VEL 17K|25K|17K !!
+13|0|PRN 13 -24K/ -2K L3 38dB -2478Hz    -5Hz  501      0    141   2
+13| VEL 15K|24K|15K !!
+13|0|PRN 13 -21K/-11K L3 38dB -2476Hz    -3Hz  500      1    140   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -27K/  7K L3 38dB -2483Hz    -3Hz  501      0    136   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13  30K/  7K L3 38dB -2479Hz    -4Hz  501      0    136   2
+13| VEL 15K|24K|15K !!
+13|0|PRN 13 -24K/-11K L3 38dB -2478Hz    -4Hz  501      0    122   1
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -20K/  3K L3 38dB -2484Hz    -4Hz  501      0    121   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -28K/  8K L3 38dB -2485Hz    -4Hz  500      0    139   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -28K/ -8K L3 38dB -2482Hz    -4Hz  501      0    120   1
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -24K/  1K L3 38dB -2484Hz    -4Hz  500      0    142   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13  19K/  2K L3 38dB -2484Hz    -4Hz  501      0    130   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -23K/ -3K L3 39dB -2485Hz    -2Hz  500      0    128   3
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -23K/ -9K L3 38dB -2483Hz    -3Hz  501      0    123   1
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -21K/ -1K L3 38dB -2487Hz    -3Hz  500      0    129   1
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -20K/ -2K L3 38dB -2487Hz    -6Hz  500      0    141   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -35K/ -6K L3 38dB -2487Hz    -4Hz  501      0    138   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  15K/  2K L3 38dB -2488Hz    -3Hz  501      0    141   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13  26K/  5K L3 38dB -2488Hz    -4Hz  501      0    134   2
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -27K/ -2K L3 38dB -2489Hz    -5Hz  501      1    135   1
+13| VEL 15K|21K|15K !!
+13|0|PRN 13 -15K/ -5K L3 38dB -2489Hz    -5Hz  500      0    135   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13  19K/  1K L3 38dB -2491Hz    -4Hz  500      0    137   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -15K/  2K L3 38dB -2494Hz    -5Hz  501      0    123   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -27K/  2K L3 38dB -2494Hz    -5Hz  500      0    136   1
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -26K/ 10K L3 38dB -2497Hz    -4Hz  501      0    121   1
+13| VEL 14K|22K|14K !!
+13|0|PRN 13  24K/ -7K L3 38dB -2496Hz    -4Hz  500      1    130   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -24K/ -6K L3 38dB -2493Hz    -5Hz  501      0    128   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  25K/  1K L3 38dB -2495Hz    -4Hz  500      1    138   2
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  27K/ -3K L3 38dB -2497Hz    -4Hz  501      0    122   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -32K/  0K L3 38dB -2497Hz    -3Hz  500      0    133   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  24K/  3K L3 38dB -2496Hz    -4Hz  500      0    143   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -23K/  2K L3 38dB -2499Hz    -3Hz  501      0    138   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -29K/ -1K L3 38dB -2499Hz    -3Hz  501      0    139   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -16K/  3K L3 38dB -2501Hz    -5Hz  501      1    144   1
+13| VEL 16K|22K|16K !!
+13|0|PRN 13 -24K/  1K L3 38dB -2500Hz    -3Hz  500      0    138   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -32K/ -4K L3 38dB -2500Hz    -4Hz  501      1    141   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -31K/ -3K L3 38dB -2501Hz    -3Hz  501      0    123   1
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -27K/  6K L3 38dB -2504Hz    -3Hz  500      0    136   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -36K/  4K L3 39dB -2504Hz    -3Hz  500      0    134   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -17K/  8K L3 39dB -2508Hz    -4Hz  501      0    132   1
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -26K/ -5K L3 39dB -2502Hz    -4Hz  500      1    139   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -21K/  6K L3 38dB -2507Hz    -4Hz  501      0    126   1
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -29K/ -4K L3 39dB -2504Hz    -3Hz  500      0    136   2
+13| VEL 17K|25K|17K !!
+13|0|PRN 13 -16K/ -1K L3 39dB -2506Hz    -5Hz  501      0    126   1
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -26K/  6K L3 39dB -2509Hz    -4Hz  500      0    138   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -26K/  3K L3 39dB -2508Hz    -4Hz  500      0    132   2
+13| VEL 17K|24K|17K !!
+13|0|PRN 13  31K/-10K L3 39dB -2511Hz    -4Hz  501      0    140   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  29K/  1K L3 38dB -2508Hz    -5Hz  500      1    123   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -20K/ -4K L3 39dB -2508Hz    -4Hz  501      0    141   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -24K/  6K L3 38dB -2513Hz    -5Hz  500      0    142   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -28K/  0K L3 38dB -2511Hz    -4Hz  500      1    140   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -19K/  4K L3 38dB -2513Hz    -3Hz  501      0    140   1
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -25K/  6K L3 38dB -2514Hz    -4Hz  500      0    120   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -15K/  3K L3 38dB -2514Hz    -5Hz  500      0    132   1
+13| VEL 15K|21K|15K !!
+13|0|PRN 13 -21K/  0K L3 38dB -2513Hz    -4Hz  500      0    130   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -26K/ -3K L3 38dB -2513Hz    -4Hz  500      1    135   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -21K/-10K L3 38dB -2510Hz    -3Hz  501      1    139   1
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -19K/ -7K L3 38dB -2512Hz    -3Hz  500      0    139   2
+13| VEL 13K|20K|13K !!
+13|0|PRN 13 -25K/  2K L3 38dB -2516Hz    -4Hz  501      0    133   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13 -18K/ -6K L3 38dB -2513Hz    -4Hz  500      0    136   2
+13| VEL 12K|19K|12K !!
+13|0|PRN 13 -11K/  1K L3 37dB -2518Hz    -4Hz  500      0    134   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -14K/ -4K L3 37dB -2516Hz    -2Hz  500      1    159   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -20K/ -1K L3 37dB -2518Hz    -5Hz  501      0    142   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -19K/  1K L3 38dB -2520Hz    -3Hz  500      1    135   2
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -27K/ -6K L3 37dB -2518Hz    -3Hz  501      0    141   2
+13| VEL 14K|19K|14K !!
+13|0|PRN 13   5K/ -9K L3 37dB -2529Hz    -6Hz  501      0    139   2
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  21K/  2K L3 37dB -2519Hz    -4Hz  501      1    165   2
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -16K/  4K L3 38dB -2524Hz    -3Hz  500      1    420   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  27K/  2K L3 38dB -2521Hz    -3Hz  501      0    373   2
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  25K/ -3K L3 38dB -2523Hz    -4Hz  500      0    244   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  21K/  8K L3 38dB -2519Hz    -4Hz  501      0    130   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -14K/  6K L3 38dB -2528Hz    -3Hz  500      0    127   2
+13| VEL 17K|23K|17K !!
+13|0|PRN 13  27K/  7K L3 38dB -2522Hz    -4Hz  501      0    118   1
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  19K/  6K L3 38dB -2522Hz    -3Hz  500      0    134   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -30K/ -6K L3 38dB -2524Hz    -3Hz  501      0    134   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  21K/-13K L3 38dB -2531Hz    -4Hz  500      0    137   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -22K/  3K L3 38dB -2528Hz    -5Hz  501      1    142   2
+13| VEL 17K|25K|17K !!
+13|0|PRN 13  30K/ -2K L3 38dB -2528Hz    -4Hz  500      0    134   2
+13| VEL 18K|26K|18K !!
+13|0|PRN 13 -34K/ -8K L3 39dB -2526Hz    -3Hz  500      1    138   2
+13| VEL 17K|26K|17K !!
+13|0|PRN 13 -28K/-11K L3 39dB -2526Hz    -3Hz  500      1    135   2
+13| VEL 18K|25K|18K !!
+13|0|PRN 13 -23K/  4K L3 39dB -2532Hz    -4Hz  501      0    130   1
+13| VEL 18K|25K|18K !!
+13|0|PRN 13 -28K/ -1K L3 40dB -2530Hz    -4Hz  500      0    140   2
+13| VEL 17K|27K|17K !!
+13|0|PRN 13 -27K/  7K L3 40dB -2534Hz    -4Hz  501      0    145   1
+13| VEL 19K|27K|19K !!
+13|0|PRN 13  14K/ -3K L3 40dB -2533Hz    -4Hz  500      0    142   2
+13| VEL 19K|27K|19K !!
+13|0|PRN 13  23K/ -5K L3 40dB -2534Hz    -4Hz  501      0    117   1
+13| VEL 19K|27K|19K !!
+13|0|PRN 13  30K/  5K L3 40dB -2532Hz    -3Hz  500      1    138   2
+13| VEL 20K|28K|20K !!
+13|0|PRN 13 -21K/ 10K L3 40dB -2538Hz    -3Hz  501      0    135   1
+13| VEL 19K|28K|19K !!
+13|0|PRN 13  22K/  0K L3 40dB -2535Hz    -5Hz  500      0    127   1
+13| VEL 19K|28K|19K !!
+13|0|PRN 13 -32K/  8K L3 40dB -2538Hz    -4Hz  500      1    135   2
+13| VEL 18K|26K|18K !!
+13|0|PRN 13 -34K/-11K L3 40dB -2533Hz    -3Hz  500      1    136   2
+13| VEL 17K|25K|17K !!
+13|0|PRN 13 -33K/ -4K L3 40dB -2535Hz    -4Hz  500      0    141   2
+13| VEL 19K|27K|19K !!
+13|0|PRN 13  31K/  8K L3 40dB -2534Hz    -4Hz  501      1    133   2
+13| VEL 18K|26K|18K !!
+13|0|PRN 13 -32K/ -8K L3 40dB -2535Hz    -3Hz  501      0    135   2
+13| VEL 18K|27K|18K !!
+13|0|PRN 13 -27K/ -1K L3 40dB -2538Hz    -4Hz  501      0    140   2
+13| VEL 18K|26K|18K !!
+13|0|PRN 13  27K/ -8K L3 40dB -2541Hz    -5Hz  500      0    156   1
+13| VEL 17K|25K|17K !!
+13|0|PRN 13 -15K/-11K L3 40dB -2534Hz    -1Hz  501      0    121   1
+13| VEL 17K|26K|17K !!
+13|0|PRN 13  25K/  2K L3 40dB -2539Hz    -3Hz  500      1    133   2
+13| VEL 18K|25K|18K !!
+13|0|PRN 13  14K/ -7K L3 40dB -2544Hz    -4Hz  501      0    121   1
+13| VEL 17K|24K|17K !!
+13|0|PRN 13  19K/  3K L3 39dB -2540Hz    -4Hz  500      0    135   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  20K/ -3K L3 39dB -2543Hz    -5Hz  501      0    137   1
+13| VEL 15K|24K|15K !!
+13|0|PRN 13  22K/ -5K L3 39dB -2544Hz    -4Hz  500      1    142   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  23K/ -2K L3 38dB -2544Hz    -4Hz  501      0    123   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  25K/  1K L3 38dB -2543Hz    -4Hz  500      0    139   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  24K/  0K L3 38dB -2544Hz    -4Hz  500      0    142   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  15K/ -9K L3 38dB -2550Hz    -4Hz  501      0    140   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  14K/-12K L3 38dB -2552Hz    -3Hz  501      0    234   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  22K/  0K L3 38dB -2547Hz    -4Hz  501      1    239   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  22K/  4K L3 38dB -2545Hz    -3Hz  501      0    128   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  15K/ -3K L3 38dB -2550Hz    -6Hz  501      0    138   1
+13| VEL 12K|19K|12K !!
+13|0|PRN 13  13K/-10K L3 38dB -2553Hz    -3Hz  501      0    122   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13   8K/ -2K L3 38dB -2551Hz    -1Hz  500      0    124   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  21K/  7K L3 38dB -2547Hz    -4Hz  500      1    135   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  21K/ -6K L3 38dB -2552Hz    -2Hz  501      1    119   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  16K/ -7K L3 37dB -2555Hz    -3Hz  500      0    145   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  23K/  4K L3 37dB -2550Hz    -3Hz  501      0    144   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13   7K/  6K L3 37dB -2546Hz    -3Hz  500      0    141   2
+13| VEL 12K|18K|12K !!
+13|0|PRN 13  18K/ -5K L3 37dB -2555Hz    -5Hz  501      1    121   1
+13| VEL 12K|19K|12K !!
+13|0|PRN 13  25K/ -4K L3 37dB -2554Hz    -3Hz  500      0    134   2
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  17K/ -5K L3 37dB -2556Hz    -3Hz  500      0    151   2
+13| VEL 12K|19K|12K !!
+13|0|PRN 13  21K/  2K L3 37dB -2553Hz    -3Hz  500      0    154   2
+13| VEL 13K|18K|13K !!
+13|0|PRN 13  19K/  0K L3 37dB -2555Hz    -4Hz  501      1    154   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  23K/  1K L3 37dB -2555Hz    -4Hz  501      0    139   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  13K/  6K L3 37dB -2553Hz    -5Hz  500      0    142   1
+13| VEL 12K|19K|12K !!
+13|0|PRN 13  28K/ -4K L3 37dB -2558Hz    -3Hz  500      0    133   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  17K/ -3K L3 37dB -2559Hz    -3Hz  501      0    134   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13  10K/-11K L3 37dB -2565Hz    -4Hz  500      0    137   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  20K/  6K L3 37dB -2557Hz    -3Hz  501      0    123   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  23K/  8K L3 37dB -2556Hz    -3Hz  500      1    139   1
+13| VEL 13K|18K|13K !!
+13|0|PRN 13  19K/  2K L3 37dB -2559Hz    -3Hz  501      0    141   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -20K/  4K L3 37dB -2562Hz    -4Hz  500      0    141   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -27K/  3K L3 37dB -2562Hz    -4Hz  501      0    144   1
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -20K/  6K L3 37dB -2564Hz    -4Hz  500      1    122   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -21K/  1K L3 38dB -2563Hz    -4Hz  500      0    136   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  21K/ -2K L3 37dB -2564Hz    -4Hz  501      0    136   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13  18K/  2K L3 38dB -2562Hz    -4Hz  500      0    121   1
+13| VEL 15K|21K|15K !!
+13|0|PRN 13  24K/  1K L3 38dB -2563Hz    -3Hz  501      0    137   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  24K/  8K L3 38dB -2562Hz    -3Hz  501      0    123   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -33K/  1K L3 38dB -2566Hz    -3Hz  501      1    126   6
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  28K/ -4K L3 39dB -2567Hz    -5Hz  500      0    121   6
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  23K/ -1K L3 38dB -2567Hz    -4Hz  501      0    125   5
+13| VEL 16K|22K|16K !!
+13|0|PRN 13 -31K/  5K L3 39dB -2569Hz    -4Hz  500      1    122   6
+13| VEL 17K|24K|17K !!
+13|0|PRN 13 -32K/ -7K L3 39dB -2566Hz    -4Hz  501      1    123   6
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -29K/ -6K L3 39dB -2567Hz    -3Hz  501      0    125  10
+13| VEL 19K|26K|19K !!
+13|0|PRN 13 -20K/  8K L3 39dB -2572Hz    -4Hz  500      0    121   8
+13| VEL 17K|26K|17K !!
+13|0|PRN 13  15K/  2K L3 40dB -2569Hz    -4Hz  501      0    125   8
+13| VEL 17K|25K|17K !!
+13|0|PRN 13 -27K/  3K L3 40dB -2572Hz    -4Hz  501      0    128   1
+13| VEL 19K|26K|19K !!
+13|0|PRN 13 -23K/ -4K L3 40dB -2570Hz    -4Hz  500      0    136   1
+13| VEL 16K|25K|16K !!
+13|0|PRN 13 -20K/ -8K L3 40dB -2569Hz    -5Hz  500      0    143   1
+13| VEL 17K|26K|17K !!
+13|0|PRN 13  20K/ -4K L3 40dB -2574Hz    -3Hz  501      0    139   2
+13| VEL 18K|26K|18K !!
+13|0|PRN 13  32K/ -1K L3 40dB -2573Hz    -4Hz  501      0    139   1
+13| VEL 19K|27K|19K !!
+13|0|PRN 13 -27K/  1K L3 40dB -2574Hz    -5Hz  501      0    142   1
+13| VEL 18K|27K|18K !!
+13|0|PRN 13 -25K/  1K L3 40dB -2575Hz    -3Hz  500      0    154   1
+13| VEL 18K|27K|18K !!
+13|0|PRN 13 -29K/  4K L3 40dB -2576Hz    -4Hz  501      0    138   1
+13| VEL 18K|26K|18K !!
+13|0|PRN 13 -29K/  0K L3 40dB -2576Hz    -3Hz  501      1    129   1
+13| VEL 18K|27K|18K !!
+13|0|PRN 13 -31K/ -1K L3 40dB -2576Hz    -4Hz  500      0    119   1
+13| VEL 17K|26K|17K !!
+13|0|PRN 13 -38K/ -2K L3 40dB -2576Hz    -3Hz  500      1    130   1
+13| VEL 19K|27K|19K !!
+13|0|PRN 13 -35K/  5K L3 40dB -2579Hz    -4Hz  500      0    170   1
+13| VEL 20K|28K|20K !!
+13|0|PRN 13 -29K/  7K L3 40dB -2580Hz    -4Hz  500      0    141   1
+13| VEL 18K|27K|18K !!
+13|0|PRN 13 -29K/  4K L3 40dB -2580Hz    -6Hz  501      0    122   1
+13| VEL 18K|27K|18K !!
+13|0|PRN 13 -30K/ -1K L3 40dB -2579Hz    -3Hz  500      0    140   1
+13| VEL 19K|27K|19K !!
+13|0|PRN 13 -40K/  2K L3 40dB -2581Hz    -4Hz  501      0    135   1
+13| VEL 19K|27K|19K !!
+13|0|PRN 13 -26K/-11K L3 40dB -2577Hz    -4Hz  500      1    139   1
+13| VEL 19K|28K|19K !!
+13|0|PRN 13 -30K/  0K L3 40dB -2582Hz    -4Hz  501      0    142   1
+13| VEL 18K|27K|18K !!
+13|0|PRN 13 -25K/  0K L3 40dB -2583Hz    -3Hz  500      1    154   1
+13| VEL 17K|25K|17K !!
+13|0|PRN 13 -22K/  2K L3 40dB -2584Hz    -4Hz  501      1    129   2
+13| VEL 17K|25K|17K !!
+13|0|PRN 13 -24K/  4K L3 40dB -2585Hz    -4Hz  500      0    142   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -33K/  2K L3 39dB -2584Hz    -4Hz  500      0    134   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -24K/  5K L3 39dB -2586Hz    -4Hz  500      0    141   1
+13| VEL 17K|25K|17K !!
+13|0|PRN 13 -24K/ -2K L3 39dB -2584Hz    -4Hz  501      0    125   1
+13| VEL 16K|25K|16K !!
+13|0|PRN 13  34K/ 14K L3 39dB -2582Hz    -3Hz  500      0    165   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -24K/ -4K L3 39dB -2585Hz    -3Hz  501      1    122   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -28K/  2K L3 39dB -2588Hz    -5Hz  501      1    120   1
+13| VEL 17K|25K|17K !!
+13|0|PRN 13 -17K/  3K L3 39dB -2589Hz    -5Hz  500      0    130   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -24K/  8K L3 38dB -2591Hz    -4Hz  500      0    146   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  16K/ -7K L3 38dB -2592Hz    -4Hz  501      1    121   1
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -28K/ -1K L3 38dB -2590Hz    -5Hz  500      0    141   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13  23K/-17K L3 38dB -2595Hz    -4Hz  501      0    134   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -22K/ -4K L3 38dB -2589Hz    -3Hz  501      0    136   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  20K/ -1K L3 38dB -2591Hz    -4Hz  501      0    138   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -11K/  1K L3 38dB -2593Hz    -3Hz  501      0    141   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -20K/ -1K L3 38dB -2592Hz    -2Hz  501      0    138   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  14K/  1K L3 38dB -2592Hz    -4Hz  501      0    137   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13 -26K/ -6K L3 38dB -2592Hz    -4Hz  501      0    119   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13 -22K/  2K L3 37dB -2595Hz    -4Hz  500      0    135   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -22K/  4K L3 37dB -2597Hz    -4Hz  501      0    142   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  20K/ 12K L3 37dB -2590Hz    -4Hz  500      0    138   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13   9K/  0K L3 37dB -2595Hz    -3Hz  501      0    123   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -12K/ -1K L3 37dB -2596Hz    -6Hz  500      0    130   1
+13| VEL 12K|19K|12K !!
+13|0|PRN 13  11K/  7K L3 37dB -2592Hz    -2Hz  500      0    199   1
+13| VEL 12K|19K|12K !!
+13|0|PRN 13   9K/ -1K L3 37dB -2598Hz    -6Hz  500      1    137   1
+13| VEL 12K|19K|12K !!
+13|0|PRN 13  19K/  1K L3 37dB -2598Hz    -4Hz  500      0    141   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -21K/ -4K L3 37dB -2598Hz    -4Hz  500      0    123   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13 -19K/  4K L3 37dB -2602Hz    -2Hz  501      0    124   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  16K/ -8K L3 37dB -2604Hz    -4Hz  500      1    137   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -15K/-11K L3 38dB -2596Hz    -2Hz  500      0    140   1
+13| VEL 12K|19K|12K !!
+13|0|PRN 13 -22K/  3K L3 38dB -2603Hz    -5Hz  500      1    126   1
+13| VEL 15K|21K|15K !!
+13|0|PRN 13  14K/  0K L3 38dB -2602Hz    -3Hz  501      0    134   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -24K/  4K L3 38dB -2605Hz    -4Hz  500      0    134   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -22K/ -7K L3 38dB -2601Hz    -4Hz  500      0    138   1
+13| VEL 15K|21K|15K !!
+13|0|PRN 13 -36K/ -3K L3 38dB -2603Hz    -4Hz  500      0    273   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  26K/ 15K L3 38dB -2600Hz    -2Hz  501      0    150   1
+13| VEL 15K|21K|15K !!
+13|0|PRN 13  20K/ -6K L3 38dB -2608Hz    -4Hz  501      0    139   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  22K/  9K L3 38dB -2602Hz    -4Hz  501      1    141   1
+13| VEL 14K|22K|14K !!
+13|0|PRN 13  19K/ -4K L3 38dB -2608Hz    -4Hz  501      0    135   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -24K/  2K L3 38dB -2607Hz    -3Hz  500      0    136   1
+13| VEL 15K|21K|15K !!
+13|0|PRN 13 -24K/-12K L3 38dB -2604Hz    -4Hz  501      0    123   1
+13| VEL 15K|21K|15K !!
+13|0|PRN 13 -29K/ -7K L3 38dB -2606Hz    -3Hz  500      1    137   1
+13| VEL 15K|21K|15K !!
+13|0|PRN 13  19K/  2K L3 38dB -2608Hz    -3Hz  501      0    143   1
+13| VEL 14K|22K|14K !!
+13|0|PRN 13  22K/ 11K L3 38dB -2606Hz    -5Hz  500      0    137   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -20K/ -4K L3 38dB -2608Hz    -3Hz  501      0    150   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -24K/  6K L3 38dB -2613Hz    -4Hz  501      1    136   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  12K/  3K L3 38dB -2609Hz    -2Hz  501      0    133   1
+13| VEL 17K|23K|17K !!
+13|0|PRN 13 -17K/ -1K L3 38dB -2612Hz    -5Hz  500      0    135   1
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -21K/  0K L3 38dB -2613Hz    -4Hz  501      0    135   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  19K/  5K L3 38dB -2610Hz    -6Hz  500      1    135   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  25K/ -3K L3 38dB -2614Hz    -3Hz  501      0    126   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  23K/-13K L3 38dB -2618Hz    -4Hz  500      0    135   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  23K/-11K L3 38dB -2618Hz    -4Hz  501      0    137   1
+13| VEL 17K|24K|17K !!
+13|0|PRN 13  28K/ -3K L3 38dB -2616Hz    -3Hz  501      0    128   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  29K/  2K L3 38dB -2615Hz    -4Hz  501      0    123   1
+13| VEL 16K|25K|16K !!
+13|0|PRN 13  24K/ -3K L3 39dB -2617Hz    -3Hz  500      0    133   1
+13| VEL 17K|25K|17K !!
+13|0|PRN 13  27K/  4K L3 39dB -2616Hz    -3Hz  500      1    136   1
+13| VEL 18K|27K|18K !!
+13|0|PRN 13  29K/ -3K L3 39dB -2618Hz    -4Hz  500      0    140   1
+13| VEL 18K|26K|18K !!
+13|0|PRN 13  24K/ -6K L3 39dB -2621Hz    -4Hz  500      0    140   1
+13| VEL 18K|25K|18K !!
+13|0|PRN 13  20K/-10K L3 40dB -2623Hz    -4Hz  501      0    139   1
+13| VEL 17K|24K|17K !!
+13|0|PRN 13  27K/-13K L3 40dB -2623Hz    -4Hz  500      0    139   1
+13| VEL 18K|27K|18K !!
+13|0|PRN 13  36K/  5K L3 39dB -2619Hz    -3Hz  501      1    137   1
+13| VEL 18K|26K|18K !!
+13|0|PRN 13 -25K/ -2K L3 40dB -2620Hz    -4Hz  500      0    140   1
+13| VEL 17K|27K|17K !!
+13|0|PRN 13  28K/  1K L3 40dB -2621Hz    -4Hz  501      0    123   1
+13| VEL 18K|26K|18K !!
+13|0|PRN 13  19K/  2K L3 40dB -2621Hz    -5Hz  500      0    156   1
+13| VEL 19K|27K|19K !!
+13|0|PRN 13  28K/  1K L3 40dB -2622Hz    -4Hz  500      0    168   1
+13| VEL 19K|27K|19K !!
+13|0|PRN 13  31K/  4K L3 40dB -2622Hz    -4Hz  500      0    139   1
+13| VEL 19K|28K|19K !!
+13|0|PRN 13  26K/ -6K L3 40dB -2626Hz    -4Hz  501      0    130   1
+13| VEL 18K|27K|18K !!
+13|0|PRN 13  22K/ -6K L3 40dB -2626Hz    -5Hz  500      1    139   1
+13| VEL 19K|27K|19K !!
+13|0|PRN 13  23K/  9K L3 40dB -2622Hz    -3Hz  500      0    161   2
+13| VEL 18K|26K|18K !!
+13|0|PRN 13  37K/ -7K L3 40dB -2627Hz    -3Hz  501      0    136   1
+13| VEL 18K|26K|18K !!
+13|0|PRN 13 -31K/ -2K L3 40dB -2626Hz    -3Hz  501      0    138   1
+13| VEL 18K|26K|18K !!
+13|0|PRN 13  33K/ -4K L3 40dB -2628Hz    -4Hz  500      0    135   1
+13| VEL 18K|27K|18K !!
+13|0|PRN 13 -30K/ -6K L3 40dB -2626Hz    -4Hz  501      1    136   1
+13| VEL 18K|27K|18K !!
+13|0|PRN 13  26K/  4K L3 39dB -2626Hz    -3Hz  501      0    135   1
+13| VEL 17K|25K|17K !!
+13|0|PRN 13  27K/  0K L3 39dB -2628Hz    -5Hz  501      1    133   1
+13| VEL 16K|25K|16K !!
+13|0|PRN 13  20K/  0K L3 39dB -2629Hz    -4Hz  500      1    149   2
+13| VEL 18K|26K|18K !!
+13|0|PRN 13 -30K/ -9K L3 39dB -2627Hz    -4Hz  501      1    140   1
+13| VEL 18K|26K|18K !!
+13|0|PRN 13  26K/ 10K L3 39dB -2627Hz    -4Hz  501      0    138   1
+13| VEL 17K|24K|17K !!
+13|0|PRN 13  26K/  5K L3 39dB -2629Hz    -4Hz  501      0    137   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  18K/-14K L3 39dB -2637Hz    -4Hz  501      0    141   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -28K/  2K L3 38dB -2633Hz    -3Hz  501      0    182   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -25K/  8K L3 38dB -2635Hz    -5Hz  501      0    135   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  17K/ -5K L3 38dB -2636Hz    -4Hz  501      0    143   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  19K/ -6K L3 38dB -2636Hz    -4Hz  500      1    135   1
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -26K/  8K L3 38dB -2637Hz    -4Hz  500      1    178   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -24K/  5K L3 38dB -2637Hz    -5Hz  501      0    143   1
+13| VEL 15K|21K|15K !!
+13|0|PRN 13  10K/ -1K L3 38dB -2636Hz    -4Hz  500      0    140   1
+13| VEL 15K|20K|15K !!
+13|0|PRN 13  22K/-10K L3 38dB -2639Hz    -3Hz  501      0    122   1
+13| VEL 13K|21K|13K !!
+13|0|PRN 13  19K/  2K L3 38dB -2636Hz    -5Hz  500      1    139   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  24K/-10K L3 38dB -2641Hz    -4Hz  500      1    138   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  28K/ -4K L3 38dB -2639Hz    -4Hz  500      0    139   2
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  15K/ -4K L3 38dB -2641Hz    -4Hz  501      0    140   2
+13| VEL 13K|20K|13K !!
+13|0|PRN 13 -20K/ -5K L3 38dB -2638Hz    -5Hz  501      1    154   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  13K/  0K L3 37dB -2640Hz    -6Hz  501      0    140   1
+13| VEL 12K|19K|12K !!
+13|0|PRN 13  25K/  1K L3 38dB -2640Hz    -4Hz  500      0    141   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -24K/  1K L3 38dB -2641Hz    -5Hz  501      0    142   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  15K/  4K L3 38dB -2639Hz    -2Hz  500      0    138   2
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -22K/ -2K L3 38dB -2641Hz    -4Hz  501      1    143   1
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -23K/  5K L3 38dB -2645Hz    -5Hz  500      0    140   1
+13| VEL 15K|23K|15K !!
+13|0|PRN 13  25K/  4K L3 38dB -2643Hz    -4Hz  501      1    141   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  28K/  2K L3 38dB -2643Hz    -4Hz  500      0    150   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  27K/ -7K L3 38dB -2646Hz    -5Hz  501      1    133   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -26K/  9K L3 39dB -2648Hz    -4Hz  501      0    136   2
+13| VEL 17K|24K|17K !!
+13|0|PRN 13 -20K/ -4K L3 39dB -2645Hz    -4Hz  501      0    162   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -22K/  1K L3 38dB -2647Hz    -5Hz  501      0    138   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  24K/  2K L3 39dB -2646Hz    -4Hz  500      0    140   2
+13| VEL 17K|24K|17K !!
+13|0|PRN 13  24K/ -5K L3 38dB -2649Hz    -5Hz  501      1    142   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -33K/  1K L3 39dB -2649Hz    -5Hz  501      1    131   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -30K/  0K L3 39dB -2649Hz    -4Hz  501      0    125   1
+13| VEL 17K|25K|17K !!
+13|0|PRN 13  27K/-11K L3 39dB -2653Hz    -3Hz  500      0    135   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  29K/  2K L3 38dB -2649Hz    -4Hz  501      0    121   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -22K/  1K L3 38dB -2651Hz    -5Hz  500      0    139   1
+13| VEL 17K|24K|17K !!
+13|0|PRN 13 -19K/  7K L3 39dB -2655Hz    -4Hz  501      0    134   1
+13| VEL 16K|25K|16K !!
+13|0|PRN 13 -20K/  2K L3 39dB -2653Hz    -4Hz  500      1    144   1
+13| VEL 17K|24K|17K !!
+13|0|PRN 13  29K/  0K L3 39dB -2652Hz    -4Hz  500      0    138   2
+13| VEL 17K|25K|17K !!
+13|0|PRN 13  20K/  1K L3 39dB -2652Hz    -4Hz  501      0    136   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -32K/ -1K L3 39dB -2653Hz    -4Hz  501      1    138   2
+13| VEL 17K|25K|17K !!
+13|0|PRN 13  29K/ 10K L3 39dB -2651Hz    -4Hz  500      0    139   2
+13| VEL 17K|24K|17K !!
+13|0|PRN 13  24K/ -8K L3 39dB -2657Hz    -4Hz  500      0    136   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  28K/ -6K L3 39dB -2657Hz    -5Hz  501      1    137   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13  25K/  8K L3 38dB -2653Hz    -4Hz  501      1    141   1
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  21K/  4K L3 39dB -2654Hz    -4Hz  500      0    140   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -29K/  0K L3 39dB -2657Hz    -4Hz  501      0    132   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  23K/  4K L3 39dB -2656Hz    -3Hz  500      0    136   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13  27K/ -6K L3 38dB -2659Hz    -5Hz  501      1    131   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -29K/ -9K L3 38dB -2656Hz    -6Hz  500      1    135   2
+13| VEL 16K|25K|16K !!
+13|0|PRN 13 -29K/ -5K L3 38dB -2658Hz    -4Hz  501      0    142   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -25K/ -5K L3 38dB -2658Hz    -5Hz  501      0    134   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13  23K/  2K L3 38dB -2659Hz    -6Hz  501      1    135   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  23K/  5K L3 38dB -2658Hz    -4Hz  500      0    135   2
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  15K/  2K L3 38dB -2660Hz    -2Hz  501      1    139   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  27K/ -2K L3 38dB -2663Hz    -4Hz  500      0    138   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  27K/  6K L3 38dB -2660Hz    -5Hz  501      1    119   1
+13| VEL 15K|23K|15K !!
+13|0|PRN 13  28K/  2K L3 38dB -2662Hz    -3Hz  500      0    136   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  18K/ -2K L3 38dB -2664Hz    -5Hz  501      0    141   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -20K/  3K L3 38dB -2666Hz    -2Hz  500      0    138   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -18K/ -1K L3 38dB -2665Hz    -3Hz  501      1    150   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  22K/  4K L3 38dB -2664Hz    -3Hz  501      1    139   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  24K/ -6K L3 38dB -2668Hz    -3Hz  500      1    135   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  26K/  2K L3 38dB -2666Hz    -4Hz  501      0    137   2
+13| VEL 16K|22K|16K !!
+13|0|PRN 13 -16K/ -3K L3 38dB -2665Hz    -5Hz  501      0    123   1
+13| VEL 15K|23K|15K !!
+13|0|PRN 13  21K/ -6K L3 38dB -2670Hz    -5Hz  500      1    120   2
+13| VEL 13K|21K|13K !!
+13|0|PRN 13  14K/ -6K L3 38dB -2672Hz    -6Hz  501      0    122   2
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  29K/ -3K L3 38dB -2670Hz    -4Hz  500      0    446   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -27K/ -9K L3 38dB -2667Hz    -3Hz  500      1    200   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  27K/  9K L3 38dB -2668Hz    -3Hz  501      0    165   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -20K/ -1K L3 38dB -2671Hz    -4Hz  500      1    142   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -20K/  3K L3 38dB -2673Hz    -4Hz  500      1    136   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13  30K/  2K L3 38dB -2672Hz    -4Hz  501      1    152   1
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  17K/-12K L3 39dB -2677Hz    -3Hz  501      1    142   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -27K/ -5K L3 39dB -2672Hz    -4Hz  500      1    134   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13  27K/  1K L3 38dB -2673Hz    -4Hz  500      0    141   2
+13| VEL 15K|24K|15K !!
+13|0|PRN 13 -27K/ -4K L3 39dB -2673Hz    -4Hz  501      0    141   2
+13| VEL 17K|24K|17K !!
+13|0|PRN 13 -27K/  2K L3 38dB -2676Hz    -3Hz  501      0    119   1
+13| VEL 17K|25K|17K !!
+13|0|PRN 13  19K/ -1K L3 38dB -2675Hz    -3Hz  500      0    137   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  26K/  2K L3 39dB -2675Hz    -3Hz  501      0    131   1
+13| VEL 17K|24K|17K !!
+13|0|PRN 13  25K/ -3K L3 39dB -2677Hz    -4Hz  500      0    142   2
+13| VEL 17K|25K|17K !!
+13|0|PRN 13  16K/  2K L3 39dB -2676Hz    -4Hz  501      1    126   1
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -23K/ -3K L3 39dB -2677Hz    -4Hz  500      1    134   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -17K/  5K L3 38dB -2681Hz    -4Hz  500      0    142   2
+13| VEL 17K|23K|17K !!
+13|0|PRN 13  23K/  5K L3 38dB -2676Hz    -4Hz  501      0    134   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -34K/ -6K L3 38dB -2678Hz    -3Hz  501      0    135   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  19K/ -1K L3 39dB -2680Hz    -4Hz  501      0    140   2
+13| VEL 17K|26K|17K !!
+13|0|PRN 13  17K/  3K L3 39dB -2679Hz    -5Hz  500      0    138   2
+13| VEL 17K|25K|17K !!
+13|0|PRN 13  19K/ -5K L3 39dB -2683Hz    -3Hz  500      0    150   2
+13| VEL 17K|25K|17K !!
+13|0|PRN 13  29K/  1K L3 39dB -2682Hz    -4Hz  501      0    285   2
+13| VEL 17K|24K|17K !!
+13|0|PRN 13  24K/  4K L3 39dB -2681Hz    -5Hz  500      0    140   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  25K/  0K L3 39dB -2683Hz    -4Hz  501      0    128   1
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  24K/  2K L3 39dB -2683Hz    -5Hz  500      1    140   3
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -29K/ -6K L3 39dB -2682Hz    -4Hz  501      1    141   1
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -26K/  1K L3 39dB -2684Hz    -3Hz  500      0    125   1
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -16K/  5K L3 39dB -2688Hz    -3Hz  500      0    141   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  19K/  5K L3 38dB -2683Hz    -4Hz  500      0    135   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  16K/  3K L3 38dB -2684Hz    -5Hz  500      1    121   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -20K/  4K L3 38dB -2688Hz    -4Hz  501      1    138   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  24K/ -2K L3 38dB -2687Hz    -6Hz  500      1    135   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13 -22K/  4K L3 38dB -2689Hz    -3Hz  500      0    141   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13  24K/ -5K L3 38dB -2690Hz    -4Hz  501      0    135   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -31K/ -3K L3 38dB -2688Hz    -4Hz  501      0    129   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -24K/ -5K L3 39dB -2687Hz    -4Hz  500      0    139   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -26K/  4K L3 39dB -2691Hz    -5Hz  500      0    137   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -20K/  1K L3 39dB -2691Hz    -4Hz  500      0    156   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  26K/ -8K L3 38dB -2694Hz    -5Hz  501      0    140   1
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -16K/  1K L3 38dB -2693Hz    -4Hz  501      1    149   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  22K/ -7K L3 38dB -2694Hz    -3Hz  501      0    135   1
+13| VEL 15K|21K|15K !!
+13|0|PRN 13  21K/ -2K L3 38dB -2693Hz    -5Hz  500      0    134   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -27K/  8K L3 38dB -2696Hz    -4Hz  501      0    129   1
+13| VEL 16K|23K|16K !!
+13|0|PRN 13  24K/  0K L3 38dB -2694Hz    -3Hz  500      1    135   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -19K/  6K L3 38dB -2698Hz    -3Hz  501      0    118   1
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -32K/ -7K L3 38dB -2694Hz    -4Hz  500      0    158   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  28K/-12K L3 38dB -2699Hz    -4Hz  501      0    139   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  27K/ -3K L3 38dB -2698Hz    -3Hz  500      0    137   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13  13K/-10K L3 38dB -2702Hz    -3Hz  501      1    138   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13 -19K/ -6K L3 38dB -2695Hz    -4Hz  501      0    164   2
+13| VEL 12K|19K|12K !!
+13|0|PRN 13 -19K/ -1K L3 38dB -2698Hz    -4Hz  501      1    135   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  21K/ -3K L3 38dB -2700Hz    -3Hz  500      0    141   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  23K/ -2K L3 38dB -2700Hz    -6Hz  501      0    120   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -20K/ -1K L3 38dB -2699Hz    -4Hz  500      0    135   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -19K/ 10K L3 38dB -2705Hz    -4Hz  501      1    135   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  25K/  5K L3 38dB -2699Hz    -4Hz  500      0    151   2
+13| VEL 15K|21K|15K !!
+13|0|PRN 13 -28K/ -9K L3 37dB -2699Hz    -4Hz  501      0    123   2
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -23K/ -1K L3 37dB -2702Hz    -4Hz  500      1    136   1
+13| VEL 14K|19K|14K !!
+13|0|PRN 13  22K/ -6K L3 37dB -2705Hz    -3Hz  501      0    141   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13 -20K/  4K L3 37dB -2705Hz    -4Hz  500      0    135   2
+13| VEL 11K|19K|11K !!
+13|0|PRN 13  19K/  8K L3 37dB -2700Hz    -4Hz  501      1    139   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -19K/ -2K L3 37dB -2703Hz    -5Hz  500      0    143   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  18K/ -7K L3 37dB -2708Hz    -5Hz  501      1    162   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  21K/  0K L3 38dB -2705Hz    -3Hz  500      0    139   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -25K/ -3K L3 37dB -2705Hz    -3Hz  501      1    140   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -17K/ -5K L3 37dB -2704Hz    -4Hz  501      1    134   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  21K/ -3K L3 37dB -2708Hz    -5Hz  501      0    142   2
+13| VEL 13K|20K|13K !!
+13|0|PRN 13 -21K/  6K L3 37dB -2710Hz    -4Hz  501      1    140   2
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  25K/  2K L3 38dB -2707Hz    -3Hz  500      1    138   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  32K/ -4K L3 38dB -2709Hz    -4Hz  500      1    139   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  19K/ -9K L3 38dB -2712Hz    -4Hz  501      0    139   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -20K/  3K L3 38dB -2711Hz    -3Hz  500      1    122   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  12K/ -3K L3 38dB -2712Hz    -2Hz  500      0    133   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  14K/ -3K L3 38dB -2712Hz    -5Hz  500      0    143   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -23K/  3K L3 38dB -2713Hz    -5Hz  500      1    142   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  19K/  7K L3 38dB -2709Hz    -4Hz  501      0    139   1
+13| VEL 16K|22K|16K !!
+13|0|PRN 13 -37K/  0K L3 38dB -2713Hz    -4Hz  500      0    141   2
+13| VEL 16K|24K|16K !!
+13|0|PRN 13  29K/  6K L3 38dB -2711Hz    -4Hz  501      1    137   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13   8K/  7K L3 38dB -2708Hz    -4Hz  500      0    137   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  21K/ 11K L3 38dB -2710Hz    -5Hz  501      1    138   2
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -26K/  1K L3 38dB -2716Hz    -4Hz  501      0    141   2
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -17K/ -6K L3 38dB -2713Hz    -4Hz  500      0    152   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  21K/ -9K L3 38dB -2719Hz    -4Hz  501      0    140   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -24K/  5K L3 39dB -2718Hz    -4Hz  501      0    142   2
+13| VEL 16K|22K|16K !!
+13|0|PRN 13  24K/  8K L3 38dB -2714Hz    -3Hz  501      0    119   1
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -21K/  8K L3 38dB -2721Hz    -4Hz  500      0    124   1
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -24K/  0K L3 38dB -2718Hz    -4Hz  500      0    134   1
+13| VEL 16K|23K|16K !!
+13|0|PRN 13 -26K/ -2K L3 38dB -2718Hz    -5Hz  500      0    168   1
+13| VEL 15K|23K|15K !!
+13|0|PRN 13 -22K/  3K L3 38dB -2721Hz    -4Hz  500      0    136   2
+13| VEL 15K|21K|15K !!
+13|0|PRN 13 -20K/ -3K L3 38dB -2718Hz    -3Hz  500      0    144   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  25K/ -4K L3 38dB -2722Hz    -5Hz  501      0    148   2
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -23K/  4K L3 38dB -2722Hz    -4Hz  501      0    143   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -22K/ -5K L3 38dB -2719Hz    -4Hz  501      0    142   2
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -35K/ -1K L3 38dB -2721Hz    -4Hz  501      0    146   2
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -28K/-11K L3 38dB -2720Hz    -4Hz  501      0    139   2
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -23K/ -6K L3 38dB -2721Hz    -4Hz  501      0    147   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13  12K/  7K L3 38dB -2719Hz    -4Hz  500      1    144   2
+13| VEL 15K|21K|15K !!
+13|0|PRN 13 -28K/-10K L3 38dB -2721Hz    -3Hz  501      0    119   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -14K/ 12K L3 38dB -2731Hz    -3Hz  500      0    146   2
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -25K/  4K L3 38dB -2726Hz    -4Hz  501      0    141   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  24K/  0K L3 38dB -2726Hz    -4Hz  500      1    145   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -28K/  5K L3 38dB -2728Hz    -4Hz  500      1    145   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -28K/  4K L3 37dB -2728Hz    -3Hz  501      0    156   2
+13| VEL 12K|19K|12K !!
+13|0|PRN 13  14K/-10K L3 37dB -2733Hz    -6Hz  501      0    129   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -22K/ -9K L3 37dB -2725Hz    -3Hz  500      0    131   1
+13| VEL 14K|19K|14K !!
+13|0|PRN 13  30K/ 12K L3 37dB -2725Hz    -4Hz  501      1    177   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  18K/ -9K L3 38dB -2732Hz    -5Hz  501      1    131   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -25K/  1K L3 38dB -2730Hz    -5Hz  501      0    120   1
+13| VEL 15K|22K|15K !!
+13|0|PRN 13 -29K/  3K L3 37dB -2731Hz    -5Hz  500      0    118   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13 -22K/  5K L3 37dB -2733Hz    -4Hz  500      0    138   2
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -20K/  6K L3 37dB -2734Hz    -2Hz  501      0    148   2
+13| VEL 14K|19K|14K !!
+13|0|PRN 13 -20K/ -7K L3 37dB -2729Hz    -3Hz  501      0    139   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  20K/ -5K L3 37dB -2734Hz    -5Hz  500      0    138   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  14K/ 10K L3 37dB -2727Hz    -4Hz  501      0    135   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -19K/ -4K L3 37dB -2732Hz    -4Hz  500      0    131   2
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  15K/ -8K L3 37dB -2738Hz    -4Hz  501      1    139   2
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  11K/ -6K L3 37dB -2738Hz    -3Hz  501      0    121   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -19K/ -4K L3 37dB -2732Hz    -5Hz  501      1    125   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -26K/  0K L3 37dB -2735Hz    -4Hz  500      0    144   3
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  22K/ -3K L3 37dB -2737Hz    -4Hz  501      1    126   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  22K/ -3K L3 37dB -2737Hz    -4Hz  501      1    139   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -20K/  0K L3 37dB -2737Hz    -5Hz  500      0    137   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  13K/  7K L3 37dB -2733Hz    -6Hz  501      0    160   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -21K/ -1K L3 37dB -2738Hz    -3Hz  501      1    134   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  19K/-18K L3 37dB -2745Hz    -3Hz  501      0    119   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  19K/  5K L3 37dB -2737Hz    -4Hz  501      0    142   2
+13| VEL 15K|20K|15K !!
+13|0|PRN 13 -26K/ -8K L3 37dB -2737Hz    -4Hz  500      0    142   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -24K/ -1K L3 37dB -2740Hz    -3Hz  501      0    136   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  17K/  0K L3 37dB -2740Hz    -4Hz  501      1    123   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  17K/ -4K L3 37dB -2743Hz    -5Hz  500      0    143   2
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -16K/  0K L3 37dB -2742Hz    -4Hz  501      1    131   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -25K/ -1K L3 37dB -2742Hz    -4Hz  500      0    139   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13  23K/  0K L3 37dB -2742Hz    -5Hz  500      0    155   2
+13| VEL 12K|20K|12K !!
+13|0|PRN 13 -27K/ -7K L3 37dB -2741Hz    -5Hz  500      0    146   2
+13| VEL 13K|20K|13K !!
+13|0|PRN 13 -23K/  2K L3 37dB -2744Hz    -3Hz  501      0    140   2
+13| VEL 12K|18K|12K !!
+13|0|PRN 13  27K/  8K L3 37dB -2741Hz    -4Hz  500      0    142   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -22K/ -8K L3 37dB -2742Hz    -4Hz  501      0    137   2
+13| VEL 11K|18K|11K !!
+13|0|PRN 13 -16K/  7K L3 37dB -2749Hz    -3Hz  500      0    138   2
+13| VEL 12K|19K|12K !!
+13|0|PRN 13  13K/ -5K L3 37dB -2748Hz    -3Hz  501      0    134   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  25K/ -1K L3 37dB -2747Hz    -4Hz  500      0    139   2
+13| VEL 12K|18K|12K !!
+13|0|PRN 13  24K/  0K L3 37dB -2747Hz    -3Hz  501      1    122   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  19K/ -1K L3 37dB -2747Hz    -5Hz  500      0    141   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -18K/  4K L3 37dB -2750Hz    -5Hz  501      1    132   1
+13| VEL 12K|17K|12K !!
+13|0|PRN 13 -19K/ -5K L3 37dB -2747Hz    -5Hz  500      0    135   2
+13| VEL 12K|18K|12K !!
+13|0|PRN 13  14K/ 15K L3 36dB -2743Hz    -4Hz  501      0    143   2
+13| VEL 12K|18K|12K !!
+13|0|PRN 13  12K/  0K L3 36dB -2749Hz    -4Hz  501      1    142   2
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -19K/  3K L3 36dB -2752Hz    -4Hz  501      0    145   2
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -21K/ -3K L3 36dB -2750Hz    -4Hz  501      0    135   2
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -12K/  0K L3 36dB -2751Hz    -3Hz  501      0    121   2
+13| VEL 12K|17K|12K !!
+13|0|PRN 13  22K/  1K L3 36dB -2751Hz    -4Hz  501      0    120   1
+13| VEL 12K|17K|12K !!
+13|0|PRN 13  14K/  3K L3 36dB -2750Hz    -5Hz  500      0    122   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13  24K/ -3K L3 36dB -2753Hz    -5Hz  500      0    141   2
+13| VEL 11K|17K|11K !!
+13|0|PRN 13  16K/  1K L3 35dB -2752Hz    -5Hz  501      0    122   2
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -21K/  7K L3 35dB -2756Hz    -3Hz  500      1    145   2
+13| VEL 11K|17K|11K !!
+13|0|PRN 13  18K/-13K L3 36dB -2760Hz    -4Hz  500      0    141   2
+13| VEL 11K|16K|11K !!
+13|0|PRN 13  22K/  6K L3 36dB -2753Hz    -5Hz  500      1    158   2
+13| VEL 12K|17K|12K !!
+13|0|PRN 13  12K/  4K L3 36dB -2752Hz    -5Hz  501      0    143   2
+13| VEL 12K|17K|12K !!
+13|0|PRN 13 -24K/  3K L3 36dB -2756Hz    -4Hz  501      0    137   2
+13| VEL 12K|17K|12K !!
+13|0|PRN 13 -21K/  3K L3 36dB -2757Hz    -5Hz  501      0    451   2
+13| VEL 12K|17K|12K !!
+13|0|PRN 13  24K/  7K L3 36dB -2754Hz    -4Hz  501      1    283   2
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -15K/ -9K L3 36dB -2753Hz    -2Hz  500      0    157   2
+13| VEL 11K|15K|11K !!
+13|0|PRN 13 -22K/ -5K L3 36dB -2756Hz    -4Hz  501      0    128   2
+13| VEL 14K|19K|14K !!
+13|0|PRN 13  23K/ -1K L3 36dB -2759Hz    -6Hz  500      0    127   2
+13| VEL 13K|18K|13K !!
+13|0|PRN 13 -20K/  3K L3 37dB -2760Hz    -4Hz  500      0    133   2
+13| VEL 13K|18K|13K !!
+13|0|PRN 13 -30K/ -8K L3 37dB -2757Hz    -4Hz  500      0    138   2
+13| VEL 14K|19K|14K !!
+13|0|PRN 13 -25K/ 11K L3 37dB -2764Hz    -4Hz  501      0    137   2
+13| VEL 12K|19K|12K !!
+13|0|PRN 13 -24K/ -5K L3 37dB -2758Hz    -5Hz  500      0    137   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13 -16K/  0K L3 37dB -2761Hz    -4Hz  501      0    142   2
+13| VEL 12K|19K|12K !!
+13|0|PRN 13 -34K/  1K L3 37dB -2762Hz    -4Hz  500      0    139   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  23K/ -9K L3 37dB -2764Hz    -4Hz  501      0    137   2
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  33K/ -3K L3 37dB -2764Hz    -5Hz  501      0    148   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  20K/  4K L3 37dB -2761Hz    -4Hz  500      0    137   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -15K/  1K L3 37dB -2764Hz    -3Hz  501      0    138   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  22K/  2K L3 37dB -2764Hz    -4Hz  501      0    136   2
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  18K/ -1K L3 37dB -2765Hz    -5Hz  500      1    146   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  16K/  2K L3 38dB -2763Hz    -5Hz  501      1    140   2
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -18K/ -5K L3 38dB -2764Hz    -6Hz  500      0    128   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  16K/  2K L3 38dB -2764Hz    -4Hz  501      1    136   2
+13| VEL 14K|19K|14K !!
+13|0|PRN 13  32K/ -6K L3 38dB -2768Hz    -3Hz  500      0    171   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -16K/  6K L3 37dB -2771Hz    -3Hz  500      1    141   2
+13| VEL 12K|19K|12K !!
+13|0|PRN 13 -23K/ -2K L3 38dB -2767Hz    -5Hz  501      1    135   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -18K/ -1K L3 38dB -2768Hz    -5Hz  500      0    141   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  20K/ -6K L3 38dB -2771Hz    -4Hz  500      1    135   2
+13| VEL 14K|22K|14K !!
+13|0|PRN 13  16K/ -3K L3 38dB -2771Hz    -4Hz  501      0    141   2
+13| VEL 15K|21K|15K !!
+13|0|PRN 13  20K/ -7K L3 38dB -2773Hz    -4Hz  500      0    138   2
+13| VEL 15K|21K|15K !!
+13|0|PRN 13  18K/  8K L3 38dB -2767Hz    -5Hz  500      0    139   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  26K/ -3K L3 37dB -2772Hz    -4Hz  500      1    138   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  17K/ -1K L3 37dB -2771Hz    -5Hz  500      0    142   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13 -20K/  3K L3 37dB -2773Hz    -2Hz  501      1    120   1
+13| VEL 13K|18K|13K !!
+13|0|PRN 13  21K/ -1K L3 37dB -2773Hz    -5Hz  500      0    132   1
+13| VEL 13K|18K|13K !!
+13|0|PRN 13 -23K/  5K L3 37dB -2776Hz    -5Hz  500      0    140   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -18K/ -1K L3 37dB -2773Hz    -5Hz  501      0    143   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -22K/ -5K L3 37dB -2772Hz    -3Hz  500      0    135   2
+13| VEL 13K|18K|13K !!
+13|0|PRN 13 -12K/  4K L3 37dB -2778Hz    -3Hz  501      0    129   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -19K/  2K L3 37dB -2776Hz    -4Hz  500      0    142   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -16K/  2K L3 37dB -2777Hz    -4Hz  501      0    138   2
+13| VEL 11K|18K|11K !!
+13|0|PRN 13  18K/-12K L3 36dB -2781Hz    -4Hz  501      1    140   2
+13| VEL 10K|15K|10K !!
+13|0|PRN 13 -13K/ -3K L3 36dB -2775Hz    -4Hz  501      0    137   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13  21K/ -1K L3 36dB -2777Hz    -4Hz  501      0    141   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13  15K/ -5K L3 35dB -2781Hz    -5Hz  501      0    140   2
+13| VEL 9K|15K|9K !!
+13|0|PRN 13  13K/  3K L3 35dB -2776Hz    -4Hz  501      0    134   2
+13| VEL 9K|13K|9K !!
+13|0|PRN 13 -10K/ -3K L3 35dB -2776Hz    -8Hz  501      1    120   1
+13| VEL 10K|14K|10K !!
+13|0|PRN 13  17K/ -2K L3 35dB -2780Hz    -3Hz  500      1    145   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -12K/  3K L3 35dB -2783Hz    -5Hz  501      0    168   1
+13| VEL 8K|13K|8K !!
+13|0|PRN 13  15K/ -5K L3 35dB -2782Hz    -6Hz  500      1    136   2
+13| VEL 8K|14K|8K !!
+13|0|PRN 13 -16K/  3K L3 34dB -2784Hz    -3Hz  501      0    123   1
+13| VEL 7K|12K|7K !!
+13|0|PRN 13  13K/ -3K L3 34dB -2782Hz    -4Hz  500      0    120   1
+13| VEL 9K|13K|9K !!
+13|0|PRN 13  16K/ -4K L3 34dB -2783Hz    -5Hz  500      0    138   1
+13| VEL 8K|13K|8K !!
+13|0|PRN 13  20K/  7K L3 34dB -2779Hz    -5Hz  501      0    135   2
+13| VEL 9K|14K|9K !!
+13|0|PRN 13 -27K/ -4K L3 34dB -2781Hz    -3Hz  501      1    139   2
+13| VEL 8K|13K|8K !!
+13|0|PRN 13  -9K/ -3K L3 34dB -2781Hz    -4Hz  501      0    142   2
+13| VEL 8K|13K|8K !!
+13|0|PRN 13  14K/ -6K L3 34dB -2787Hz    -5Hz  500      1    128   1
+13| VEL 10K|14K|10K !!
+13|0|PRN 13  13K/ -6K L3 34dB -2787Hz    -7Hz  501      0    135   1
+13| VEL 9K|13K|9K !!
+13|0|PRN 13  11K/  3K L3 34dB -2782Hz    -5Hz  501      0    136   1
+13| VEL 10K|15K|10K !!
+13|0|PRN 13  18K/ -1K L3 34dB -2786Hz    -3Hz  501      0    123   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13  23K/-12K L3 34dB -2790Hz    -4Hz  500      1    143   1
+13| VEL 10K|15K|10K !!
+13|0|PRN 13 -17K/  1K L3 34dB -2787Hz    -4Hz  501      0    136   2
+13| VEL 12K|17K|12K !!
+13|0|PRN 13  25K/ -4K L3 35dB -2788Hz    -5Hz  500      1    140   2
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -18K/ -2K L3 35dB -2787Hz    -5Hz  500      0    134   2
+13| VEL 10K|15K|10K !!
+13|0|PRN 13   8K/ -1K L3 35dB -2789Hz    -6Hz  501      0    137   2
+13| VEL 10K|14K|10K !!
+13|0|PRN 13 -15K/  1K L3 35dB -2789Hz    -4Hz  501      0    138   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13  18K/ -7K L3 35dB -2791Hz    -3Hz  501      0    212   1
+13| VEL 10K|15K|10K !!
+13|0|PRN 13  11K/ -7K L3 35dB -2793Hz    -5Hz  501      0    135   1
+13| VEL 12K|16K|12K !!
+13|0|PRN 13 -18K/ -3K L3 35dB -2788Hz    -4Hz  500      0    142   1
+13| VEL 10K|16K|10K !!
+13|0|PRN 13 -24K/  9K L3 36dB -2793Hz    -3Hz  501      0    129   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -22K/  7K L3 36dB -2793Hz    -3Hz  500      0    136   2
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -19K/ -3K L3 36dB -2790Hz    -5Hz  501      0    119   1
+13| VEL 13K|18K|13K !!
+13|0|PRN 13  29K/ -5K L3 37dB -2793Hz    -4Hz  500      1    135   1
+13| VEL 14K|19K|14K !!
+13|0|PRN 13  14K/  2K L3 37dB -2791Hz    -2Hz  500      0    140   2
+13| VEL 14K|19K|14K !!
+13|0|PRN 13  19K/ -6K L3 37dB -2795Hz    -5Hz  501      0    138   1
+13| VEL 12K|19K|12K !!
+13|0|PRN 13  29K/  8K L3 37dB -2791Hz    -4Hz  501      0    141   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13 -21K/  0K L3 37dB -2794Hz    -3Hz  500      0    159   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  25K/  7K L3 37dB -2792Hz    -5Hz  501      0    140   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  18K/  3K L3 37dB -2794Hz    -5Hz  501      0    134   1
+13| VEL 15K|20K|15K !!
+13|0|PRN 13  17K/ -1K L3 37dB -2796Hz    -3Hz  501      0    136   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -14K/  6K L3 37dB -2800Hz    -4Hz  501      0    150   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  14K/  7K L3 37dB -2792Hz    -4Hz  500      0    135   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  17K/ -5K L3 38dB -2799Hz    -3Hz  501      1    123   1
+13| VEL 14K|21K|14K !!
+13|0|PRN 13  21K/  0K L3 38dB -2797Hz    -4Hz  500      0    136   2
+13| VEL 13K|20K|13K !!
+13|0|PRN 13  30K/ -1K L3 38dB -2798Hz    -4Hz  501      0    118   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -22K/ -7K L3 38dB -2796Hz    -3Hz  500      1    136   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -22K/  1K L3 38dB -2800Hz    -3Hz  501      0    143   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -18K/ -5K L3 37dB -2798Hz    -5Hz  501      0    141   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13  13K/ -3K L3 37dB -2802Hz    -3Hz  501      0    122   2
+13| VEL 13K|18K|13K !!
+13|0|PRN 13 -14K/-11K L3 37dB -2795Hz    -2Hz  500      0    140   2
+13| VEL 12K|17K|12K !!
+13|0|PRN 13 -20K/  1K L3 37dB -2802Hz    -6Hz  500      0    138   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -24K/ -4K L3 37dB -2801Hz    -3Hz  500      0    153   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -23K/ -7K L3 37dB -2800Hz    -5Hz  501      0    130   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13  20K/  0K L3 36dB -2803Hz    -4Hz  500      0    142   2
+13| VEL 11K|17K|11K !!
+13|0|PRN 13 -26K/ -9K L3 36dB -2800Hz    -4Hz  501      0    123   1
+13| VEL 11K|17K|11K !!
+13|0|PRN 13 -12K/ -7K L3 36dB -2799Hz    -4Hz  500      1    138   2
+13| VEL 11K|17K|11K !!
+13|0|PRN 13  21K/ -1K L3 36dB -2804Hz    -4Hz  501      0    122   1
+13| VEL 12K|17K|12K !!
+13|0|PRN 13 -25K/  9K L3 36dB -2807Hz    -4Hz  500      0    142   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13  23K/ -3K L3 35dB -2806Hz    -4Hz  500      1    145   1
+13| VEL 11K|17K|11K !!
+13|0|PRN 13  15K/  3K L3 35dB -2803Hz    -4Hz  500      0    145   1
+13| VEL 10K|16K|10K !!
+13|0|PRN 13  19K/ 10K L3 35dB -2802Hz    -4Hz  501      1    138   1
+13| VEL 11K|15K|11K !!
+13|0|PRN 13  18K/ -1K L3 35dB -2807Hz    -4Hz  501      0    138   1
+13| VEL 10K|15K|10K !!
+13|0|PRN 13  13K/  0K L3 35dB -2808Hz    -4Hz  501      0    142   1
+13| VEL 10K|15K|10K !!
+13|0|PRN 13  20K/  3K L3 35dB -2806Hz    -5Hz  501      1    138   1
+13| VEL 10K|14K|10K !!
+13|0|PRN 13 -14K/  4K L3 34dB -2810Hz    -4Hz  501      0    177   1
+13| VEL 9K|13K|9K !!
+13|0|PRN 13 -16K/  2K L3 34dB -2810Hz    -5Hz  500      0    144   1
+13| VEL 10K|15K|10K !!
+13|0|PRN 13  21K/ -1K L3 34dB -2809Hz    -3Hz  501      1    122   2
+13| VEL 9K|13K|9K !!
+13|0|PRN 13  -8K/-10K L3 34dB -2802Hz    -4Hz  500      1    140   1
+13| VEL 10K|14K|10K !!
+13|0|PRN 13  10K/ -2K L3 34dB -2810Hz    -5Hz  500      0    145   1
+13| VEL 9K|13K|9K !!
+13|0|PRN 13  -9K/  6K L3 34dB -2816Hz    -3Hz  500      0    141   1
+13| VEL 9K|14K|9K !!
+13|0|PRN 13  17K/ -4K L3 34dB -2813Hz    -4Hz  500      0    141   1
+13| VEL 9K|15K|9K !!
+13|0|PRN 13  14K/  1K L3 34dB -2811Hz    -2Hz  501      0    137   2
+13| VEL 7K|12K|7K !!
+13|0|PRN 13 -14K/ 15K L3 34dB -2820Hz    -3Hz  501      1    143   1
+13| VEL 9K|12K|9K !!
+13|0|PRN 13 -21K/  5K L3 34dB -2815Hz    -4Hz  500      0    120   1
+13| VEL 7K|11K|7K !!
+13|0|PRN 13  15K/  1K L3 34dB -2812Hz    -4Hz  500      1    140   1
+13| VEL 8K|13K|8K !!
+13|0|PRN 13  20K/  7K L3 34dB -2811Hz    -4Hz  501      0    135   1
+13| VEL 8K|12K|8K !!
+13|0|PRN 13 -15K/  2K L3 34dB -2816Hz    -6Hz  500      0    143   1
+13| VEL 8K|12K|8K !!
+13|0|PRN 13 -18K/  4K L3 33dB -2816Hz    -6Hz  501      1    118   1
+13| VEL 8K|13K|8K !!
+13|0|PRN 13  13K/  0K L3 33dB -2814Hz    -5Hz  500      0    139   1
+13| VEL 8K|13K|8K !!
+13|0|PRN 13 -11K/-15K L3 33dB -2807Hz    -3Hz  500      0    150   1
+13| VEL 8K|13K|8K !!
+13|0|PRN 13 -17K/ -2K L3 33dB -2814Hz    -5Hz  501      1    136   2
+13| VEL 8K|12K|8K !!
+13|0|PRN 13  13K/ -9K L3 34dB -2821Hz    -5Hz  500      1    134   1
+13| VEL 7K|13K|7K !!
+13|0|PRN 13  11K/  2K L3 34dB -2815Hz    -2Hz  500      0    137   1
+13| VEL 9K|14K|9K !!
+13|0|PRN 13   8K/  1K L3 34dB -2815Hz    -2Hz  501      0    141   1
+13| VEL 9K|14K|9K !!
+13|0|PRN 13 -13K/ -7K L3 34dB -2813Hz    -3Hz  501      1    128   2
+13| VEL 8K|13K|8K !!
+13|0|PRN 13  20K/ 12K L3 34dB -2814Hz    -5Hz  501      0    120   1
+13| VEL 8K|13K|8K !!
+13|0|PRN 13  12K/ -9K L3 34dB -2824Hz    -3Hz  500      0    135   1
+13| VEL 8K|12K|8K !!
+13|0|PRN 13  10K/ -5K L3 34dB -2823Hz    -4Hz  501      1    118   1
+13| VEL 8K|13K|8K !!
+13|0|PRN 13 -15K/ -4K L3 34dB -2818Hz    -4Hz  500      0    129   1
+13| VEL 9K|13K|9K !!
+13|0|PRN 13   9K/  0K L3 34dB -2820Hz    -4Hz  500      0    122   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13  14K/ -7K L3 34dB -2824Hz    -5Hz  500      0    121   1
+13| VEL 9K|14K|9K !!
+13|0|PRN 13 -13K/ -4K L3 34dB -2819Hz    -5Hz  500      0    143   1
+13| VEL 10K|14K|10K !!
+13|0|PRN 13 -24K/  5K L3 34dB -2823Hz    -4Hz  500      0    142   1
+13| VEL 9K|15K|9K !!
+13|0|PRN 13  17K/ -6K L3 35dB -2824Hz    -4Hz  500      0    137   1
+13| VEL 10K|14K|10K !!
+13|0|PRN 13 -10K/ -7K L3 35dB -2817Hz    -6Hz  501      0    135   1
+13| VEL 9K|14K|9K !!
+13|0|PRN 13 -21K/ 16K L3 34dB -2830Hz    -4Hz  501      0    139   1
+13| VEL 12K|16K|12K !!
+13|0|PRN 13  21K/  2K L3 35dB -2823Hz    -4Hz  501      0    139   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -13K/  5K L3 35dB -2827Hz    -4Hz  501      1    121   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -12K/ -1K L3 35dB -2824Hz    -3Hz  501      1    172   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13  21K/ -7K L3 35dB -2828Hz    -5Hz  500      0    138   1
+13| VEL 12K|17K|12K !!
+13|0|PRN 13 -21K/  5K L3 35dB -2828Hz    -3Hz  501      0    131   4
+13| VEL 12K|17K|12K !!
+13|0|PRN 13 -17K/-16K L3 35dB -2820Hz    -5Hz  500      1    127   5
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -24K/  4K L3 36dB -2829Hz    -6Hz  501      0    128   9
+13| VEL 14K|19K|14K !!
+13|0|PRN 13 -24K/ -5K L3 36dB -2826Hz    -3Hz  501      0    128  16
+13| VEL 13K|18K|13K !!
+13|0|PRN 13  16K/  0K L3 36dB -2827Hz    -3Hz  502      0    149  11
+13| VEL 14K|19K|14K !!
+13|0|PRN 13  28K/ -1K L3 37dB -2828Hz    -3Hz  501      0    142   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13  22K/ -4K L3 37dB -2830Hz    -5Hz  500      0    141   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13  25K/ -1K L3 37dB -2829Hz    -3Hz  500      0    134   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  16K/  8K L3 37dB -2825Hz    -5Hz  501      1    137   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -16K/ -5K L3 37dB -2827Hz    -4Hz  501      0    142   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13 -19K/ -2K L3 37dB -2830Hz    -4Hz  501      1    121   1
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -14K/ -2K L3 37dB -2830Hz    -6Hz  500      0    130   2
+13| VEL 14K|20K|14K !!
+13|0|PRN 13 -31K/  8K L3 38dB -2834Hz    -5Hz  500      0    140   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -22K/  6K L3 38dB -2834Hz    -4Hz  501      1    142   1
+13| VEL 15K|21K|15K !!
+13|0|PRN 13 -24K/ -3K L3 38dB -2831Hz    -4Hz  501      0    141   1
+13| VEL 13K|20K|13K !!
+13|0|PRN 13 -22K/ -6K L3 37dB -2830Hz    -5Hz  501      0    140   1
+13| VEL 13K|21K|13K !!
+13|0|PRN 13  26K/  4K L3 38dB -2832Hz    -4Hz  501      0    137   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  16K/ -3K L3 37dB -2835Hz    -4Hz  501      1    134   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -16K/  9K L3 37dB -2839Hz    -4Hz  501      0    120   1
+13| VEL 13K|18K|13K !!
+13|0|PRN 13  20K/ -6K L3 37dB -2837Hz    -3Hz  500      1    138   1
+13| VEL 13K|18K|13K !!
+13|0|PRN 13  11K/ -7K L3 37dB -2840Hz    -5Hz  501      0    127   1
+13| VEL 11K|17K|11K !!
+13|0|PRN 13  17K/  3K L3 36dB -2835Hz    -5Hz  500      1    138   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -12K/ -2K L3 37dB -2836Hz    -6Hz  501      1    141   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -14K/ -3K L3 36dB -2835Hz    -3Hz  500      0    138   2
+13| VEL 11K|17K|11K !!
+13|0|PRN 13 -15K/ -6K L3 36dB -2834Hz    -5Hz  500      1    139   2
+13| VEL 11K|17K|11K !!
+13|0|PRN 13 -27K/  0K L3 36dB -2838Hz    -4Hz  501      0    138   2
+13| VEL 13K|18K|13K !!
+13|0|PRN 13  15K/ -9K L3 36dB -2843Hz    -3Hz  500      1    140   2
+13| VEL 11K|17K|11K !!
+13|0|PRN 13 -25K/  0K L3 36dB -2840Hz    -4Hz  501      0    136   2
+13| VEL 12K|17K|12K !!
+13|0|PRN 13  22K/  1K L3 36dB -2839Hz    -4Hz  501      0    156   2
+13| VEL 12K|17K|12K !!
+13|0|PRN 13 -24K/ -3K L3 36dB -2840Hz    -4Hz  501      0    140   2
+13| VEL 10K|16K|10K !!
+13|0|PRN 13 -16K/  4K L3 36dB -2843Hz    -4Hz  501      0    136   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -17K/  1K L3 36dB -2842Hz    -5Hz  500      0    140   2
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -10K/  1K L3 36dB -2843Hz    -3Hz  501      0    120   1
+13| VEL 12K|17K|12K !!
+13|0|PRN 13  21K/  7K L3 36dB -2838Hz    -3Hz  500      0    134   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -16K/  1K L3 36dB -2842Hz    -2Hz  501      0    122   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -18K/  2K L3 36dB -2844Hz    -2Hz  500      0    135   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13  11K/  3K L3 36dB -2840Hz    -4Hz  501      0    138   1
+13| VEL 9K|16K|9K !!
+13|0|PRN 13  23K/  3K L3 35dB -2842Hz    -4Hz  501      0    139   1
+13| VEL 11K|17K|11K !!
+13|0|PRN 13 -12K/  1K L3 35dB -2845Hz    -4Hz  501      0    139   1
+13| VEL 9K|14K|9K !!
+13|0|PRN 13  17K/  1K L3 35dB -2844Hz    -3Hz  501      0    139   1
+13| VEL 9K|14K|9K !!
+13|0|PRN 13   8K/ -2K L3 35dB -2846Hz    -5Hz  501      0    135   1
+13| VEL 10K|14K|10K !!
+13|0|PRN 13  15K/ -3K L3 35dB -2846Hz    -4Hz  501      1    122   1
+13| VEL 9K|14K|9K !!
+13|0|PRN 13  19K/  6K L3 34dB -2844Hz    -5Hz  500      1    138   1
+13| VEL 9K|13K|9K !!
+13|0|PRN 13   9K/ -4K L3 34dB -2850Hz    -3Hz  501      0    128   1
+13| VEL 9K|14K|9K !!
+13|0|PRN 13  16K/ -8K L3 34dB -2850Hz    -5Hz  501      0    166   1
+13| VEL 9K|14K|9K !!
+13|0|PRN 13  13K/  3K L3 34dB -2845Hz    -5Hz  500      1    168   1
+13| VEL 8K|13K|8K !!
+13|0|PRN 13  -6K/ -1K L3 34dB -2846Hz    -7Hz  501      1    133   1
+13| VEL 9K|13K|9K !!
+13|0|PRN 13 -19K/ -4K L3 34dB -2845Hz    -4Hz  500      0    144   1
+13| VEL 9K|13K|9K !!
+13|0|PRN 13  -8K/-13K L3 34dB -2840Hz    -6Hz  500      0    139   1
+13| VEL 8K|13K|8K !!
+13|0|PRN 13 -16K/ -5K L3 33dB -2847Hz    -5Hz  501      0    133   1
+13| VEL 6K|11K|6K !!
+13|0|PRN 13 -11K/ -3K L3 33dB -2848Hz    -6Hz  500      0    138   1
+13| VEL 8K|12K|8K !!
+13|0|PRN 13   6K/ -6K L3 33dB -2856Hz    -7Hz  501      0    134   1
+13| VEL 8K|11K|8K !!
+13|0|PRN 13  -6K/ -8K L3 33dB -2842Hz    -3Hz  501      1    138   1
+13| VEL 7K|12K|7K !!
+13|0|PRN 13  15K/  1K L3 33dB -2850Hz    -5Hz  501      0    142   1
+13| VEL 7K|11K|7K !!
+13|0|PRN 13   4K/-11K L3 32dB -2862Hz    -3Hz  501      0    137   1
+13| VEL 5K|10K|5K !!
+13|0|PRN 13  12K/  2K L3 32dB -2850Hz    -2Hz  501      0    137   1
+13| VEL 8K|10K|8K !!
+13|0|PRN 13 -16K/  4K L3 33dB -2854Hz    -4Hz  500      0    128   2
+13| VEL 7K|11K|7K !!
+13|0|PRN 13  11K/-11K L3 32dB -2859Hz    -3Hz  501      1    140   1
+13| VEL 7K|11K|7K !!
+13|0|PRN 13  19K/  7K L3 32dB -2851Hz    -3Hz  501      0    140   1
+13| VEL 8K|10K|8K !!
+13|0|PRN 13 -14K/  4K L3 32dB -2856Hz    -3Hz  500      0    135   1
+13| VEL 8K|12K|8K !!
+13|0|PRN 13  -8K/  3K L3 32dB -2858Hz    -4Hz  501      0    140   1
+13| VEL 8K|11K|8K !!
+13|0|PRN 13 -11K/ -3K L3 33dB -2851Hz    -5Hz  500      0    141   1
+13| VEL 7K|11K|7K !!
+13|0|PRN 13  -5K/  5K L3 32dB -2862Hz    -7Hz  501      1    134   1
+13| VEL 7K|12K|7K !!
+13|0|PRN 13 -22K/ 10K L3 32dB -2858Hz    -4Hz  501      0    127   1
+13| VEL 7K|10K|7K !!
+13|0|PRN 13  12K/ 10K L3 32dB -2850Hz    -4Hz  500      0    140   1
+13| VEL 7K|10K|7K !!
+13|0|PRN 13  -7K/  7K L3 32dB -2863Hz    -6Hz  501      1    139   1
+13| VEL 8K|11K|8K !!
+13|0|PRN 13  11K/ -9K L3 32dB -2862Hz    -4Hz  500      0    142   1
+13| VEL 8K|12K|8K !!
+13|0|PRN 13  24K/ -4K L3 33dB -2858Hz    -5Hz  500      1    142   2
+13| VEL 8K|11K|8K !!
+13|0|PRN 13 -22K/ 17K L3 33dB -2863Hz    -4Hz  500      0    135   2
+13| VEL 8K|12K|8K !!
+13|0|PRN 13  21K/  3K L3 33dB -2857Hz    -3Hz  501      0    143   1
+13| VEL 9K|14K|9K !!
+13|0|PRN 13 -10K/ -7K L3 33dB -2853Hz    -4Hz  501      0    139   2
+13| VEL 9K|13K|9K !!
+13|0|PRN 13  -3K/  3K L3 34dB -2868Hz    -7Hz  501      0    141   2
+13| VEL 8K|12K|8K !!
+13|0|PRN 13   2K/ 10K L3 34dB -2848Hz    -5Hz  501      1    161   2
+13| VEL 10K|14K|10K !!
+13|0|PRN 13  19K/  3K L3 34dB -2859Hz    -5Hz  501      0    137   1
+13| VEL 9K|14K|9K !!
+13|0|PRN 13 -19K/ -6K L3 34dB -2858Hz    -4Hz  501      0    136   1
+13| VEL 9K|13K|9K !!
+13|0|PRN 13  15K/  8K L3 34dB -2856Hz    -5Hz  501      0    125   1
+13| VEL 8K|12K|8K !!
+13|0|PRN 13   6K/ -1K L3 34dB -2862Hz    -7Hz  500      1    137   1
+13| VEL 9K|12K|9K !!
+13|0|PRN 13 -11K/ -8K L3 33dB -2856Hz    -7Hz  501      1    141   1
+13| VEL 9K|13K|9K !!
+13|0|PRN 13 -12K/ -3K L3 34dB -2861Hz    -3Hz  500      1    140   2
+13| VEL 9K|15K|9K !!
+13|0|PRN 13 -20K/  4K L3 34dB -2865Hz    -3Hz  501      1    167   1
+13| VEL 11K|15K|11K !!
+13|0|PRN 13 -16K/  4K L3 35dB -2865Hz    -4Hz  500      0    136   1
+13| VEL 10K|16K|10K !!
+13|0|PRN 13 -17K/ -8K L3 35dB -2860Hz    -4Hz  500      1    142   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -12K/ -5K L3 35dB -2860Hz    -2Hz  501      0    141   2
+13| VEL 10K|15K|10K !!
+13|0|PRN 13  19K/ -5K L3 35dB -2866Hz    -5Hz  501      1    137   1
+13| VEL 12K|17K|12K !!
+13|0|PRN 13  16K/  6K L3 35dB -2862Hz    -6Hz  500      0    139   2
+13| VEL 9K|15K|9K !!
+13|0|PRN 13  16K/-11K L3 35dB -2871Hz    -5Hz  501      0    139   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -26K/ 10K L3 35dB -2870Hz    -5Hz  501      0    136   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -16K/-11K L3 35dB -2862Hz    -4Hz  501      0    129   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -23K/  2K L3 35dB -2868Hz    -4Hz  500      0    135   1
+13| VEL 10K|16K|10K !!
+13|0|PRN 13 -15K/ -7K L3 35dB -2864Hz    -3Hz  501      0    133   1
+13| VEL 11K|17K|11K !!
+13|0|PRN 13 -27K/  5K L3 36dB -2870Hz    -4Hz  501      0    172   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13  -8K/ -4K L3 36dB -2865Hz    -4Hz  500      0    135   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -22K/  0K L3 36dB -2869Hz    -4Hz  501      0    122   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -16K/ -1K L3 35dB -2870Hz    -4Hz  500      0    142   2
+13| VEL 10K|15K|10K !!
+13|0|PRN 13  14K/  4K L3 35dB -2868Hz    -5Hz  501      0    131   2
+13| VEL 11K|17K|11K !!
+13|0|PRN 13  19K/  5K L3 35dB -2868Hz    -4Hz  501      1    139   1
+13| VEL 12K|17K|12K !!
+13|0|PRN 13  19K/  8K L3 36dB -2868Hz    -4Hz  500      0    134   2
+13| VEL 12K|18K|12K !!
+13|0|PRN 13  16K/ -3K L3 36dB -2874Hz    -3Hz  501      0    141   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -12K/ -6K L3 36dB -2868Hz    -3Hz  500      0    141   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  10K/  2K L3 36dB -2870Hz    -7Hz  500      0    140   2
+13| VEL 11K|18K|11K !!
+13|0|PRN 13 -14K/ -7K L3 37dB -2868Hz    -3Hz  501      0    128   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  14K/-10K L3 37dB -2878Hz    -4Hz  500      1    139   1
+13| VEL 11K|18K|11K !!
+13|0|PRN 13 -13K/  1K L3 37dB -2875Hz    -6Hz  500      1    142   1
+13| VEL 10K|16K|10K !!
+13|0|PRN 13 -17K/ -1K L3 37dB -2873Hz    -4Hz  500      0    135   2
+13| VEL 12K|17K|12K !!
+13|0|PRN 13  21K/ -5K L3 36dB -2876Hz    -3Hz  500      1    149   2
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -11K/  7K L3 36dB -2880Hz    -5Hz  501      0    141   2
+13| VEL 11K|17K|11K !!
+13|0|PRN 13  15K/  1K L3 36dB -2874Hz    -6Hz  501      0    135   1
+13| VEL 12K|17K|12K !!
+13|0|PRN 13  22K/ -1K L3 36dB -2876Hz    -4Hz  500      0    141   2
+13| VEL 11K|16K|11K !!
+13|0|PRN 13  -9K/ -2K L3 35dB -2874Hz    -4Hz  501      0    146   1
+13| VEL 11K|15K|11K !!
+13|0|PRN 13  13K/  1K L3 35dB -2876Hz    -7Hz  500      1    136   2
+13| VEL 12K|17K|12K !!
+13|0|PRN 13 -21K/ 11K L3 36dB -2881Hz    -5Hz  501      0    133   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13  -7K/ -2K L3 35dB -2876Hz    -7Hz  500      0    140   2
+13| VEL 10K|15K|10K !!
+13|0|PRN 13  13K/ -5K L3 35dB -2880Hz    -4Hz  501      0    142   1
+13| VEL 11K|17K|11K !!
+13|0|PRN 13  21K/  4K L3 35dB -2876Hz    -4Hz  500      1    139   1
+13| VEL 10K|15K|10K !!
+13|0|PRN 13  10K/ -6K L3 35dB -2882Hz    -4Hz  500      0    138   2
+13| VEL 9K|14K|9K !!
+13|0|PRN 13 -20K/  1K L3 34dB -2880Hz    -4Hz  501      0    137   2
+13| VEL 8K|13K|8K !!
+13|0|PRN 13  16K/  9K L3 34dB -2875Hz    -4Hz  500      0    137   2
+13| VEL 8K|11K|8K !!
+13|0|PRN 13  21K/ -4K L3 34dB -2881Hz    -4Hz  501      1    134   2
+13| VEL 9K|13K|9K !!
+13|0|PRN 13  19K/  5K L3 33dB -2878Hz    -4Hz  500      0    139   2
+13| VEL 6K|11K|6K !!
+13|0|PRN 13  14K/ -1K L3 33dB -2881Hz    -5Hz  501      0    124   1
+13| VEL 7K|11K|7K !!
+13|0|PRN 13   9K/  2K L3 33dB -2879Hz    -3Hz  500      0    122   1
+13| VEL 7K|11K|7K !!
+13|0|PRN 13  -9K/ -7K L3 33dB -2875Hz    -4Hz  500      0    161   1
+13| VEL 6K|10K|6K !!
+13|0|PRN 13 -18K/  3K L3 32dB -2883Hz    -5Hz  500      0    129   1
+13| VEL 8K|12K|8K !!
+13|0|PRN 13   7K/  0K L3 33dB -2883Hz    -6Hz  500      0    136   2
+13| VEL 7K|11K|7K !!
+13|0|PRN 13   6K/ -1K L3 32dB -2885Hz    -4Hz  501      0    142   2
+13| VEL 7K|11K|7K !!
+13|0|PRN 13 -15K/  2K L3 33dB -2885Hz    -4Hz  501      0    138   2
+13| VEL 6K|10K|6K !!
+13|0|PRN 13   7K/ -2K L3 32dB -2886Hz    -2Hz  500      0    158   2
+13| VEL 7K|9K|7K !!
+13|0|PRN 13  14K/ -4K L3 31dB -2885Hz    -4Hz  501      0    154   2
+13| VEL 6K|10K|6K !!
+13|0|PRN 13   8K/  5K L3 31dB -2880Hz    -7Hz  501      1    141   2
+13| VEL 5K|9K|5K !!
+13|0|PRN 13  -9K/ -5K L3 31dB -2882Hz    -4Hz  500      0    143   2
+13| VEL 6K|9K|6K !!
+13|0|PRN 13   3K/ -4K L3 31dB -2893Hz    -1Hz  501      0    144   1
+13| VEL 6K|9K|6K !!
+13|0|PRN 13   9K/ -2K L3 31dB -2888Hz    -3Hz  500      0    140   2
+13| VEL 6K|9K|6K !!
+13|0|PRN 13   7K/  2K L3 31dB -2884Hz    -6Hz  501      0    144   1
+13| VEL 7K|10K|7K !!
+13|0|PRN 13  22K/  0K L3 31dB -2887Hz    -3Hz  500      0    136   2
+13| VEL 7K|11K|7K !!
+13|0|PRN 13  16K/ -1K L3 31dB -2887Hz    -5Hz  501      0    134   2
+13| VEL 7K|11K|7K !!
+13|0|PRN 13   8K/  3K L3 32dB -2884Hz    -3Hz  501      0    136   2
+13| VEL 7K|11K|7K !!
+13|0|PRN 13  13K/ 13K L3 32dB -2882Hz    -6Hz  501      0    139   2
+13| VEL 7K|11K|7K !!
+13|0|PRN 13  10K/ -4K L3 32dB -2892Hz    -3Hz  501      0    135   2
+13| VEL 8K|12K|8K !!
+13|0|PRN 13  17K/ -8K L3 33dB -2893Hz    -5Hz  501      0    132   1
+13| VEL 9K|13K|9K !!
+13|0|PRN 13   8K/  7K L3 33dB -2883Hz    -4Hz  500      0    132   2
+13| VEL 9K|12K|9K !!
+13|0|PRN 13  10K/  6K L3 34dB -2886Hz    -4Hz  501      1    118   2
+13| VEL 9K|13K|9K !!
+13|0|PRN 13  13K/  2K L3 34dB -2888Hz    -4Hz  500      0    136   2
+13| VEL 9K|14K|9K !!
+13|0|PRN 13   8K/ -5K L3 34dB -2895Hz    -6Hz  500      1    458   2
+13| VEL 10K|15K|10K !!
+13|0|PRN 13  13K/  3K L3 34dB -2889Hz    -3Hz  501      0    209   2
+13| VEL 10K|13K|10K !!
+13|0|PRN 13  26K/ -4K L3 34dB -2893Hz    -3Hz  500      1    141   2
+13| VEL 11K|16K|11K !!
+13|0|PRN 13  19K/-10K L3 34dB -2897Hz    -4Hz  501      1    139   2
+13| VEL 9K|15K|9K !!
+13|0|PRN 13  23K/ -7K L3 34dB -2895Hz    -4Hz  500      0    137   2
+13| VEL 8K|13K|8K !!
+13|0|PRN 13  16K/ -6K L3 34dB -2897Hz    -5Hz  501      0    119   2
+13| VEL 9K|14K|9K !!
+13|0|PRN 13  12K/  0K L3 34dB -2894Hz    -6Hz  500      0    137   2
+13| VEL 10K|15K|10K !!
+13|0|PRN 13  21K/  2K L3 35dB -2893Hz    -5Hz  501      1    124   1
+13| VEL 9K|15K|9K !!
+13|0|PRN 13  12K/ -3K L3 35dB -2896Hz    -7Hz  500      1    137   2
+13| VEL 11K|16K|11K !!
+13|0|PRN 13  20K/ -6K L3 35dB -2897Hz    -4Hz  501      0    143   1
+13| VEL 10K|14K|10K !!
+13|0|PRN 13  12K/ -1K L3 35dB -2896Hz    -2Hz  500      0    141   2
+13| VEL 11K|17K|11K !!
+13|0|PRN 13  13K/ -1K L3 35dB -2896Hz    -5Hz  501      0    147   1
+13| VEL 12K|16K|12K !!
+13|0|PRN 13  21K/ -4K L3 35dB -2898Hz    -4Hz  501      1    138   2
+13| VEL 10K|16K|10K !!
+13|0|PRN 13  15K/  2K L3 35dB -2896Hz    -4Hz  500      0    141   2
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -16K/ -1K L3 35dB -2897Hz    -4Hz  501      1    139   2
+13| VEL 12K|17K|12K !!
+13|0|PRN 13 -24K/  6K L3 35dB -2899Hz    -5Hz  501      0    137   2
+13| VEL 11K|17K|11K !!
+13|0|PRN 13  23K/ -4K L3 36dB -2899Hz    -4Hz  501      1    152   2
+13| VEL 12K|17K|12K !!
+13|0|PRN 13 -18K/ -3K L3 36dB -2898Hz    -5Hz  501      0    144   1
+13| VEL 12K|16K|12K !!
+13|0|PRN 13 -14K/ -1K L3 37dB -2899Hz    -4Hz  500      0    145   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13  23K/ -6K L3 36dB -2902Hz    -4Hz  500      0    131   2
+13| VEL 11K|17K|11K !!
+13|0|PRN 13  20K/  1K L3 37dB -2899Hz    -5Hz  500      0    136   3
+13| VEL 12K|17K|12K !!
+13|0|PRN 13  15K/ -6K L3 37dB -2903Hz    -4Hz  501      0    142   1
+13| VEL 12K|17K|12K !!
+13|0|PRN 13 -15K/ -2K L3 36dB -2900Hz    -5Hz  501      0    135   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  17K/  6K L3 37dB -2897Hz    -4Hz  501      0    172   2
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -10K/ -3K L3 37dB -2900Hz    -6Hz  501      0    140   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13  23K/ -3K L3 37dB -2903Hz    -3Hz  501      0    135   1
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -25K/ -1K L3 37dB -2902Hz    -3Hz  501      0    133   2
+13| VEL 12K|18K|12K !!
+13|0|PRN 13 -17K/ -1K L3 37dB -2902Hz    -3Hz  501      0    121   1
+13| VEL 13K|18K|13K !!
+13|0|PRN 13  21K/  6K L3 37dB -2901Hz    -4Hz  500      0    136   2
+13| VEL 12K|18K|12K !!
+13|0|PRN 13  20K/  3K L3 37dB -2903Hz    -4Hz  501      0    134   2
+13| VEL 13K|19K|13K !!
+13|0|PRN 13 -21K/  7K L3 37dB -2908Hz    -5Hz  501      0    135   1
+13| VEL 13K|19K|13K !!
+13|0|PRN 13  17K/  2K L3 36dB -2903Hz    -5Hz  500      0    139   2
+13| VEL 11K|17K|11K !!
+13|0|PRN 13 -12K/-10K L3 36dB -2900Hz    -6Hz  501      1    118   2
+13| VEL 11K|17K|11K !!
+13|0|PRN 13 -30K/  3K L3 36dB -2906Hz    -3Hz  500      0    134   2
+13| VEL 13K|18K|13K !!
+13|0|PRN 13  -8K/  6K L3 36dB -2913Hz    -3Hz  500      0    139   2
+13| VEL 11K|17K|11K !!
+13|0|PRN 13  10K/  2K L3 37dB -2905Hz    -3Hz  501      0    127   1
+13| VEL 11K|17K|11K !!
+13|0|PRN 13  14K/ 10K L3 36dB -2901Hz    -4Hz  500      0    125   1
+13| VEL 11K|17K|11K !!
+13|0|PRN 13 -16K/ -6K L3 36dB -2904Hz    -3Hz  500      0    138   2
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -21K/  5K L3 36dB -2910Hz    -4Hz  501      0    117   1
+13| VEL 12K|16K|12K !!
+13|0|PRN 13 -23K/ -1K L3 36dB -2909Hz    -4Hz  500      0    137   2
+13| VEL 12K|17K|12K !!
+13|0|PRN 13 -15K/-14K L3 36dB -2903Hz    -3Hz  501      0    133   2
+13| VEL 11K|18K|11K !!
+13|0|PRN 13 -13K/ -6K L3 36dB -2906Hz    -6Hz  500      0    136   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -17K/ -1K L3 36dB -2910Hz    -4Hz  500      0    139   1
+13| VEL 13K|18K|13K !!
+13|0|PRN 13 -12K/  7K L3 36dB -2915Hz    -5Hz  500      0    134   2
+13| VEL 11K|16K|11K !!
+13|0|PRN 13  -7K/  1K L3 36dB -2913Hz    -6Hz  501      0    141   1
+13| VEL 11K|16K|11K !!
+13|0|PRN 13 -10K/ 10K L3 36dB -2919Hz    -6Hz  501      0    142   1
+13| VEL 10K|16K|10K !!
+13|0|PRN 13 -20K/ -3K L3 35dB -2911Hz    -4Hz  501      1    143   2
+13| VEL 9K|14K|9K !!
+13|0|PRN 13  -7K/ 11K L3 35dB -2921Hz    -5Hz  500      0    139   1
+13| VEL 10K|15K|10K !!
+13|0|PRN 13 -10K/ -3K L3 35dB -2910Hz    -3Hz  500      0    136   2
+13| VEL 9K|12K|9K !!
+13|0|PRN 13 -19K/-11K L3 34dB -2908Hz    -5Hz  501      0    141   1
+13| VEL 9K|14K|9K !!
+13|0|PRN 13 -14K/  4K L3 34dB -2916Hz    -5Hz  501      1    138   1
+13| VEL 9K|13K|9K !!
+13|0|PRN 13 -12K/ 12K L3 34dB -2921Hz    -6Hz  500      0    134   1
+13| VEL 8K|12K|8K !!
+13|0|PRN 13 -18K/  3K L3 34dB -2915Hz    -5Hz  501      0    134   2
+13| VEL 8K|12K|8K !!
+13|0|PRN 13  -5K/ -5K L3 33dB -2908Hz    -3Hz  500      1    132   2
+13| VEL 7K|10K|7K !!
+13|0|PRN 13 -12K/  6K L3 32dB -2920Hz    -3Hz  501      0    141   1
+13| VEL 7K|10K|7K !!
+13|0|PRN 13  16K/ -2K L3 32dB -2917Hz    -5Hz  501      0    127   1
+13| VEL 6K|9K|6K !!
+13|0|PRN 13  15K/  0K L3 31dB -2916Hz    -5Hz  500      1    132   1
+13| VEL 4K|7K|4K !!
+13|0|PRN 13  17K/ -7K L3 30dB -2919Hz    -5Hz  500      0    160   2
+13| VEL 5K|7K|5K !!
+13|0|PRN 13  -9K/ -5K L3 30dB -2911Hz    -4Hz  501      1    137   1
+13| VEL 6K|9K|6K !!
+13|0|PRN 13 -10K/ 11K L2 30dB -2925Hz    -5Hz  500      0    136   2
+13|0|PRN 13 -13K/ -1K L2 30dB -2918Hz    -3Hz  501      0    138   2
+13|0|PRN 13 -10K/ -4K L2 29dB -2917Hz    -4Hz  500      0    139   1
+13|0|PRN 13 -14K/  1K L2 29dB -2919Hz    -6Hz  500      0    141   1
+13|0|PRN 13 -10K/ -2K L2 29dB -2919Hz    -2Hz  501      1    143   2
+13| PRN 13	 CHANNEL OFF (NO LOCK)
+13| PRN 13	 FIN SCAN START -3027 Hz
+13|PRN 13			 SUB-1 19K/0 (-48/531) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 19K/1 (-89/725) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 19K/0 (-151/911) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3279 Hz
+13|PRN 30			 SUB-1 17K/0 (209/642) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 22K/1 (-8/763) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK START 
+13|0|PRN 30   3K/ -4K L0 24dB  3186Hz   -90Hz  498      6    142   2
+13|diff 18021c
+13|0|PRN 30   2K/ -5K L0 24dB  3328Hz  -112Hz  501      6    120   1
+13|diff 21270c
+13|PRN 30	 fin chip_div set!
+13|0|PRN 30   0K/  2K L0 24dB  3323Hz   -11Hz  499      2    139   2
+13|diff 22174c
+13| PRN 30	 CHANNEL OFF (NO LOCK)
+13| PRN 15	 FIN SCAN START -350 Hz
+13|PRN 15			 SUB-1 16K/2 (-255/3534) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 19K/1 (-128/3797) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 18K/2 (240/4159) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 16	 FIN SCAN START -5880 Hz
+13|PRN 16			 SUB-1 18K/0 (-16/3634) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 16			 TRACK START 
+13|0|PRN 16  -2K/  1K L0 24dB -6059Hz    58Hz  499     -4    133   3
+13|diff -65786c
+13|0|PRN 16   8K/ -2K L0 24dB -5937Hz    81Hz  501     -6    126   1
+13|diff -69690c
+13|PRN 16	 fin chip_div set!
+13| PRN 16	 CHANNEL OFF (NO LOCK)
+13| PRN 13	 FIN SCAN START -2857 Hz
+13|PRN 13			 SUB-1 17K/0 (65/583) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 21K/1 (232/862) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 18K/2 (107/1022) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START -490 Hz
+13|PRN 15			 SUB-1 17K/1 (-43/3621) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 21K/0 (143/3909) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 23K/2 (-248/3959) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3129 Hz
+13|PRN 30			 SUB-1 20K/0 (-53/534) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/2 (-123/716) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 20K/0 (-190/900) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2868 Hz
+13|PRN 13			 SUB-1 17K/1 (-13/550) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 18K/1 (-77/735) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 23K/2 (-81/944) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START 5570 Hz
+13|PRN 15			 SUB-1 21K/2 (132/3692) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 19K/0 (-141/3791) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 22K/1 (237/4157) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3099 Hz
+13|PRN 30			 SUB-1 19K/1 (-229/461) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 17K/0 (-117/718) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 20K/2 (210/1063) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -3023 Hz
+13|PRN 13			 SUB-1 18K/2 (137/607) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 20K/0 (244/862) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 21K/2 (142/1031) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START 630 Hz
+13|PRN 15			 SUB-1 17K/0 (-234/3543) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 18K/1 (-74/3819) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 18K/0 (116/4109) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 16	 FIN SCAN START 5450 Hz
+13|PRN 16			 SUB-1 16K/1 (-106/3595) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 16			 SUB-2 18K/1 (-8/3846) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 16			 TRACK START 
+13|0|PRN 16 -10K/  0K L0 24dB  5446Hz   -13Hz  498      5    139   1
+13|diff 65082c
+13|0|PRN 16   0K/ -3K L0 24dB  5422Hz   -44Hz  501      3    139   1
+13|diff 67759c
+13|PRN 16	 fin chip_div set!
+13|0|PRN 16   4K/ -9K L0 -1000dB  5556Hz    34Hz  499     -6    120   1
+13|diff 67988c
+13| PRN 16	 CHANNEL OFF (NO LOCK)
+13| PRN 13	 FIN SCAN START -2848 Hz
+13|PRN 13			 SUB-1 20K/0 (-63/531) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 17K/2 (-116/720) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 20K/2 (-214/891) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START 150 Hz
+13|PRN 15			 SUB-1 21K/1 (109/3683) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 21K/2 (-248/3747) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 20K/1 (-192/3981) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3074 Hz
+13|PRN 30			 SUB-1 24K/0 (-21/547) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/2 (154/830) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 17K/0 (-185/902) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -3064 Hz
+13|PRN 13			 SUB-1 16K/0 (-112/509) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 17K/2 (26/777) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 17K/2 (-98/936) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START 980 Hz
+13|PRN 15			 SUB-1 18K/2 (190/3719) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 17K/2 (22/3861) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK START 
+13|0|PRN 15  -5K/  9K L0 -1000dB   893Hz   -41Hz  498      1    138   1
+13|diff 30975c
+13|0|PRN 15   2K/ -6K L0 24dB   888Hz    94Hz  501     -5    123   1
+13|diff 29530c
+13|PRN 15	 fin chip_div set!
+13|0|PRN 15  -5K/ -4K L0 24dB   909Hz     9Hz  500      2    135   1
+13|diff 28225c
+13| PRN 15	 CHANNEL OFF (NO LOCK)
+13| PRN 13	 FIN SCAN START -2919 Hz
+13|PRN 13			 SUB-1 17K/2 (-143/492) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 17K/2 (173/833) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 18K/1 (-217/884) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START 5060 Hz
+13|PRN 15			 SUB-1 17K/2 (31/3650) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 TRACK START 
+13|0|PRN 15  12K/  5K L0 26dB  5190Hz   -14Hz  499      2    178   4
+13|diff -66096c
+13|0|PRN 15  -6K/ -5K L0 24dB  5049Hz   -24Hz  500      4    135   3
+13|diff -63980c
+13|PRN 15	 fin chip_div set!
+13| PRN 15	 CHANNEL OFF (NO LOCK)
+13| PRN 16	 FIN SCAN START -1160 Hz
+13|PRN 16			 SUB-1 23K/0 (-203/3558) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 16			 SUB-2 17K/1 (251/3955) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 16			 SUB-3 17K/0 (-99/4022) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 16			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3074 Hz
+13|PRN 30			 SUB-1 16K/1 (21/565) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 23K/0 (114/814) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 16K/2 (-96/938) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -3074 Hz
+13|PRN 13			 SUB-1 16K/0 (67/584) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 18K/2 (95/806) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 19K/1 (4/980) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK START 
+13|0|PRN 13   9K/ -1K L0 -1000dB -3104Hz   -41Hz  499      2    143   1
+13|diff 30154c
+13|PRN 13	 fin chip_div set!
+13|0|PRN 13   4K/  1K L0 -1000dB -3154Hz   -97Hz  499      4    142   1
+13|diff 32149c
+13| PRN 13	 CHANNEL OFF (NO LOCK)
+13| PRN 15	 FIN SCAN START 5300 Hz
+13|PRN 15			 SUB-1 19K/1 (173/3717) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 19K/0 (-99/3816) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 17K/1 (146/4128) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3104 Hz
+13|PRN 30			 SUB-1 21K/2 (-255/451) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 19K/0 (-168/698) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 18K/2 (129/1031) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2930 Hz
+13|PRN 13			 SUB-1 21K/2 (137/611) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 20K/1 (246/867) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 19K/2 (-76/945) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START 3720 Hz
+13|PRN 15			 SUB-1 17K/0 (140/3694) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 18K/2 (-221/3756) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 20K/0 (23/4068) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK START 
+13|0|PRN 15   1K/ -9K L0 -1000dB  3841Hz   -24Hz  499      4    134   2
+13|diff -48049c
+13|PRN 15	 fin chip_div set!
+13|0|PRN 15  -4K/  7K L0 24dB  3881Hz    83Hz  500     -8    130   1
+13|diff -47587c
+13| PRN 15	 CHANNEL OFF (NO LOCK)
+13| PRN 13	 FIN SCAN START -3085 Hz
+13|PRN 13			 SUB-1 18K/0 (-4/554) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 TRACK START 
+13|0|PRN 13  -2K/  0K L0 -1000dB -3204Hz    -2Hz  499      1    133   1
+13|diff 9331c
+13|0|PRN 13  -1K/ -3K L0 -1000dB -3256Hz   -18Hz  500      4    137   1
+13|diff 11238c
+13|PRN 13	 fin chip_div set!
+13| PRN 13	 CHANNEL OFF (NO LOCK)
+13| PRN 15	 FIN SCAN START -2080 Hz
+13|PRN 15			 SUB-1 17K/1 (-202/3557) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 21K/2 (124/3902) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 17K/0 (-14/4056) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK START 
+13|0|PRN 15 -10K/ -2K L0 -1000dB -2259Hz     9Hz  499      1    135   2
+13|diff -48773c
+13|PRN 15	 fin chip_div set!
+13|0|PRN 15   1K/  0K L0 -1000dB -2119Hz   -45Hz  500      2    134   2
+13|diff -48076c
+13| PRN 15	 CHANNEL OFF (NO LOCK)
+13| PRN 16	 FIN SCAN START 800 Hz
+13|PRN 16			 SUB-1 24K/0 (79/3674) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 16			 SUB-2 17K/1 (90/3889) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 16			 SUB-3 24K/2 (-223/3971) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 16			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3109 Hz
+13|PRN 30			 SUB-1 18K/0 (189/634) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 22K/0 (163/834) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 24K/1 (-11/973) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -3095 Hz
+13|PRN 13			 SUB-1 19K/0 (199/638) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 16K/0 (-136/711) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 16K/0 (106/1022) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START 2670 Hz
+13|PRN 15			 SUB-1 17K/2 (247/3740) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 19K/2 (198/3931) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 18K/1 (217/4150) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3079 Hz
+13|PRN 30			 SUB-1 17K/2 (-50/535) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 19K/2 (-196/686) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 18K/1 (-185/902) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2891 Hz
+13|PRN 13			 SUB-1 21K/0 (-256/446) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 18K/1 (-72/732) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 21K/0 (99/1014) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START -2960 Hz
+13|PRN 15			 SUB-1 21K/1 (-256/3532) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 19K/1 (-155/3784) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 17K/1 (139/4116) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3079 Hz
+13|PRN 30			 SUB-1 18K/1 (188/628) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 19K/0 (72/792) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 16K/0 (-19/965) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2986 Hz
+13|PRN 13			 SUB-1 19K/1 (-241/457) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 18K/0 (121/817) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 19K/0 (45/997) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 15	 FIN SCAN START -4630 Hz
+13|PRN 15			 SUB-1 17K/1 (-106/3593) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 15			 SUB-2 19K/0 (-202/3765) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 SUB-3 18K/1 (195/4139) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 15			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3139 Hz
+13|PRN 30			 SUB-1 19K/1 (-94/512) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/1 (53/784) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 18K/2 (159/1038) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3115 Hz
+13|PRN 30			 SUB-1 20K/0 (-19/547) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 21K/1 (178/839) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 20K/2 (71/1006) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2912 Hz
+13|PRN 13			 SUB-1 18K/1 (-62/529) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 18K/2 (-98/725) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 20K/0 (-185/901) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3115 Hz
+13|PRN 30			 SUB-1 16K/1 (185/631) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 19K/0 (-99/725) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 17K/1 (195/1057) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3265 Hz
+13|PRN 30			 SUB-1 19K/0 (-100/514) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/0 (155/830) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 19K/1 (197/1058) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3235 Hz
+13|PRN 30			 SUB-1 20K/0 (-173/480) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 22K/2 (-145/702) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 18K/0 (-195/893) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3175 Hz
+13|PRN 30			 SUB-1 17K/0 (128/604) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 20K/2 (198/843) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 20K/2 (-121/923) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3085 Hz
+13|PRN 30			 SUB-1 16K/1 (-104/508) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/2 (154/825) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 20K/2 (9/977) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK START 
+13|0|PRN 30  -8K/-10K L0 24dB  3095Hz   -55Hz  499      3    122   2
+13|diff 63003c
+13|PRN 30	 fin chip_div set!
+13|0|PRN 30  -1K/  5K L0 24dB  3079Hz    18Hz  500      0    141   1
+13|diff 63504c
+13| PRN 30	 CHANNEL OFF (NO LOCK)
+13| PRN 30	 FIN SCAN START 3265 Hz
+13|PRN 30			 SUB-1 17K/2 (92/594) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 19K/2 (-86/731) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 19K/0 (-207/893) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3295 Hz
+13|PRN 30			 SUB-1 22K/1 (-146/492) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/0 (175/835) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 21K/1 (92/1012) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3235 Hz
+13|PRN 30			 SUB-1 19K/1 (-94/517) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/1 (9/771) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK START 
+13|0|PRN 30   8K/  0K L0 24dB  3342Hz    73Hz  498     -4    137   1
+13|diff 24215c
+13|0|PRN 30  -7K/  1K L0 24dB  3449Hz   119Hz  501    -12    120   1
+13|diff 20849c
+13|PRN 30	 fin chip_div set!
+13|0|PRN 30  -8K/ -4K L0 24dB  3731Hz    34Hz  500     -1    127   1
+13|diff 16065c
+13| PRN 30	 CHANNEL OFF (NO LOCK)
+13| PRN 13	 FIN SCAN START -3095 Hz
+13|PRN 13			 SUB-1 17K/0 (-166/487) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 17K/2 (-45/747) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 18K/0 (-220/887) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -2975 Hz
+13|PRN 13			 SUB-1 16K/0 (23/565) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 19K/0 (-251/663) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 15K/0 (-65/950) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -3216 Hz
+13|PRN 13			 SUB-1 17K/0 (209/638) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 17K/0 (18/771) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 18K/2 (-199/892) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3199 Hz
+13|PRN 30			 SUB-1 18K/1 (-253/447) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 17K/2 (-248/660) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 20K/2 (63/999) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3169 Hz
+13|PRN 30			 SUB-1 17K/2 (-150/490) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/0 (-151/701) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 19K/0 (109/1019) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3109 Hz
+13|PRN 30			 SUB-1 18K/0 (-254/452) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/2 (222/858) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 18K/2 (230/1072) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3109 Hz
+13|PRN 30			 SUB-1 18K/1 (-190/477) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 20K/0 (106/810) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 24K/2 (78/1009) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3109 Hz
+13|PRN 30			 SUB-1 19K/1 (-87/519) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 25K/0 (-153/703) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 17K/1 (-8/973) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK START 
+13|0|PRN 30   4K/  3K L0 24dB  3076Hz   -63Hz  499      4    139   2
+13|diff 28421c
+13|PRN 30	 fin chip_div set!
+13|0|PRN 30   8K/ -4K L0 24dB  3100Hz    25Hz  500     -2    164   1
+13|diff 28260c
+13| PRN 30	 CHANNEL OFF (NO LOCK)
+13| PRN 30	 FIN SCAN START 3109 Hz
+13|PRN 30			 SUB-1 18K/0 (-114/505) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/0 (8/767) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK START 
+13|0|PRN 30   0K/ -6K L0 -1000dB  3122Hz   -13Hz  498     -1    137   1
+13|diff -22699c
+13|0|PRN 30  -4K/ -5K L0 24dB  3436Hz    -7Hz  501      0    137   1
+13|diff -22403c
+13|PRN 30	 fin chip_div set!
+13|0|PRN 30   7K/ -3K L0 24dB  3339Hz    15Hz  500      0    122   1
+13|diff -23329c
+13| PRN 30	 CHANNEL OFF (NO LOCK)
+13| PRN 30	 FIN SCAN START 3184 Hz
+13|PRN 30			 SUB-1 18K/0 (-136/495) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 17K/2 (134/817) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 17K/0 (-90/936) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3184 Hz
+13|PRN 30			 SUB-1 19K/1 (-256/450) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/0 (-129/713) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 16K/0 (-163/910) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -3244 Hz
+13|PRN 13			 SUB-1 19K/1 (-121/501) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 18K/2 (154/825) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 18K/0 (-36/958) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3118 Hz
+13|PRN 30			 SUB-1 20K/0 (84/590) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 17K/1 (-97/726) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 22K/2 (176/1049) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3053 Hz
+13|PRN 30			 SUB-1 20K/0 (-48/531) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 21K/0 (163/829) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 16K/1 (-177/900) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3193 Hz
+13|PRN 30			 SUB-1 19K/1 (-84/521) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 17K/0 (-70/738) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 20K/0 (236/1075) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3073 Hz
+13|PRN 30			 SUB-1 23K/2 (232/646) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 19K/1 (31/775) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 17K/1 (178/1046) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3242 Hz
+13|PRN 30			 SUB-1 21K/1 (124/605) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 20K/0 (43/783) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 17K/0 (-163/909) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3242 Hz
+13|PRN 30			 SUB-1 21K/0 (231/649) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/2 (139/822) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 18K/1 (68/1004) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3142 Hz
+13|PRN 30			 SUB-1 19K/2 (149/616) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/2 (-157/701) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 20K/2 (213/1064) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3115 Hz
+13|PRN 30			 SUB-1 21K/0 (-63/529) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 17K/1 (-197/685) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 18K/2 (196/1057) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3200 Hz
+13|PRN 30			 SUB-1 22K/0 (172/624) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 17K/0 (-36/749) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 23K/2 (31/988) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3020 Hz
+13|PRN 30			 SUB-1 17K/2 (46/575) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 17K/1 (9/771) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK START 
+13|0|PRN 30  -2K/  8K L0 -1000dB  2984Hz   -10Hz  498     -2    140   3
+13|diff 7902c
+13|0|PRN 30   4K/ 10K L0 24dB  2956Hz    41Hz  501     -2    129   1
+13|diff 7223c
+13|PRN 30	 fin chip_div set!
+13|0|PRN 30  10K/ -3K L0 24dB  2790Hz    -1Hz  500      0    138   1
+13|diff 6080c
+13| PRN 30	 CHANNEL OFF (NO LOCK)
+13| PRN 30	 FIN SCAN START 3105 Hz
+13|PRN 30			 SUB-1 17K/0 (-178/482) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 20K/0 (11/771) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 17K/0 (239/1075) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3029 Hz
+13|PRN 30			 SUB-1 18K/2 (-238/457) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 19K/0 (-146/706) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 19K/1 (-23/967) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3179 Hz
+13|PRN 30			 SUB-1 17K/0 (143/614) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 23K/0 (217/855) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 17K/1 (-104/934) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 2973 Hz
+13|PRN 30			 SUB-1 20K/1 (63/577) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/0 (239/860) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 20K/1 (224/1065) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3118 Hz
+13|PRN 30			 SUB-1 19K/0 (65/578) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 19K/2 (181/836) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 22K/1 (24/983) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3142 Hz
+13|PRN 30			 SUB-1 17K/2 (-84/520) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 20K/0 (-122/716) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 19K/1 (-221/886) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3012 Hz
+13|PRN 30			 SUB-1 18K/1 (-45/536) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 17K/1 (-253/662) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 21K/1 (-65/950) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 2922 Hz
+13|PRN 30			 SUB-1 20K/1 (244/657) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 23K/1 (-109/723) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 16K/0 (-244/879) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3126 Hz
+13|PRN 30			 SUB-1 20K/2 (-162/484) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 22K/2 (164/829) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 26K/0 (-90/936) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 13	 FIN SCAN START -3125 Hz
+13|PRN 13			 SUB-1 23K/1 (28/567) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 13			 SUB-2 16K/2 (215/854) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 SUB-3 20K/2 (142/1035) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 13			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3021 Hz
+13|PRN 30			 SUB-1 18K/0 (-85/520) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/0 (-242/667) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 18K/0 (57/1001) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3045 Hz
+13|PRN 30			 SUB-1 19K/2 (26/567) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/0 (204/851) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 17K/2 (193/1057) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 2945 Hz
+13|PRN 30			 SUB-1 21K/2 (-133/499) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/2 (-8/761) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK START 
+13|0|PRN 30   5K/ -2K L0 24dB  2893Hz   -47Hz  498      2    141   1
+13|diff -60801c
+13|0|PRN 30 -10K/-11K L0 -1000dB  2995Hz    10Hz  501      0    139   1
+13|diff -60179c
+13|PRN 30	 fin chip_div set!
+13|0|PRN 30   1K/ -3K L0 24dB  2888Hz   -39Hz  499     -1    118   1
+13|diff -59399c
+13| PRN 30	 CHANNEL OFF (NO LOCK)
+13| PRN 30	 FIN SCAN START 2874 Hz
+13|PRN 30			 SUB-1 19K/0 (138/611) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 17K/2 (-228/671) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 18K/0 (-197/895) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3074 Hz
+13|PRN 30			 SUB-1 17K/0 (-33/540) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/0 (-197/684) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 19K/0 (-195/896) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 2873 Hz
+13|PRN 30			 SUB-1 18K/1 (153/618) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 20K/0 (138/823) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 17K/1 (202/1060) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 2832 Hz
+13|PRN 30			 SUB-1 17K/2 (-45/532) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 17K/1 (166/830) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 19K/2 (100/1014) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 3032 Hz
+13|PRN 30			 SUB-1 22K/2 (213/642) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 19K/2 (149/827) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 18K/1 (126/1029) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 2997 Hz
+13|PRN 30			 SUB-1 20K/1 (-146/495) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 22K/2 (-98/725) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 18K/1 (-28/965) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 2961 Hz
+13|PRN 30			 SUB-1 18K/2 (198/636) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 19K/0 (1/767) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK START 
+13|0|PRN 30   0K/  4K L0 -1000dB  2946Hz    -1Hz  498      0    133   3
+13|diff 47582c
+13|0|PRN 30  -3K/ -3K L0 24dB  2977Hz   -32Hz  500      4    140   3
+13|diff 47064c
+13|PRN 30	 fin chip_div set!
+13|0|PRN 30  10K/  5K L0 -1000dB  2973Hz    15Hz  499     -2    139   3
+13|diff 47108c
+13| PRN 30	 CHANNEL OFF (NO LOCK)
+13| PRN 30	 FIN SCAN START 2769 Hz
+13|PRN 30			 SUB-1 19K/0 (-183/481) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 16K/0 (241/866) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 19K/2 (-172/907) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 2884 Hz
+13|PRN 30			 SUB-1 22K/1 (-31/538) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 19K/2 (-35/747) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 20K/0 (8/977) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK START 
+13|0|PRN 30  -1K/ -8K L0 -1000dB  3017Hz   -31Hz  499      4    141   2
+13|diff 55735c
+13|PRN 30	 fin chip_div set!
+13|0|PRN 30   1K/  1K L0 -1000dB  2941Hz   -31Hz  499      1    142   2
+13|diff 56059c
+13| PRN 30	 CHANNEL OFF (NO LOCK)
+13| PRN 30	 FIN SCAN START 2759 Hz
+13|PRN 30			 SUB-1 18K/1 (-178/482) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 19K/0 (-224/674) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 19K/0 (-215/889) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 2740 Hz
+13|PRN 30			 SUB-1 18K/0 (207/636) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 19K/0 (123/813) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 16K/2 (-133/918) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 2670 Hz
+13|PRN 30			 SUB-1 19K/1 (222/646) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 20K/0 (-119/717) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 21K/1 (63/1003) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 2864 Hz
+13|PRN 30			 SUB-1 16K/2 (166/622) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 19K/0 (214/853) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 18K/2 (159/1041) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 2648 Hz
+13|PRN 30			 SUB-1 19K/2 (56/575) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 18K/1 (202/846) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 17K/0 (101/1016) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 2763 Hz
+13|PRN 30			 SUB-1 20K/2 (-165/487) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 17K/0 (172/837) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 18K/2 (-245/876) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK REJECT 
+13| PRN 30	 FIN SCAN START 2627 Hz
+13|PRN 30			 SUB-1 19K/1 (1/556) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 TRACK START 
+13|0|PRN 30   2K/ -3K L0 24dB  2614Hz   -19Hz  499      5    137   2
+13|diff 61587c
+13|0|PRN 30  -5K/ -6K L0 -1000dB  2845Hz    -6Hz  500      2    135   1
+13|diff 61933c
+13|PRN 30	 fin chip_div set!
+13| PRN 30	 CHANNEL OFF (NO LOCK)
+13| PRN 30	 FIN SCAN START 2682 Hz
+13|PRN 30			 SUB-1 20K/0 (209/641) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 30			 SUB-2 17K/2 (-201/683) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 SUB-3 19K/2 (-8/973) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 30			 TRACK START 
+13|0|PRN 30  -4K/ -1K L0 24dB  2639Hz    24Hz  499      0    133   2
+13|diff -37177c
+13|PRN 30	 fin chip_div set!
+13|0|PRN 30   0K/ -3K L0 24dB  2276Hz    45Hz  500     -3    138   1
+13|diff -37110c
+13| PRN 30	 CHANNEL OFF (NO LOCK)
+13| PRN 12	 FIN SCAN START 1634 Hz
+13|PRN 12			 SUB-1 17K/0 (209/640) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 18K/1 (-219/675) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 18K/2 (-94/937) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 31	 FIN SCAN START 3480 Hz
+13|PRN 31			 SUB-1 17K/1 (-104/3595) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 31			 SUB-2 20K/2 (247/3950) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 31			 SUB-3 21K/1 (26/4071) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 31			 TRACK START 
+13|0|PRN 31  -4K/  9K L0 -1000dB  3348Hz    -1Hz  499      0    142   4
+13|diff -53409c
+13|PRN 31	 fin chip_div set!
+13|0|PRN 31  -4K/ -6K L0 -1000dB  3377Hz    21Hz  499      2    135   4
+13|diff -52800c
+13| PRN 31	 CHANNEL OFF (NO LOCK)
+13| PRN 32	 FIN SCAN START -4110 Hz
+13|PRN 32			 SUB-1 19K/0 (-63/3615) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 32			 SUB-2 18K/0 (-210/3766) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 32			 SUB-3 20K/0 (-26/4052) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 32			 TRACK START 
+13|0|PRN 32  -7K/-11K L0 24dB -4209Hz    56Hz  499     -5    138   1
+13|diff -33335c
+13|PRN 32	 fin chip_div set!
+13|0|PRN 32  -2K/-11K L0 24dB -4423Hz    35Hz  500     -3    139   1
+13|diff -34245c
+13| PRN 32	 CHANNEL OFF (NO LOCK)
+13| PRN 24	 FIN SCAN START 5570 Hz
+13|PRN 24			 SUB-1 17K/1 (-80/3604) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 19K/0 (-114/3801) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 19K/2 (-111/4013) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1698 Hz
+13|PRN 12			 SUB-1 18K/1 (90/593) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 21K/2 (225/859) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 20K/0 (3/980) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK START 
+13|0|PRN 12  -3K/ -1K L0 -1000dB  1814Hz    80Hz  499     -3    137   1
+13|diff 30851c
+13|PRN 12	 fin chip_div set!
+13|0|PRN 12   3K/ -3K L0 24dB  1782Hz    38Hz  500     -1    136   1
+13|diff 30638c
+13| PRN 12	 CHANNEL OFF (NO LOCK)
+13| PRN 24	 FIN SCAN START 40 Hz
+13|PRN 24			 SUB-1 18K/1 (-190/3565) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 21K/1 (-8/3850) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK START 
+13|0|PRN 24  -2K/  0K L0 -1000dB    48Hz     9Hz  498      0    140   2
+13|diff 53496c
+13|0|PRN 24   4K/ -5K L0 24dB    -6Hz    -1Hz  500      2    141   2
+13|diff 54668c
+13|PRN 24	 fin chip_div set!
+13|0|PRN 24   0K/ -6K L0 -1000dB  -168Hz   -31Hz  499      0    137   2
+13|diff 55560c
+13| PRN 24	 CHANNEL OFF (NO LOCK)
+13| PRN  6	 FIN SCAN START 140 Hz
+13|PRN  6			 SUB-1 18K/0 (-198/3564) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  6			 SUB-2 19K/2 (-27/3844) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 TRACK START 
+13|0|PRN  6   2K/  8K L0 -1000dB   141Hz   -18Hz  498     -2    136   4
+13|diff -74270c
+13|0|PRN  6   2K/ -6K L0 -1000dB  -146Hz   -30Hz  501      5    131   1
+13|diff -72791c
+13|PRN  6	 fin chip_div set!
+13|0|PRN  6 -11K/  4K L0 -1000dB    16Hz   -46Hz  499      6    119   1
+13|diff -69826c
+13| PRN  6	 CHANNEL OFF (NO LOCK)
+13| PRN 24	 FIN SCAN START -2610 Hz
+13|PRN 24			 SUB-1 20K/2 (-89/3601) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 20K/0 (217/3938) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 19K/2 (-42/4042) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1677 Hz
+13|PRN 12			 SUB-1 22K/1 (-80/523) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 20K/0 (38/783) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 17K/1 (90/1015) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START 1200 Hz
+13|PRN 24			 SUB-1 17K/0 (-56/3615) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 19K/0 (141/3907) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 19K/0 (-92/4022) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK REJECT 
+13| PRN  6	 FIN SCAN START 4450 Hz
+13|PRN  6			 SUB-1 17K/1 (188/3712) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  6			 SUB-2 20K/1 (122/3896) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 SUB-3 17K/0 (67/4085) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1691 Hz
+13|PRN 12			 SUB-1 18K/0 (69/585) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 19K/2 (17/774) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 16K/1 (-202/895) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START -4640 Hz
+13|PRN 24			 SUB-1 18K/0 (-75/3605) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 20K/0 (-119/3798) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 17K/1 (-175/3986) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1681 Hz
+13|PRN 12			 SUB-1 22K/1 (-94/516) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 21K/1 (-55/743) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 19K/2 (-211/890) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START -3990 Hz
+13|PRN 24			 SUB-1 17K/1 (45/3658) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 18K/2 (154/3913) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 18K/0 (-205/3977) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK REJECT 
+13| PRN  6	 FIN SCAN START 5570 Hz
+13|PRN  6			 SUB-1 18K/2 (215/3726) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  6			 SUB-2 18K/2 (230/3943) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 SUB-3 19K/2 (186/4136) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1760 Hz
+13|PRN 12			 SUB-1 20K/1 (-116/503) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 20K/0 (141/820) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 20K/1 (239/1071) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START 1040 Hz
+13|PRN 24			 SUB-1 20K/0 (-212/3550) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 22K/0 (25/3859) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK START 
+13|0|PRN 24   1K/  3K L0 26dB  1108Hz    -6Hz  498     -1    139   1
+13|diff 23426c
+13|0|PRN 24   5K/  9K L0 -1000dB  1031Hz    57Hz  500     -5    140   1
+13|diff 20883c
+13|PRN 24	 fin chip_div set!
+13|0|PRN 24   3K/  6K L0 -1000dB  1012Hz   -31Hz  499      5    172   1
+13|diff 19683c
+13| PRN 24	 CHANNEL OFF (NO LOCK)
+13| PRN  6	 FIN SCAN START -580 Hz
+13|PRN  6			 SUB-1 19K/1 (249/3741) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  6			 SUB-2 18K/0 (62/3876) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 SUB-3 18K/1 (146/4121) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1690 Hz
+13|PRN 12			 SUB-1 16K/0 (216/644) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 18K/1 (-241/667) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 19K/1 (102/1019) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START 3800 Hz
+13|PRN 24			 SUB-1 18K/2 (-8/3634) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 TRACK START 
+13|0|PRN 24   1K/ -7K L0 -1000dB  3733Hz   -14Hz  499     -4    136   4
+13|diff -76736c
+13|0|PRN 24   0K/ -1K L0 24dB  3805Hz    -9Hz  501      0    154   1
+13|diff -77483c
+13|PRN 24	 fin chip_div set!
+13| PRN 24	 CHANNEL OFF (NO LOCK)
+13| PRN  6	 FIN SCAN START 510 Hz
+13|PRN  6			 SUB-1 17K/2 (88/3677) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  6			 SUB-2 21K/0 (197/3933) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 SUB-3 18K/1 (-16/4056) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 TRACK START 
+13|0|PRN  6  -5K/ -2K L0 24dB   557Hz     5Hz  499     -2    136   2
+13|diff 64580c
+13|PRN  6	 fin chip_div set!
+13|0|PRN  6  -7K/  8K L0 24dB   470Hz    37Hz  499      0    136   2
+13|diff 63263c
+13| PRN  6	 CHANNEL OFF (NO LOCK)
+13| PRN 29	 FIN SCAN START -4380 Hz
+13|PRN 29			 SUB-1 22K/1 (-48/3619) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 29			 SUB-2 15K/0 (-188/3773) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 29			 SUB-3 18K/0 (72/4091) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 29			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1663 Hz
+13|PRN 12			 SUB-1 18K/2 (-187/474) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 18K/2 (66/789) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 19K/2 (14/979) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START -4880 Hz
+13|PRN 24			 SUB-1 16K/2 (-138/3579) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 19K/2 (-121/3797) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 18K/2 (-64/4031) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1563 Hz
+13|PRN 12			 SUB-1 17K/2 (-194/471) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 18K/1 (-11/757) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 16K/2 (230/1067) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START -3950 Hz
+13|PRN 24			 SUB-1 18K/2 (232/3729) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 17K/1 (-212/3758) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 19K/1 (-11/4051) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK START 
+13|0|PRN 24  -9K/  0K L0 24dB -3981Hz     4Hz  499      1    140   1
+13|diff 11442c
+13|PRN 24	 fin chip_div set!
+13|0|PRN 24   4K/  4K L0 -1000dB -4099Hz    11Hz  500     -2    135   1
+13|diff 11441c
+13| PRN 24	 CHANNEL OFF (NO LOCK)
+13| PRN  6	 FIN SCAN START -3930 Hz
+13|PRN  6			 SUB-1 20K/2 (-64/3612) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  6			 SUB-2 20K/0 (187/3927) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 SUB-3 20K/1 (-172/3990) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1667 Hz
+13|PRN 12			 SUB-1 19K/0 (-51/534) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 15K/2 (235/862) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 24K/0 (18/985) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START -5170 Hz
+13|PRN 24			 SUB-1 17K/1 (-48/3614) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 19K/2 (112/3891) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 18K/0 (-183/3981) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1657 Hz
+13|PRN 12			 SUB-1 17K/2 (156/620) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 19K/2 (156/831) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 18K/2 (161/1044) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START -4640 Hz
+13|PRN 24			 SUB-1 16K/1 (-104/3594) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 17K/1 (232/3943) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 21K/2 (-18/4051) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK START 
+13|0|PRN 24  -5K/  1K L0 24dB -4509Hz     4Hz  499      4    120   4
+13|diff -39859c
+13|PRN 24	 fin chip_div set!
+13|0|PRN 24  -1K/ -3K L0 24dB -4427Hz    67Hz  500     -4    136   4
+13|diff -40065c
+13| PRN 24	 CHANNEL OFF (NO LOCK)
+13| PRN  6	 FIN SCAN START -1460 Hz
+13|PRN  6			 SUB-1 19K/0 (-114/3594) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  6			 SUB-2 17K/1 (55/3875) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 SUB-3 18K/1 (-170/3993) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1496 Hz
+13|PRN 12			 SUB-1 16K/1 (-224/463) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 22K/0 (114/813) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 21K/1 (171/1047) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START 2010 Hz
+13|PRN 24			 SUB-1 19K/1 (-23/3625) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 TRACK START 
+13|0|PRN 24   5K/ -5K L0 -1000dB  1989Hz   -38Hz  499      1    137   1
+13|diff 23872c
+13|0|PRN 24 -12K/  9K L0 -1000dB  1853Hz   -93Hz  500      8    141   1
+13|diff 26244c
+13|PRN 24	 fin chip_div set!
+13| PRN 24	 CHANNEL OFF (NO LOCK)
+13| PRN  6	 FIN SCAN START -3300 Hz
+13|PRN  6			 SUB-1 17K/0 (170/3709) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  6			 SUB-2 20K/2 (83/3884) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 SUB-3 17K/2 (58/4085) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1540 Hz
+13|PRN 12			 SUB-1 19K/1 (-143/496) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 19K/1 (70/795) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 20K/1 (41/994) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START -4600 Hz
+13|PRN 24			 SUB-1 19K/0 (-178/3563) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 17K/2 (-147/3786) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 19K/0 (-134/4003) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1440 Hz
+13|PRN 12			 SUB-1 18K/2 (-106/512) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 19K/1 (87/803) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 17K/0 (-254/874) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START -4140 Hz
+13|PRN 24			 SUB-1 18K/2 (244/3738) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 18K/0 (48/3869) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 17K/1 (-114/4013) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK REJECT 
+13| PRN  6	 FIN SCAN START -3850 Hz
+13|PRN  6			 SUB-1 17K/0 (67/3667) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  6			 SUB-2 19K/2 (34/3864) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 TRACK START 
+13|0|PRN  6   6K/ -5K L0 -1000dB -3933Hz    22Hz  498     -3    138   1
+13|diff 9902c
+13|0|PRN  6  -3K/  4K L0 24dB -3943Hz    22Hz  501      0    125   1
+13|diff 9752c
+13|PRN  6	 fin chip_div set!
+13|0|PRN  6   5K/ -3K L0 -1000dB -3927Hz   -23Hz  499      0    130   1
+13|diff 9742c
+13| PRN  6	 CHANNEL OFF (NO LOCK)
+13| PRN 24	 FIN SCAN START 4180 Hz
+13|PRN 24			 SUB-1 19K/2 (-57/3618) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 18K/2 (-201/3770) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 17K/1 (-45/4045) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1564 Hz
+13|PRN 12			 SUB-1 19K/2 (-179/481) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 19K/0 (-193/687) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 23K/1 (-241/878) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START 2170 Hz
+13|PRN 24			 SUB-1 18K/0 (145/3698) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 17K/0 (-210/3763) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 17K/2 (-98/4019) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK REJECT 
+13| PRN  6	 FIN SCAN START -5690 Hz
+13|PRN  6			 SUB-1 16K/2 (164/3705) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  6			 SUB-2 17K/0 (-251/3746) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 SUB-3 18K/1 (-202/3977) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  6			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1403 Hz
+13|PRN 12			 SUB-1 18K/1 (43/571) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 17K/0 (55/787) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 17K/2 (151/1037) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START -3110 Hz
+13|PRN 24			 SUB-1 18K/0 (-254/3533) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 18K/0 (62/3874) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 23K/0 (-148/3998) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK REJECT 
+13| PRN 12	 FIN SCAN START 1393 Hz
+13|PRN 12			 SUB-1 17K/0 (238/654) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 12			 SUB-2 22K/2 (-170/697) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 SUB-3 16K/2 (208/1063) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 12			 TRACK REJECT 
+13| PRN 24	 FIN SCAN START -3790 Hz
+13|PRN 24			 SUB-1 19K/2 (-255/3531) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 24			 SUB-2 18K/0 (133/3902) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 SUB-3 18K/2 (-147/3997) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 24			 TRACK REJECT 
+13| PRN  3	 FIN SCAN START -2955 Hz
+13|PRN  3			 SUB-1 19K/1 (121/605) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  3			 SUB-2 16K/0 (23/776) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  3			 SUB-3 20K/0 (209/1063) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  3			 TRACK REJECT 
+13| PRN  3	 FIN SCAN START -2780 Hz
+13|PRN  3			 SUB-1 18K/1 (6/554) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  3			 TRACK START 
+13|0|PRN  3  -1K/  7K L0 24dB -2798Hz  -119Hz  499      9    133   2
+13|diff 12765c
+13|0|PRN  3  -4K/ -4K L0 -1000dB -2655Hz  -152Hz  500     11    132   1
+13|diff 18914c
+13|PRN  3	 fin chip_div set!
+13| PRN  3	 CHANNEL OFF (NO LOCK)
+13| PRN  3	 FIN SCAN START -2845 Hz
+13|PRN  3			 SUB-1 20K/2 (198/636) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  3			 SUB-2 17K/2 (78/798) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  3			 SUB-3 20K/2 (-64/950) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  3			 TRACK REJECT 
+13| PRN  3	 FIN SCAN START -2821 Hz
+13|PRN  3			 SUB-1 19K/2 (-224/464) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN  3			 SUB-2 17K/0 (-195/687) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  3			 SUB-3 20K/0 (-19/970) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN  3			 TRACK REJECT 
+13| PRN 26	 FIN SCAN START -2781 Hz
+13|PRN 26			 SUB-1 20K/2 (132/606) 	 dmp_cnt: 209 rng: [-5070 5122] 
+13|PRN 26			 SUB-2 19K/1 (28/775) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 26			 SUB-3 18K/2 (-243/874) 	 dmp_cnt: 209 rng: [-5067 5125] 
+13|PRN 26			 TRACK REJECT 
